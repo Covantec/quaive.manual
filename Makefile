@@ -20,6 +20,7 @@ help:
 	@echo "  clean      to remove generated files"
 	@echo "  html       to make standalone HTML files"
 	@echo "  html_de    to make standalone Deutsch HTML files"
+	@echo "  html_es    to make standalone Spanish HTML files"
 	@echo "  dirhtml    to make HTML files named index.html in directories"
 	@echo "  singlehtml to make a single large HTML file"
 	@echo "  pickle     to make pickle files"
@@ -68,6 +69,12 @@ html_de: bin/sphinx-build
 	$(SPHINXBUILD) -D language='de' -D html_search_language='de' -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html/de
 	@echo
 	@echo "Build finished. The Deutsch HTML pages are in $(BUILDDIR)/html/de."
+
+.PHONY: html_es
+html_es: bin/sphinx-build
+	$(SPHINXBUILD) -D language='es' -D html_search_language='es' -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html/es
+	@echo
+	@echo "Build finished. The Spanish HTML pages are in $(BUILDDIR)/html/es."
 
 .PHONY: dirhtml
 dirhtml:
