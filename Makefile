@@ -19,6 +19,7 @@ help:
 	@echo "Please use \`make <target>' where <target> is one of"
 	@echo "  clean      to remove generated files"
 	@echo "  html       to make standalone HTML files"
+	@echo "  html_de    to make standalone Deutsch HTML files"
 	@echo "  dirhtml    to make HTML files named index.html in directories"
 	@echo "  singlehtml to make a single large HTML file"
 	@echo "  pickle     to make pickle files"
@@ -60,7 +61,13 @@ clean:
 html: bin/sphinx-build
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	@echo "Build finished. The English (default language) HTML pages are in $(BUILDDIR)/html."
+
+.PHONY: html_de
+html_de: bin/sphinx-build
+	$(SPHINXBUILD) -D language='de' -D html_search_language='de' -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html/de
+	@echo
+	@echo "Build finished. The Deutsch HTML pages are in $(BUILDDIR)/html/de."
 
 .PHONY: dirhtml
 dirhtml:
