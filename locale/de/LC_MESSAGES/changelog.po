@@ -1,0 +1,206 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../changelog.rst:2
+msgid "Changelog"
+msgstr ""
+
+#: ../changelog.rst:4
+msgid ""
+"The latest Quaive release is MARS (version 1.2). The latest community "
+"release is GAIA (version 1.1)."
+msgstr ""
+
+#: ../changelog.rst:9
+msgid "What's new in MARS"
+msgstr ""
+
+#: ../changelog.rst:12 ../changelog.rst:48
+msgid "Apps"
+msgstr ""
+
+#: ../changelog.rst:14
+msgid "Administrator tools"
+msgstr ""
+
+#: ../changelog.rst:15
+msgid "Bookmarks"
+msgstr ""
+
+#: ../changelog.rst:16
+msgid "Calendar"
+msgstr ""
+
+#: ../changelog.rst:17
+msgid "Messages"
+msgstr ""
+
+#: ../changelog.rst:18
+msgid "News publisher"
+msgstr ""
+
+#: ../changelog.rst:19
+msgid "Todo"
+msgstr ""
+
+#: ../changelog.rst:22 ../changelog.rst:63
+msgid "Layout"
+msgstr ""
+
+#: ../changelog.rst:24
+msgid "The dashboard can be customized per user"
+msgstr ""
+
+#: ../changelog.rst:25
+msgid ""
+"Welcome splash screens for the users with can be used to train the users "
+"after an upgrade"
+msgstr ""
+
+#: ../changelog.rst:29 ../changelog.rst:54
+msgid "Workspaces"
+msgstr ""
+
+#: ../changelog.rst:31
+msgid "Improved locking support"
+msgstr ""
+
+#: ../changelog.rst:36
+msgid "What's new in GAIA"
+msgstr ""
+
+#: ../changelog.rst:39
+msgid "Activity stream"
+msgstr ""
+
+#: ../changelog.rst:41
+msgid "it is now enabled also on workspace documents"
+msgstr ""
+
+#: ../changelog.rst:42
+msgid "posts and comments can be edited and deleted"
+msgstr ""
+
+#: ../changelog.rst:43
+msgid "the posts now fully support attachments previews"
+msgstr ""
+
+#: ../changelog.rst:44
+msgid "posts can be tagged and we have a tag streams views"
+msgstr ""
+
+#: ../changelog.rst:45
+msgid "you can follow tags and view a stream filtered to your interests"
+msgstr ""
+
+#: ../changelog.rst:50
+msgid "A pluggable system has been setup to include a growing ecosystem of apps"
+msgstr ""
+
+#: ../changelog.rst:51
+msgid ""
+"The case Manager app allows the users to have a full control on the "
+"ongoing cases"
+msgstr ""
+
+#: ../changelog.rst:56
+msgid ""
+"Extended sidebar functionality. We now have improved bulk actions to cut,"
+" copy, paste, delete, share, and download multiple objects at once"
+msgstr ""
+
+#: ../changelog.rst:57
+msgid "We support archiving workspaces, cases and documents"
+msgstr ""
+
+#: ../changelog.rst:58
+msgid "Workspaces and Cases can be grouped in divisions"
+msgstr ""
+
+#: ../changelog.rst:59
+msgid "Workspaces and Cases can accept guest users"
+msgstr ""
+
+#: ../changelog.rst:60
+msgid "Cases can be frozen"
+msgstr ""
+
+#: ../changelog.rst:65
+msgid "The dashboard page is now customizable site wide"
+msgstr ""
+
+#: ../changelog.rst:66
+msgid ""
+"Added the possibility to easily add some javascript in each page (useful,"
+" e.g. for adding piwik or google analytics tracking code)"
+msgstr ""
+
+#: ../changelog.rst:67
+msgid ""
+"The search UI has grown in functionality. We have a complex faceting "
+"system and the search results are divided in categories (All results, "
+"Peoples, Files, Images)"
+msgstr ""
+
+#: ../changelog.rst:68
+msgid "Each search result has a rich preview."
+msgstr ""
+
+#: ../changelog.rst:69
+msgid ""
+"The search options parameters are automatically stored for each user to "
+"provide a personal experience"
+msgstr ""
+
+#: ../changelog.rst:70
+msgid "User profile improved search for user own documents"
+msgstr ""
+
+#: ../changelog.rst:71
+msgid ""
+"User profile editing improved (avatar and other field controlled through "
+"the web)"
+msgstr ""
+
+#: ../changelog.rst:74
+msgid "Quaive codebase"
+msgstr ""
+
+#: ../changelog.rst:76
+msgid ""
+"Is now tested against the last stable Plone version (5.0.7 at the time of"
+" writing)."
+msgstr ""
+
+#: ../changelog.rst:77
+msgid "The userprofile API has new and more performant methods"
+msgstr ""
+
+#: ../changelog.rst:78
+msgid "SOLR: maintenance views"
+msgstr ""
+
+#: ../changelog.rst:79
+msgid "Membrane groups"
+msgstr ""
+
+#: ../changelog.rst:80
+msgid "WYSIWYG editor switch to redactor"
+msgstr ""
+
