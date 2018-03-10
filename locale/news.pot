@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../news.rst:2
+msgid "News"
+msgstr ""
+
+#: ../news.rst:6
+msgid "News in Quaive shows up in 3 places in the user interface:"
+msgstr ""
+
+#: ../news.rst:14
+msgid "Dashboard news tile"
+msgstr ""
+
+#: ../news.rst:16
+msgid "As a user, when you open the dashboard page you're greeted with a short news listing. The listing is expandable. It only shows news items you personally have not read before."
+msgstr ""
+
+#: ../news.rst:21
+msgid "Some news items are \"must read\". Those will remain visible for you as a user, in the top of the dashboard news tile, until you've marked them as read. Otherwise the news listing here is sorted by publication date, with the most recent items on top."
+msgstr ""
+
+#: ../news.rst:25
+msgid "There's a little button to mark a news item as read, directly from the news listing. Alternatively, you can click on an item and read the full news page for that item. This will also register that you have read the news item, and it will disappear from the dashboard news listing."
+msgstr ""
+
+#: ../news.rst:32
+msgid "News magazine"
+msgstr ""
+
+#: ../news.rst:34
+msgid "The main entry point to consume news is the news magazine, which is accessible via the sidewide toplevel navigation."
+msgstr ""
+
+#: ../news.rst:39
+msgid "The magazine main column opens with a big leader item, and then continues with less prominent news items and a long list of items. From top to bottom and left to right, the sequence of items shown is determined by *effective date* i.e. the publication date, with the most recently published news item on top."
+msgstr ""
+
+#: ../news.rst:45
+msgid "The right column shows a list of *trending* news items. For each news item, the system keeps track of when each user first read that item. The trending column shows those items that have been read for the first time, by most users, in the past 14 days, with the most popular news item on top."
+msgstr ""
+
+#: ../news.rst:50
+msgid "To avoid duplication with the main magazine column, the first four news item in the main magazine will not be shown in the trending column, even if they are very popular."
+msgstr ""
+
+#: ../news.rst:54
+msgid "The news magazine has a *section navigation* that allows you to read only news items within that section."
+msgstr ""
+
+#: ../news.rst:57
+msgid "Only published news items are shown, even if you're logged in as a news editor. If you are logged in as a news editor, there's a pencil icon on each news item that will take you directly to the editing view for that news item, in the news publisher app."
+msgstr ""
+
+#: ../news.rst:64
+msgid "News publisher"
+msgstr ""
+
+#: ../news.rst:66
+msgid "You can find the news publisher app in the *Apps* section of the system. The news publisher is only accessible to users who have been granted the appropriate permissions to create, edit and publish content in the news app."
+msgstr ""
+
+#: ../news.rst:70
+msgid "In the news publisher, the left sidebar always shows you all active news items, grouped per section. Initially this shows 5 news items per section, sorted with the most recently created news items on top. You can load more items per section. You can also completely collapse a section so it only shows the section title."
+msgstr ""
+
+#: ../news.rst:75
+msgid "You can edit a section via the cogwheel icon, and add new sections via the plus icon. You can select whether to hide or display the section description on the magazine page for that section. You can also hide a section from the magazine navigation. Hiding a section will not hide the news items within that section though."
+msgstr ""
+
+#: ../news.rst:80
+msgid "You can only delete a section if there are no news item within that section. You cannot delete the last section, there must always be at least on section."
+msgstr ""
+
+#: ../news.rst:83
+msgid "You can create a news item via the plus icon. Newly created news items will always be assigned to the first section in the sidebar. You can change that in the editing view."
+msgstr ""
+
+#: ../news.rst:86
+msgid "You can collapse and expand the sidebar via a little toggle on the bottom left of the screen, just like you can in other parts of the Quaive system."
+msgstr ""
+
+#: ../news.rst:93
+msgid "Edit news item"
+msgstr ""
+
+#: ../news.rst:95
+msgid "Initially the news publisher opens with a preview of the news magazine in the right column. As soon as you click one of the news items in the sidebar, this will open the edit view for that news item."
+msgstr ""
+
+#: ../news.rst:99
+msgid "You can assign tags, add a description and edit the title and body text for the article."
+msgstr ""
+
+#: ../news.rst:101
+msgid "Because Quaive is designed as a highly visual experience, news items should be given a good hero image. The system will automatically scale that to an appropriate 16x9 rendering in the magazine."
+msgstr ""
+
+#: ../news.rst:105
+msgid "You need to *Save* your changes."
+msgstr ""
+
+#: ../news.rst:107
+msgid "You need to *Publish* the page before it shows up in the news magazine."
+msgstr ""
+
+#: ../news.rst:109
+msgid "The main thing to note here is the small expander icon in the top right, that will toggle the visibility of the metadata fields on and off."
+msgstr ""
+
+#: ../news.rst:112
+msgid "Various metadata fields control where, when and how news items are displayed to users in the news magazine and on the dashboard."
+msgstr ""
+
+#: ../news.rst:115
+msgid "You can control the hero image visibility for the news article page itself, and for the display of this news item on the news overview pages in the magazine."
+msgstr ""
+
+#: ../news.rst:118
+msgid "News items must always have a section"
+msgstr ""
+
+#: ../news.rst:120
+msgid "You can control whether the news item should be visible on the main page of the news magazine. If this is deselected, the news item will only show in the section listing of the magazine and in the news tile."
+msgstr ""
+
+#: ../news.rst:124
+msgid "You can set an item as \"must read\" in which case the item remains visible on the dashboard for those users that have not yet read it, until they read the item."
+msgstr ""
+
+#: ../news.rst:127
+msgid "News items should be given an expiration date so they don't remain visible forever"
+msgstr ""
+

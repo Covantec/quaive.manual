@@ -3,6 +3,7 @@
 ._*
 .*.sw[op]
 _build
+*/.doctrees
 bin
 include
 lib

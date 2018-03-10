@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../apps/administrator-tool/index.rst:2
+msgid "Administrator tool"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:6
+msgid "The applications eases the life of the site administrators."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:10
+msgid "User management"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:12
+msgid "A fully featured user listing view, providing a search and sorting options, allows the administrator to have full control on its site users."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:15
+msgid "The users can be sorted:"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:17
+msgid "Alphabetically"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:18
+msgid "By their state"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:19
+msgid "By creation date"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:20
+msgid "By login date"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:22
+msgid "Through this application it is possible to add a new user and control their state."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:27
+msgid "Screenshots"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:30
+#: ../apps/administrator-tool/index.rst:36
+msgid "The app landing page"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:38
+msgid "It shows all the users sorted alphabetically and with the possibility to search for users. If you have lots of users do not worry! The users are paginated and will load automatically as you scroll the page."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:45
+#: ../apps/administrator-tool/index.rst:51
+msgid "The users sorted by their account status"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:56
+#: ../apps/administrator-tool/index.rst:62
+msgid "The activate/deactivate user confirmation panel"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:64
+msgid "On each rowe of the user listing there is a badge showing the user status. By clicking on it you will be redirected to a panel asking you to confirm if you want to toggle the user state."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:71
+#: ../apps/administrator-tool/index.rst:77
+msgid "The create user panel"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:79
+msgid "By clicking the plus icon in the app landing page it is possible to add a new user. The user will receive an email (be sure your mail setting in the Plone control panel are ok) with a link to reset his password."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:87
+msgid "How can I?"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:90
+msgid "How can I delete a user?"
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:92
+msgid "Deleting a user is discouraged in Quaive, because this could break the \"social\" aspect of the intranet. Any content that a user has created is suddenly without a connection to the creator. That is why in the Administrator Tool, you can only disable a user to prevent further logging in."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:94
+msgid "However, there might be a reason to really delete a users, e.g. if you created a duplicate account. This is possible in the CMS https://cms[yourname].quaivecloud.com/profiles/folder_contents."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:96
+msgid "In the root, click on \"Contents\", then on Profiles. This takes you here: https://cms[yourname].quaivecloud.com/profiles/folder_contents."
+msgstr ""
+
+#: ../apps/administrator-tool/index.rst:98
+msgid "Locate the duplicate profile: just hover over the link to see the URL. Tick the duplicate one, press Delete. Warning: for a new user who has not created any content yet, this should be no problem. But deleting a user this way who has created content already will lead to broken links."
+msgstr ""
+

@@ -50,6 +50,7 @@ bin/sphinx-build:
 	virtualenv .
 	bin/pip install sphinx
 	bin/pip install sphinx_rtd_theme
+	bin/pip install sphinx-intl
 
 .PHONY: clean
 clean:
@@ -184,9 +185,9 @@ info:
 
 .PHONY: gettext
 gettext:
-	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) $(BUILDDIR)/locale
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) ./locale
 	@echo
-	@echo "Build finished. The message catalogs are in $(BUILDDIR)/locale."
+	@echo "Build finished. The message catalogs are in ./locale."
 
 .PHONY: changes
 changes:

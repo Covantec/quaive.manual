@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../apps/bookmarks/index.rst:2
+msgid "Bookmarks"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:6
+msgid "The bookmark app takes care of providing the best way to find the documents you care about."
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:8
+msgid "The app provides you convenient groupings for your bookmarks:"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:10
+msgid "by first letter (the default one)"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:11
+msgid "by workspace"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:12
+msgid "by document creation date"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:13
+msgid "by bookmarking date"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:15
+msgid "Your bookmarking experience is enhanced by the tabs that provide alternatives views that focus on subsets of documents."
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:18
+msgid "We currently have the following:"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:20
+msgid "All bookmarks (the default one)"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:21
+msgid "Apps"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:22
+msgid "Workspaces"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:23
+msgid "People"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:24
+msgid "Documents"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:26
+msgid "Convenients tiles are provided for your dashboard. You can have bookmark tiles:"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:29
+msgid "For all your bookmarked documents (the tile provides a search filter and a most popular bookmarks tab)"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:30
+msgid "For all your bookmarked workspaces"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:31
+msgid "For all your bookmarked apps"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:36
+msgid "Screenshots"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:39
+#: ../apps/bookmarks/index.rst:45
+msgid "The app landing page"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:47
+msgid "It shows all the bookmarks sorted alphabetically and grouped first letter"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:52
+#: ../apps/bookmarks/index.rst:58
+msgid "The bookmarks grouped by workspace"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:60
+msgid "It shows all the bookmarks grouped by workspace"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:64
+#: ../apps/bookmarks/index.rst:70
+msgid "The Workspaces alternative view"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:72
+msgid "It shows all your bookmarked workspaces"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:76
+#: ../apps/bookmarks/index.rst:82
+msgid "The Apps alternative view"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:84
+msgid "It shows all your bookmarked apps"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:88
+#: ../apps/bookmarks/index.rst:94
+msgid "The People alternative view"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:96
+msgid "It shows all your bookmarked people"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:100
+#: ../apps/bookmarks/index.rst:106
+msgid "The Documents alternative view"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:108
+msgid "It shows all your bookmarked docuents"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:112
+#: ../apps/bookmarks/index.rst:118
+msgid "The available bookmark tiles"
+msgstr ""
+
+#: ../apps/bookmarks/index.rst:120
+msgid "They are an amazing shortcut to your favourite content."
+msgstr ""
+

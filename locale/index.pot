@@ -1,0 +1,34 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../index.rst:5
+msgid "Welcome to the Quaive Help Center"
+msgstr ""
+
+#: ../index.rst:7
+msgid "**Use the search bar on the left or pick a category below to find the help you need.**"
+msgstr ""
+
+#: ../index.rst:9
+msgid "This manual is targeted towards end users and power users of Quaive Social Intranet."
+msgstr ""
+
+#: ../index.rst:12
+msgid "If you are a developer, you might want to also look at `the developer documentation`_"
+msgstr ""
+

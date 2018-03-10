@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../search.rst:2
+msgid "Search"
+msgstr ""
+
+#: ../search.rst:6
+msgid "The search is the tool of choice if you know what you are looking for but not exactly where to find it."
+msgstr ""
+
+#: ../search.rst:10
+msgid "Using the search icon"
+msgstr ""
+
+#: ../search.rst:12
+msgid "Among the icons in the top right corner you will find the search icon (a magnifying glass)."
+msgstr ""
+
+#: ../search.rst:16
+msgid "Click it and a text input opens. Enter one or more words that are contained in the document you are looking for."
+msgstr ""
+
+#: ../search.rst:20
+msgid "Submit your input by pressing enter. You are taken to the search results page."
+msgstr ""
+
+#: ../search.rst:25
+msgid "The search results"
+msgstr ""
+
+#: ../search.rst:29
+msgid "A list of results is displayed. The results most relevant to the search are shown at the top of the list. Results will have a preview and/or description where available."
+msgstr ""
+
+#: ../search.rst:33
+msgid "There is an options menu that allows you to"
+msgstr ""
+
+#: ../search.rst:35
+msgid "hide the previews to save some space on your screen"
+msgstr ""
+
+#: ../search.rst:36
+msgid "change the sorting to have the most recent results at the top of the list."
+msgstr ""
+
+#: ../search.rst:40
+msgid "Above the results list you can see how many results were found."
+msgstr ""
+
+#: ../search.rst:47
+msgid "Filters"
+msgstr ""
+
+#: ../search.rst:51
+msgid "If the list is long you can narrow down your search by selecting filters on the left. If, for example, you know the type of document you are looking for then you can select it from the offered document types. The result list is updated to reflect your selection."
+msgstr ""
+
+#: ../search.rst:58
+msgid "Spell checking"
+msgstr ""
+
+#: ../search.rst:62
+msgid "Even if there is a typo in your search you can still find what you are looking for. The search will suggest search words with similar spelling to those you entered."
+msgstr ""
+
+#: ../search.rst:69
+msgid "Alternate result views"
+msgstr ""
+
+#: ../search.rst:73
+msgid "Several specialized results pages help you search for specific things, for example people. They are accessible as tabs on the default results page."
+msgstr ""
+

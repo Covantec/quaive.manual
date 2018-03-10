@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../apps/todo/index.rst:2
+msgid "Todo"
+msgstr ""
+
+#: ../apps/todo/index.rst:6
+msgid "The todo app that allows you to find, create and handle all of your tasks or todo items from a central location."
+msgstr ""
+
+#: ../apps/todo/index.rst:12
+msgid "Sections of the application"
+msgstr ""
+
+#: ../apps/todo/index.rst:14
+msgid "The application always starts with a list of tasks. Once you click on a task to view or edit it, the task list will reduce to a sidebar and the task is shown on the right. The task list can always be restored to its full view again, by clicking on the arrows in the sidebar."
+msgstr ""
+
+#: ../apps/todo/index.rst:20
+msgid "The todo comprises of three main parts:"
+msgstr ""
+
+#: ../apps/todo/index.rst:22
+#: ../apps/todo/index.rst:32
+msgid "All tasks"
+msgstr ""
+
+#: ../apps/todo/index.rst:23
+#: ../apps/todo/index.rst:37
+msgid "My tasks"
+msgstr ""
+
+#: ../apps/todo/index.rst:24
+#: ../apps/todo/index.rst:42
+msgid "Personal task list"
+msgstr ""
+
+#: ../apps/todo/index.rst:34
+msgid "In the all tasks section you may find any task that you created, that is assigned to you or that you have view and/or editing rights on."
+msgstr ""
+
+#: ../apps/todo/index.rst:39
+msgid "My tasks aggregates only tasks that are assigned to you. Either by yourself, or by others."
+msgstr ""
+
+#: ../apps/todo/index.rst:44
+msgid "The personal task list show tickets that are created through the Todo app, which do not live in a Workspace."
+msgstr ""
+
+#: ../apps/todo/index.rst:49
+msgid "Create tasks"
+msgstr ""
+
+#: ../apps/todo/index.rst:51
+msgid "You can created taks by clicking on the button marked with a plus. On the screen that follows, you can enter details about the task, including a title for the task, a longer description about the task, the assignee and the due date."
+msgstr ""
+
+#: ../apps/todo/index.rst:62
+msgid "It's also noteworthy that you can select the destination of the task. By default, tasks end up on your personal task list. But you can also select a workspace in which the task will be created."
+msgstr ""
+
+#: ../apps/todo/index.rst:69
+msgid "Groupings and filters"
+msgstr ""
+
+#: ../apps/todo/index.rst:71
+msgid "You may choose a certain grouping for your tasks that fits your way of working best. If you're monitoring a programme of different projects, it might convenient to group by origin (default). Other grouping methods include: by assignee, initiator, task state (open/closed), priority or no grouping at all."
+msgstr ""
+
+#: ../apps/todo/index.rst:81
+msgid "Besides grouping, it is also possible to change the order in which the tasks are sorted or reduce the items on the list by using any of the filters above the search bar."
+msgstr ""
+
+#: ../apps/todo/index.rst:85
+msgid "Sorting and filters are hidden in the sidebar view and only available in the full list view."
+msgstr ""
+
+#: ../apps/todo/index.rst:90
+msgid "Find tasks"
+msgstr ""
+
+#: ../apps/todo/index.rst:92
+msgid "All tasks on the entire intranet that you have view or edit rights on can be found through the search feature. Just type in a few letters of the title or description of the task you are looking for and it will appear in the list underneath the search box."
+msgstr ""
+
+#: ../apps/todo/index.rst:101
+msgid "Search, filters and groupings can be combined."
+msgstr ""
+
+#: ../apps/todo/index.rst:103
+msgid "You may reset both the search results and the filters by clicking on the button that reads “Reset search and filters”."
+msgstr ""
+
