@@ -2,32 +2,35 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-11 17:38-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../news.rst:2
 msgid "News"
-msgstr ""
+msgstr "Noticias"
 
 #: ../news.rst:6
 msgid "News in Quaive shows up in 3 places in the user interface:"
 msgstr ""
+"Las noticias en Quaive se muestran en 3 lugares en la interfaz de usuario:"
 
 #: ../news.rst:14
 msgid "Dashboard news tile"
-msgstr ""
+msgstr "Mosaico de tablero de Noticias"
 
 #: ../news.rst:16
 msgid ""
@@ -35,6 +38,9 @@ msgid ""
 "news listing. The listing is expandable. It only shows news items you "
 "personally have not read before."
 msgstr ""
+"Como usuario, cuando abres la página del tablero, recibes una breve lista de "
+"noticias. La lista es expandible. Solo muestra noticias que usted "
+"personalmente no ha leído antes."
 
 #: ../news.rst:21
 msgid ""
@@ -43,6 +49,11 @@ msgid ""
 " read. Otherwise the news listing here is sorted by publication date, "
 "with the most recent items on top."
 msgstr ""
+"Algunas noticias son \"debe leer\". Esas serán visibles para usted como "
+"usuario, en la parte superior del panel de noticias del tablero, hasta que "
+"los haya marcado como leídos. De lo contrario, la lista de noticias aquí se "
+"ordena por fecha de publicación, con los artículos más recientes en la parte "
+"superior."
 
 #: ../news.rst:25
 msgid ""
@@ -51,16 +62,23 @@ msgid ""
 "news page for that item. This will also register that you have read the "
 "news item, and it will disappear from the dashboard news listing."
 msgstr ""
+"Hay un pequeño botón para marcar una noticia como leída, directamente de la "
+"lista de noticias. Alternativamente, puede hacer clic en un artículo y leer "
+"la página de noticias completa para ese artículo. Esto también registrará "
+"que ha leído la noticia, y desaparecerá de la lista de noticias del tablero."
 
 #: ../news.rst:32
 msgid "News magazine"
-msgstr ""
+msgstr "Revista de noticias"
 
 #: ../news.rst:34
 msgid ""
 "The main entry point to consume news is the news magazine, which is "
 "accessible via the sidewide toplevel navigation."
 msgstr ""
+"El principal punto de entrada para consumir noticias es la revista de "
+"noticias, a la que se puede acceder a través de la navegación de nivel "
+"superior."
 
 #: ../news.rst:39
 msgid ""
@@ -70,6 +88,11 @@ msgid ""
 "*effective date* i.e. the publication date, with the most recently "
 "published news item on top."
 msgstr ""
+"La columna principal de la revista se abre con un gran artículo líder y "
+"luego continúa con noticias menos destacadas y una larga lista de artículos. "
+"De arriba a abajo y de izquierda a derecha, la secuencia de elementos "
+"mostrada está determinada por *fecha de vigencia*, es decir, la fecha de "
+"publicación, con la última noticia publicada en la parte superior."
 
 #: ../news.rst:45
 msgid ""
@@ -79,6 +102,12 @@ msgid ""
 " by most users, in the past 14 days, with the most popular news item on "
 "top."
 msgstr ""
+"La columna de la derecha muestra una lista de noticias *tendencias*. Para "
+"cada noticia, el sistema realiza un seguimiento de cuándo cada usuario leyó "
+"por primera vez ese elemento. La columna de tendencias muestra aquellos "
+"elementos que han sido leídos por primera vez, por la mayoría de los "
+"usuarios, en los últimos 14 días, con la noticia más popular en la parte "
+"superior."
 
 #: ../news.rst:50
 msgid ""
@@ -86,12 +115,17 @@ msgid ""
 "item in the main magazine will not be shown in the trending column, even "
 "if they are very popular."
 msgstr ""
+"Para evitar la duplicación con la columna de la revista principal, las "
+"primeras cuatro noticias de la revista principal no se mostrarán en la "
+"columna de tendencias, incluso si son muy populares."
 
 #: ../news.rst:54
 msgid ""
 "The news magazine has a *section navigation* that allows you to read only"
 " news items within that section."
 msgstr ""
+"La revista de noticias tiene una *sección de navegación* que le permite leer "
+"solo las noticias dentro de esa sección."
 
 #: ../news.rst:57
 msgid ""
@@ -100,10 +134,14 @@ msgid ""
 "each news item that will take you directly to the editing view for that "
 "news item, in the news publisher app."
 msgstr ""
+"Solo se muestran las noticias publicadas, incluso si ha iniciado sesión como "
+"editor de noticias. Si ha iniciado sesión como editor de noticias, hay un "
+"ícono de lápiz en cada noticia que lo llevará directamente a la vista de "
+"edición de esa noticia, en la aplicación del editor de noticias."
 
 #: ../news.rst:64
 msgid "News publisher"
-msgstr ""
+msgstr "Publicador de Noticias"
 
 #: ../news.rst:66
 msgid ""
@@ -112,6 +150,10 @@ msgid ""
 "appropriate permissions to create, edit and publish content in the news "
 "app."
 msgstr ""
+"Puede encontrar la aplicación de editor de noticias en la sección "
+"*Aplicaciones* del sistema. El editor de noticias solo está disponible para "
+"usuarios a los que se les han otorgado los permisos adecuados para crear, "
+"editar y publicar contenido en la aplicación de noticias."
 
 #: ../news.rst:70
 msgid ""
@@ -121,6 +163,12 @@ msgid ""
 " load more items per section. You can also completely collapse a section "
 "so it only shows the section title."
 msgstr ""
+"En el editor de noticias, la barra lateral izquierda siempre muestra todas "
+"las noticias activas, agrupadas por sección. Inicialmente, esto muestra 5 "
+"noticias por sección, clasificadas con las últimas noticias creadas en la "
+"parte superior. Puede cargar más artículos por sección. También puede "
+"colapsar completamente una sección para que solo muestre el título de la "
+"sección."
 
 #: ../news.rst:75
 msgid ""
@@ -130,6 +178,12 @@ msgid ""
 "section from the magazine navigation. Hiding a section will not hide the "
 "news items within that section though."
 msgstr ""
+"Puede editar una sección a través del icono de rueda dentada y agregar "
+"nuevas secciones a través del icono más. Puede seleccionar si desea ocultar "
+"o mostrar la descripción de la sección en la página de la revista para esa "
+"sección. También puede ocultar una sección de la navegación de la revista. "
+"Sin embargo, ocultar una sección no ocultará las noticias dentro de esa "
+"sección."
 
 #: ../news.rst:80
 msgid ""
@@ -137,6 +191,8 @@ msgid ""
 "section. You cannot delete the last section, there must always be at "
 "least on section."
 msgstr ""
+"Solo puede eliminar una sección si no hay noticias en esa sección. No puede "
+"borrar la última sección, siempre debe haber al menos en la sección."
 
 #: ../news.rst:83
 msgid ""
@@ -144,6 +200,9 @@ msgid ""
 "will always be assigned to the first section in the sidebar. You can "
 "change that in the editing view."
 msgstr ""
+"Puede crear una noticia a través del icono más. Las noticias recién creadas "
+"siempre se asignarán a la primera sección en la barra lateral. Puede cambiar "
+"eso en la vista de edición."
 
 #: ../news.rst:86
 msgid ""
@@ -151,10 +210,13 @@ msgid ""
 " left of the screen, just like you can in other parts of the Quaive "
 "system."
 msgstr ""
+"Puede contraer y expandir la barra lateral mediante un pequeño botón en la "
+"parte inferior izquierda de la pantalla, tal como lo hace en otras partes "
+"del sistema Quaive."
 
 #: ../news.rst:93
 msgid "Edit news item"
-msgstr ""
+msgstr "Editar elemento de Noticias"
 
 #: ../news.rst:95
 msgid ""
@@ -162,12 +224,18 @@ msgid ""
 " the right column. As soon as you click one of the news items in the "
 "sidebar, this will open the edit view for that news item."
 msgstr ""
+"Inicialmente, el editor de noticias abre con una vista previa de la revista "
+"de noticias en la columna de la derecha. Tan pronto como haga clic en una de "
+"las noticias en la barra lateral, se abrirá la vista de edición para esa "
+"noticia."
 
 #: ../news.rst:99
 msgid ""
 "You can assign tags, add a description and edit the title and body text "
 "for the article."
 msgstr ""
+"Puede asignar etiquetas, agregar una descripción y editar el título y el "
+"texto del cuerpo del artículo."
 
 #: ../news.rst:101
 msgid ""
@@ -175,26 +243,36 @@ msgid ""
 "should be given a good hero image. The system will automatically scale "
 "that to an appropriate 16x9 rendering in the magazine."
 msgstr ""
+"Debido a que Quaive está diseñado como una experiencia altamente visual, a "
+"las noticias se les debe dar una buena imagen de héroe. El sistema escalará "
+"automáticamente eso a una representación apropiada de 16x9 en la revista."
 
 #: ../news.rst:105
 msgid "You need to *Save* your changes."
-msgstr ""
+msgstr "Usted necesita *Guardar* sus cambios."
 
 #: ../news.rst:107
 msgid "You need to *Publish* the page before it shows up in the news magazine."
 msgstr ""
+"Necesita *Publicar* la página antes de que aparezca en la revista de "
+"noticias."
 
 #: ../news.rst:109
 msgid ""
 "The main thing to note here is the small expander icon in the top right, "
 "that will toggle the visibility of the metadata fields on and off."
 msgstr ""
+"Lo principal a tener en cuenta aquí es el pequeño ícono de expansión en la "
+"parte superior derecha, que activará y desactivará la visibilidad de los "
+"campos de metadatos."
 
 #: ../news.rst:112
 msgid ""
 "Various metadata fields control where, when and how news items are "
 "displayed to users in the news magazine and on the dashboard."
 msgstr ""
+"Varios campos de metadatos controlan dónde, cuándo y cómo se muestran las "
+"noticias a los usuarios en la revista de noticias y en el tablero."
 
 #: ../news.rst:115
 msgid ""
@@ -202,10 +280,13 @@ msgid ""
 "itself, and for the display of this news item on the news overview pages "
 "in the magazine."
 msgstr ""
+"Puede controlar la visibilidad de la imagen del héroe para la página del "
+"artículo de noticias en sí, y para la visualización de esta noticia en las "
+"páginas de información general de la revista."
 
 #: ../news.rst:118
 msgid "News items must always have a section"
-msgstr ""
+msgstr "Los elements de noticias deben siempre tener una sección"
 
 #: ../news.rst:120
 msgid ""
@@ -213,6 +294,9 @@ msgid ""
 "of the news magazine. If this is deselected, the news item will only show"
 " in the section listing of the magazine and in the news tile."
 msgstr ""
+"Puede controlar si la noticia debe estar visible en la página principal de "
+"la revista de noticias. Si no se selecciona esta opción, la noticia solo se "
+"mostrará en la lista de secciones de la revista y en las noticias."
 
 #: ../news.rst:124
 msgid ""
@@ -220,10 +304,14 @@ msgid ""
 "visible on the dashboard for those users that have not yet read it, until"
 " they read the item."
 msgstr ""
+"Puede establecer un elemento como \"debe leerse\", en cuyo caso el elemento "
+"permanece visible en el tablero para aquellos usuarios que aún no lo hayan "
+"leído, hasta que lo lean."
 
 #: ../news.rst:127
 msgid ""
 "News items should be given an expiration date so they don't remain "
 "visible forever"
 msgstr ""
-
+"Las noticias deben tener una fecha de vencimiento para que no permanezcan "
+"visibles para siempre"
