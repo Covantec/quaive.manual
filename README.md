@@ -33,8 +33,23 @@ First activate the virtualenv:
 
     $ source bin/activate
 
-Update specified language's po files from pot:
+Create specified language's po files from pot files:
 
+    $ sphinx-intl update -p ./locale/ -l <LANG>
+
+**note:** `<LANG>` is the language code to add.
+
+## Updating translations
+
+For update translations you can execute these following command:
+
+First activate the virtualenv:
+
+    $ source bin/activate
+
+Update specified language's po files from pot files:
+
+    $ make gettext
     $ sphinx-intl update -p ./locale/ -l <LANG>
 
 **note:** `<LANG>` is the language code to add.
