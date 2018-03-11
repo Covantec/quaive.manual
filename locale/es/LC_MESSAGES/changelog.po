@@ -2,154 +2,176 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-11 09:02-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../changelog.rst:2
 msgid "Changelog"
-msgstr ""
+msgstr "Registro de cambios"
 
 #: ../changelog.rst:4
 msgid ""
 "The latest Quaive release is MARS (version 1.2). The latest community "
 "release is GAIA (version 1.1)."
 msgstr ""
+"El último lanzamiento de Quaive es MARS (versión 1.2). El último lanzamiento "
+"de la comunidad es GAIA (versión 1.1)."
 
 #: ../changelog.rst:9
 msgid "What's new in MARS"
-msgstr ""
+msgstr "¿Qué de nuevo hay en MARS?"
 
 #: ../changelog.rst:12 ../changelog.rst:48
 msgid "Apps"
-msgstr ""
+msgstr "Aplicaciones"
 
 #: ../changelog.rst:14
 msgid "Administrator tools"
-msgstr ""
+msgstr "Herramientas de administrador"
 
 #: ../changelog.rst:15
 msgid "Bookmarks"
-msgstr ""
+msgstr "Marcadores"
 
 #: ../changelog.rst:16
 msgid "Calendar"
-msgstr ""
+msgstr "Calendario"
 
 #: ../changelog.rst:17
 msgid "Messages"
-msgstr ""
+msgstr "Mensajes"
 
 #: ../changelog.rst:18
 msgid "News publisher"
-msgstr ""
+msgstr "Publicador de Noticias"
 
 #: ../changelog.rst:19
 msgid "Todo"
-msgstr ""
+msgstr "Por hacer"
 
 #: ../changelog.rst:22 ../changelog.rst:63
 msgid "Layout"
-msgstr ""
+msgstr "Portada"
 
 #: ../changelog.rst:24
 msgid "The dashboard can be customized per user"
-msgstr ""
+msgstr "El tablero se puede personalizar por usuario"
 
 #: ../changelog.rst:25
 msgid ""
 "Welcome splash screens for the users with can be used to train the users "
 "after an upgrade"
 msgstr ""
+"Las pantallas de inicio de bienvenida para los usuarios se pueden utilizar "
+"para capacitar a los usuarios después de una actualización"
 
 #: ../changelog.rst:29 ../changelog.rst:54
 msgid "Workspaces"
-msgstr ""
+msgstr "Espacios de trabajo"
 
 #: ../changelog.rst:31
 msgid "Improved locking support"
-msgstr ""
+msgstr "Soporte de bloqueo mejorado"
 
 #: ../changelog.rst:36
 msgid "What's new in GAIA"
-msgstr ""
+msgstr "¿Qué de nuevo hay en GAIA?"
 
 #: ../changelog.rst:39
 msgid "Activity stream"
-msgstr ""
+msgstr "Últimas acciones"
 
 #: ../changelog.rst:41
 msgid "it is now enabled also on workspace documents"
-msgstr ""
+msgstr "ahora está habilitado también en documentos de espacio de trabajo"
 
 #: ../changelog.rst:42
 msgid "posts and comments can be edited and deleted"
-msgstr ""
+msgstr "las publicaciones y los comentarios se pueden editar y eliminar"
 
 #: ../changelog.rst:43
 msgid "the posts now fully support attachments previews"
 msgstr ""
+"las publicaciones ahora son totalmente compatibles con vistas previas de "
+"archivos adjuntos"
 
 #: ../changelog.rst:44
 msgid "posts can be tagged and we have a tag streams views"
 msgstr ""
+"las publicaciones se pueden etiquetar y tenemos vistas de ultimas "
+"actividades de una etiqueta"
 
 #: ../changelog.rst:45
 msgid "you can follow tags and view a stream filtered to your interests"
 msgstr ""
+"puedes seguir las etiquetas y ver una ultima actvidad filtrada según tus "
+"intereses"
 
 #: ../changelog.rst:50
 msgid "A pluggable system has been setup to include a growing ecosystem of apps"
 msgstr ""
+"Un sistema conectable se ha configurado para incluir un ecosistema creciente "
+"de aplicaciones"
 
 #: ../changelog.rst:51
 msgid ""
 "The case Manager app allows the users to have a full control on the "
 "ongoing cases"
 msgstr ""
+"La aplicación Administración de Caso permite a los usuarios tener un control "
+"total sobre los casos en curso"
 
 #: ../changelog.rst:56
 msgid ""
 "Extended sidebar functionality. We now have improved bulk actions to cut,"
 " copy, paste, delete, share, and download multiple objects at once"
 msgstr ""
+"Funcionalidad extendida de la barra lateral. Ahora hemos mejorado las "
+"acciones masivas para cortar, copiar, pegar, eliminar, compartir y descargar "
+"múltiples objetos a la vez"
 
 #: ../changelog.rst:57
 msgid "We support archiving workspaces, cases and documents"
-msgstr ""
+msgstr "Soportamos el archivado de espacios de trabajo, casos y documentos"
 
 #: ../changelog.rst:58
 msgid "Workspaces and Cases can be grouped in divisions"
-msgstr ""
+msgstr "Los espacios de trabajo y los casos se pueden agrupar en divisiones"
 
 #: ../changelog.rst:59
 msgid "Workspaces and Cases can accept guest users"
-msgstr ""
+msgstr "Los espacios de trabajo y los casos puede aceptar usuarios invitados"
 
 #: ../changelog.rst:60
 msgid "Cases can be frozen"
-msgstr ""
+msgstr "Los casos pueden ser congelados"
 
 #: ../changelog.rst:65
 msgid "The dashboard page is now customizable site wide"
-msgstr ""
+msgstr "La página del tablero ahora es personalizable en todo el sitio"
 
 #: ../changelog.rst:66
 msgid ""
 "Added the possibility to easily add some javascript in each page (useful,"
 " e.g. for adding piwik or google analytics tracking code)"
 msgstr ""
+"Se agregó la posibilidad de agregar fácilmente algunos javascript en cada "
+"página (útil, por ejemplo, para agregar el código de seguimiento de piwik o "
+"google analytics)"
 
 #: ../changelog.rst:67
 msgid ""
@@ -157,50 +179,59 @@ msgid ""
 "system and the search results are divided in categories (All results, "
 "Peoples, Files, Images)"
 msgstr ""
+"La interfaz de usuario de búsqueda ha crecido en funcionalidad. Tenemos un "
+"sistema complejo de facetas y los resultados de búsqueda están divididos en "
+"categorías (Todos los resultados, Personas, Archivos, Imágenes)"
 
 #: ../changelog.rst:68
 msgid "Each search result has a rich preview."
-msgstr ""
+msgstr "Cada resultado de búsqueda tiene una vista previa rica."
 
 #: ../changelog.rst:69
 msgid ""
 "The search options parameters are automatically stored for each user to "
 "provide a personal experience"
 msgstr ""
+"Los parámetros de las opciones de búsqueda se almacenan automáticamente para "
+"que cada usuario proporcione una experiencia personal"
 
 #: ../changelog.rst:70
 msgid "User profile improved search for user own documents"
 msgstr ""
+"El perfil de usuario mejoró la búsqueda de documentos propios del usuario"
 
 #: ../changelog.rst:71
 msgid ""
 "User profile editing improved (avatar and other field controlled through "
 "the web)"
 msgstr ""
+"Mejora de la edición del perfil de usuario (avatar y otro campo controlado a "
+"través de la web)"
 
 #: ../changelog.rst:74
 msgid "Quaive codebase"
-msgstr ""
+msgstr "Código base Quaive"
 
 #: ../changelog.rst:76
 msgid ""
 "Is now tested against the last stable Plone version (5.0.7 at the time of"
 " writing)."
 msgstr ""
+"Ahora se prueba con la última versión estable de Plone (5.0.7 en el momento "
+"de la escritura)."
 
 #: ../changelog.rst:77
 msgid "The userprofile API has new and more performant methods"
-msgstr ""
+msgstr "La API de perfil de usuario tiene métodos nuevos y más efectivos"
 
 #: ../changelog.rst:78
 msgid "SOLR: maintenance views"
-msgstr ""
+msgstr "SOLR: vistas de mantenimiento"
 
 #: ../changelog.rst:79
 msgid "Membrane groups"
-msgstr ""
+msgstr "Grupos de Membrane"
 
 #: ../changelog.rst:80
 msgid "WYSIWYG editor switch to redactor"
-msgstr ""
-
+msgstr "El editor WYSIWYG cambia al modo redactor"
