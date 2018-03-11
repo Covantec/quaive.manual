@@ -2,6 +2,7 @@
 .Python
 ._*
 .*.sw[op]
+.mo
 _build
 */.doctrees
 bin
