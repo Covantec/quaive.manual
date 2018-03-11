@@ -1,4 +1,4 @@
-News publisher
-==============
+Messages
+========
 
 .. versionadded:: 1.2
