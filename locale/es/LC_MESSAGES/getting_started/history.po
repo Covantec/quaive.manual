@@ -2,34 +2,38 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-11 08:23-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../getting_started/history.rst:3
 msgid "The History"
-msgstr ""
+msgstr "La historia"
 
 #: ../getting_started/history.rst:6
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: ../getting_started/history.rst:8
 msgid ""
 "This document gives a short overview of the historical genesis of this "
 "project. For the current status, see the Quaive_ website."
 msgstr ""
+"Este documento ofrece una breve descripción de la génesis histórica de este "
+"proyecto. Para conocer el estado actual, consulte el sitio web de Quaive_."
 
 #: ../getting_started/history.rst:10
 msgid ""
@@ -42,6 +46,14 @@ msgid ""
 "competitive in the marketplace (re-selling existing code was becoming a "
 "necessity)."
 msgstr ""
+"El proyecto Plone Intranet comenzó como una discusión entre Netsight y "
+"Cosent en 2013. Al igual que varias compañías de Plone, Netsight ya había "
+"estado trabajando en proyectos de intranet durante algunos años, comenzando "
+"con una intranet a medida para Belron en 2007. En años más recientes "
+"Netsight vio la necesidad de complementar su oferta para mejorar la "
+"capacidad de administración de la base de código, facilitar el soporte de "
+"sus soluciones y ayudar a mantener la competitividad en el mercado (volver a "
+"vender el código existente se estaba convirtiendo en una necesidad)."
 
 #: ../getting_started/history.rst:12
 msgid ""
@@ -50,6 +62,10 @@ msgid ""
 "functionality. Over the years many products have been developed, often "
 "inside individual organisations, with much repetition."
 msgstr ""
+"La idea detrás de este proyecto es construir sobre una serie de paquetes "
+"existentes en el mundo de Plone que ofrecen una funcionalidad tipo intranet. "
+"Con los años se han desarrollado muchos productos, a menudo dentro de "
+"organizaciones individuales, con mucha repetición."
 
 #: ../getting_started/history.rst:14
 msgid ""
@@ -63,6 +79,15 @@ msgid ""
 "Intranet summit in November 2013, and the formation of the Plone Intranet"
 " Consortium, which was later renamed into Quaive_."
 msgstr ""
+"En la Conferencia de Plone 2013, una sesión de espacio abierto indicó que "
+"existían otras empresas de Plone con una historia similar a Netsight en el "
+"mercado de intranet. Con el crecimiento de la industria del trabajo intranet "
+"/ digital, se hizo evidente que varias empresas de Plone vieron la "
+"oportunidad de comercializar en una solución común de Intranet basada en "
+"Plone. Estas discusiones continuaron con otros miembros de la comunidad "
+"Plone que condujeron a la organización de la primera cumbre de Plone "
+"Intranet en noviembre de 2013, y la formación del Consorcio de Plone "
+"Intranet, que más tarde fue rebautizado como Quaive_."
 
 #: ../getting_started/history.rst:16
 msgid ""
@@ -71,34 +96,40 @@ msgid ""
 "those we knew who had an interest and experience with Plone intranets and"
 " who were located within an hour of London."
 msgstr ""
+"Se organizó una reunión en persona para dar seguimiento y una lluvia de "
+"ideas sobre estas ideas dos semanas después de la conferencia. Por "
+"conveniencia, los invitados fueron aquellos que conocíamos que tenían "
+"interés y experiencia con las intranets de Plone y que se encontraban a una "
+"hora de Londres."
 
 #: ../getting_started/history.rst:20
 msgid "This initial meeting was held in London and attended by:"
-msgstr ""
+msgstr "Esta reunión inicial se celebró en Londres y asistieron:"
 
 #: ../getting_started/history.rst:22
 msgid "Matt Hamilton, Matthew Sital-Singh, Ben Ackland - Netsight (UK)"
 msgstr ""
+"Matt Hamilton, Matthew Sital-Singh, Ben Ackland - Netsight (Reino Unido)"
 
 #: ../getting_started/history.rst:23
 msgid "Guido Stevens - Cosent (NL)"
-msgstr ""
+msgstr "Guido Stevens - Cosent (Países Bajos)"
 
 #: ../getting_started/history.rst:24
 msgid "Alexander Pilz - Syslab.com (DE)"
-msgstr ""
+msgstr "Alexander Pilz - Syslab.com (Alemania)"
 
 #: ../getting_started/history.rst:25
 msgid "Rob Gietema - Four Digits (NL)"
-msgstr ""
+msgstr "Rob Gietema - Four Digits (Países Bajos)"
 
 #: ../getting_started/history.rst:26
 msgid "Philip Bauer - Starzel (DE) (remote)"
-msgstr ""
+msgstr "Philip Bauer - Starzel (Alemania) (remoto)"
 
 #: ../getting_started/history.rst:27
 msgid "Bernhard Bühlmann - 4Teamwork (CH) (remote)"
-msgstr ""
+msgstr "Bernhard Bühlmann - 4Teamwork (Suiza) (remoto)"
 
 #: ../getting_started/history.rst:29
 msgid ""
@@ -106,6 +137,9 @@ msgid ""
 "intranets and which have been repeatedly over and over by a number of "
 "similar Plone add-ons."
 msgstr ""
+"Se identificaron varias áreas clave que son requisitos comunes para "
+"intranets y que han sido repetidamente repetidas veces por una cantidad de "
+"complementos Plone similares."
 
 #: ../getting_started/history.rst:32
 msgid ""
@@ -113,6 +147,10 @@ msgid ""
 "number of user stories were collected and organised into a `spreadsheet "
 "<https://docs.google.com/spreadsheet/ccc?key=0AmooreRUAv9PdGg4eG5VWkxZVS1EaWdCQllWWnh1Snc&usp=sharing>`_."
 msgstr ""
+"Después de varias sesiones semanales de Hangout con los participantes, se "
+"recopilaron varias historias de usuarios y se organizaron en una `hoja de "
+"cálculo <https://docs.google.com/spreadsheet/ccc?key=0AmooreRUAv9PdGg4eG5VWkx"
+"ZVS1EaWdCQllWWnh1Snc&usp=sharing>`_."
 
 #: ../getting_started/history.rst:34
 msgid ""
@@ -124,6 +162,14 @@ msgid ""
 "organisation in order to deliver relevant social content and user "
 "interface within an intranet system."
 msgstr ""
+"A principios de 2014, Netsight recibió fondos para investigar software "
+"social dentro de la empresa. Esta subvención se ha utilizado para investigar "
+"nuevas metodologías de proceso para mejorar la tasa de éxito de la "
+"introducción de tecnologías sociales en el entorno de la organización. En "
+"particular, Netsight se ha centrado en crear perfiles de personas, "
+"departamentos y una organización completa con el fin de proporcionar "
+"contenido social relevante e interfaz de usuario dentro de un sistema de "
+"intranet."
 
 #: ../getting_started/history.rst:36
 msgid ""
@@ -132,112 +178,123 @@ msgid ""
 "and manpower. Development was organised using Scrum and a roadmap for a "
 "first version was set."
 msgstr ""
+"En octubre de 2014, el Consorcio de Plone Intranet se reunió en Munich y se "
+"decidió por un compromiso concreto de desarrollar la Plone Intranet "
+"invirtiendo dinero y mano de obra. El desarrollo se organizó utilizando la "
+"metodologia Scrum y se estableció una hoja de ruta para una primera versión."
 
 #: ../getting_started/history.rst:38
 msgid ""
 "In October 2015, the Plone Intranet Consortium was renamed into Quaive "
 "and the first production version of the software suite was released."
 msgstr ""
+"En octubre de 2015, Plone Intranet Consortium pasó a llamarse Quaive y se "
+"lanzó la primera versión de producción del paquete de software."
 
 #: ../getting_started/history.rst:40
 msgid "The founding partners of Quaive are:"
-msgstr ""
+msgstr "Los socios fundadores de Quaive son:"
 
 #: ../getting_started/history.rst:42
 msgid "Netsight (UK)"
-msgstr ""
+msgstr "Netsight (Reino Unido)"
 
 #: ../getting_started/history.rst:43
 msgid "Cosent (Netherlands)"
-msgstr ""
+msgstr "Cosent (Países Bajos)"
 
 #: ../getting_started/history.rst:44
 msgid "Syslab (Germany)"
-msgstr ""
+msgstr "Syslab (Alemania)"
 
 #: ../getting_started/history.rst:45
 msgid "FourDigits (Netherlands)"
-msgstr ""
+msgstr "FourDigits (Países Bajos)"
 
 #: ../getting_started/history.rst:46
 msgid "Abstract (Italy)"
-msgstr ""
+msgstr "Abstract (Italia)"
 
 #: ../getting_started/history.rst:47
 msgid "Red Turtle (Italy)"
-msgstr ""
+msgstr "Red Turtle (Italia)"
 
 #: ../getting_started/history.rst:48
 msgid "Starzel (Germany)"
-msgstr ""
+msgstr "Starzel (Alemania)"
 
 #: ../getting_started/history.rst:49
 msgid "Zest (Netherlands)"
-msgstr ""
+msgstr "Zest (Países Bajos)"
 
 #: ../getting_started/history.rst:52
 msgid "Important Aspects of Plone Intranet"
-msgstr ""
+msgstr "Aspectos importantes de Plone Intranet"
 
 #: ../getting_started/history.rst:54
 msgid "Design First"
-msgstr ""
+msgstr "Primero el diseño"
 
 #: ../getting_started/history.rst:55
 msgid "Roadmap-driven Scrum development"
-msgstr ""
+msgstr "Desarrollo de Scrum impulsado por mapa de ruta"
 
 #: ../getting_started/history.rst:56
 msgid "Quaive board funds roadmap"
-msgstr ""
+msgstr "Hoja de ruta de los fondos de la junta Quaive"
 
 #: ../getting_started/history.rst:57
 msgid "100% Open Source - all code is donated to the Plone Foundation"
-msgstr ""
+msgstr "100% de código abierto - todo el código se dona a la Fundación Plone"
 
 #: ../getting_started/history.rst:58
 msgid "NOT a core fork"
-msgstr ""
+msgstr "NO es un fork de núcleo"
 
 #: ../getting_started/history.rst:59
 msgid "Compatible with mockup"
-msgstr ""
+msgstr "Compatible con mockup"
 
 #: ../getting_started/history.rst:60
 msgid "NOT a €€€ conspiracy"
-msgstr ""
+msgstr "NO es una conspiración de €€€"
 
 #: ../getting_started/history.rst:61
 msgid "Plone 5 based"
-msgstr ""
+msgstr "Basado en Plone 5"
 
 #: ../getting_started/history.rst:65
 msgid "Further reading"
-msgstr ""
+msgstr "Otras lecturas"
 
 #: ../getting_started/history.rst:67
 msgid ""
 "The study `Systems of Intent <http://cosent.nl/roadmap>`_ created by "
 "Guido Stevens"
 msgstr ""
+"El estudio `Systems of Intent <http://cosent.nl/roadmap>`_ creado por Guido "
+"Stevens"
 
 #: ../getting_started/history.rst:68
 msgid "The Talk given at the Plone Conference 2014 in Bristol"
-msgstr ""
+msgstr "La charla impartida en la Conferencia Plone 2014 en Bristol"
 
 #: ../getting_started/history.rst:70
 msgid ""
 "Slides at `Slideshare <http://www.slideshare.net/GuidoStevens/plone-"
 "intranet-consortium-united-we-stand-divided-we-fall>`_"
 msgstr ""
+"Diapositivas en `Slideshare <http://www.slideshare.net/GuidoStevens/plone-"
+"intranet-consortium-united-we-stand-divided-we-fall>`_"
 
 #: ../getting_started/history.rst:71
 msgid "Video at `Vimeo <http://vimeo.com/110489988>`_"
-msgstr ""
+msgstr "Vídeo en `Vimeo <http://vimeo.com/110489988>`_"
 
 #: ../getting_started/history.rst:73
 msgid ""
 "Many talks given at the Plone Conference 2015 in Bucharest, see the "
 "`ploneintranet tweet stream`_"
 msgstr ""
-
+"Muchas charlas dadas en la Conferencia Plone 2015 en Bucarest, ver el `tweet "
+"stream ploneintranet`_"

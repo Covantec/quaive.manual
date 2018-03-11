@@ -2,24 +2,26 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-11 07:20-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../getting_started/index.rst:2
 msgid "Getting Started with Quaive"
-msgstr ""
+msgstr "Comenzando con Quaive"
 
 #: ../getting_started/index.rst:6
 msgid ""
@@ -29,46 +31,59 @@ msgid ""
 "should set things up so that you can get most out of your Quaive Social "
 "Intranet."
 msgstr ""
+"¡Bienvenido a Quaive! Probablemente haya probado Quaive en un servidor de "
+"pruebas o lo haya instalado usted mismo, ¿y ahora quiere configurarlo de "
+"manera real para su organización? Permítanos explicar mejor cómo se organiza "
+"Quaive y cómo debe configurar las cosas para que pueda sacar el máximo "
+"provecho de su Intranet de Quaive Social."
 
 #: ../getting_started/index.rst:8
 msgid ""
 "In Quaive, everything is about People and Content. Here is how it breaks "
 "down:"
 msgstr ""
+"En Quaive, todo se trata de la Gente y su Contenido. Aquí es cómo se "
+"descompone:"
 
 #: ../getting_started/index.rst:10
 msgid "People create Workspaces"
-msgstr ""
+msgstr "Las personas crea espacios de trabajos"
 
 #: ../getting_started/index.rst:11
 msgid "People create content in Workspaces"
-msgstr ""
+msgstr "Las personas crea contenidos en espacios de trabajos"
 
 #: ../getting_started/index.rst:12
 msgid ""
 "The social stream transports what's going on to everybody in the "
 "organisation"
 msgstr ""
+"La accion social transporta  lo que está pasando a todos en la organización"
 
 #: ../getting_started/index.rst:13
 msgid "People post updates to the stream"
 msgstr ""
+"Las personas publican actualizaciones en el muro de las últimas actividades"
 
 #: ../getting_started/index.rst:14
 msgid "Content changes and comments go into the stream"
 msgstr ""
+"Los cambios de contenido y los comentarios entran en el muro de las últimas "
+"actividades"
 
 #: ../getting_started/index.rst:15
 msgid "Apps make it easy to find needed content right away"
 msgstr ""
+"Las aplicaciones hacen fácil buscar el contenido necesario de manera adecuada"
 
 #: ../getting_started/index.rst:16
 msgid "The dashboard aggregates and personalises current information"
-msgstr ""
+msgstr "El tablero agrega y personaliza la información actual"
 
 #: ../getting_started/index.rst:18
 msgid ""
 "To do all of this, you need to prepare a few things. This guide shouldn’t"
 " take you any longer than ten minutes to get through, front-to-back."
 msgstr ""
-
+"Para hacer todo esto, debes preparar algunas cosas. Esta guía no debe "
+"demorar más de diez minutos en llegar, de adelante hacia atrás."

@@ -2,28 +2,30 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-11 07:33-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../getting_started/overview.rst:2
 msgid "Overview"
-msgstr ""
+msgstr "Reseña"
 
 #: ../getting_started/overview.rst:7
 msgid "Quaive is a social intranet collaboration solution."
-msgstr ""
+msgstr "Quaive es una solución de colaboración social en la intranet."
 
 #: ../getting_started/overview.rst:9
 msgid ""
@@ -32,40 +34,49 @@ msgid ""
 "successfully introduce a modern digital workplace into their "
 "organisation."
 msgstr ""
+"Hemos desarrollado específicamente el software Quaive para ofrecer el "
+"equilibrio de las herramientas sociales, la estructura y el proceso que los "
+"clientes demandan para introducir con éxito un lugar de trabajo digital "
+"moderno en su organización."
 
 #: ../getting_started/overview.rst:12
 msgid "Be productive"
-msgstr ""
+msgstr "Se productivo"
 
 #: ../getting_started/overview.rst:12
 msgid "Provide staff with the tools and information they need to get things done"
 msgstr ""
+"Proporcionar al personal las herramientas y la información que necesitan "
+"para hacer las cosas"
 
 #: ../getting_started/overview.rst:15
 msgid "Work together"
-msgstr ""
+msgstr "Trabajar juntos"
 
 #: ../getting_started/overview.rst:15
 msgid ""
 "Strengthen internal communication, engage employees, build a sense of "
 "community"
 msgstr ""
+"Fortalecer la comunicación interna, involucrar a los empleados, construir un "
+"sentido de comunidad"
 
 #: ../getting_started/overview.rst:18
 msgid "Stay organised"
-msgstr ""
+msgstr "Mantente organizado"
 
 #: ../getting_started/overview.rst:18
 msgid "Manage key tasks and common business processes; keep up-to-date"
 msgstr ""
+"Administrar tareas clave y procesos comerciales comunes; mantenerse al día"
 
 #: ../getting_started/overview.rst:22
 msgid "On any device"
-msgstr ""
+msgstr "En cualquier dispositivo"
 
 #: ../getting_started/overview.rst:21
 msgid "Mobile, tablet, laptop, desktop"
-msgstr ""
+msgstr "Móvil, tableta, computadora portátil, escritorio"
 
 #: ../getting_started/overview.rst:24
 msgid ""
@@ -76,32 +87,40 @@ msgid ""
 "dashboard, support to share documents with your team and providing apps, "
 "which are small applications in itself."
 msgstr ""
+"Quaive es una intranet social basada en la web. Sin embargo, debería ver a "
+"Quaive más como una Aplicación que como un Sitio web, aunque hay algunos "
+"aspectos del sitio web, como las noticias o la biblioteca. Realiza muchas "
+"más tareas similares a las tareas para usted, como agregar información en el "
+"tablero, soporte para compartir documentos con su equipo y proporcionar "
+"aplicaciones, que son pequeñas aplicaciones en sí mismas."
 
 #: ../getting_started/overview.rst:26
 msgid "The main sections in Quaive are:"
-msgstr ""
+msgstr "Las secciones principales en Quaive son:"
 
 #: ../getting_started/overview.rst:28
 msgid ""
 "Dashboard - An aggregation of everything that is going on - personalised "
 "for you."
 msgstr ""
+"Tablero - una agregación de todo lo que sucede, personalizado para usted."
 
 #: ../getting_started/overview.rst:29
 msgid "News - A trail of what's going on within your organisation."
-msgstr ""
+msgstr "Noticias - una pista de lo que sucede dentro de su organización."
 
 #: ../getting_started/overview.rst:30
 msgid "Library - All information that concerns everybody in the organisation."
 msgstr ""
+"Biblioteca - toda la información que concierne a todos en la organización."
 
 #: ../getting_started/overview.rst:31
 msgid "Workspaces - All information that concerns your teams."
-msgstr ""
+msgstr "Espacios de trabajo - toda la información que concierne a sus equipos."
 
 #: ../getting_started/overview.rst:32
 msgid "Apps - All information that concerns you."
-msgstr ""
+msgstr "Aplicaciones - toda la información que le concierne."
 
 #: ../getting_started/overview.rst:34
 msgid ""
@@ -111,4 +130,9 @@ msgid ""
 "streamlined solution. The effort is organised in a consortium with "
 "currently 12 members, totalling 49 contributors in 6 countries."
 msgstr ""
-
+"La versión de código abierto de Quaive también se conoce con el nombre de "
+"Plone Intranet y ha sido creada por un equipo de proveedores de soluciones "
+"Plone en un esfuerzo por unificar las soluciones disponibles para intranet "
+"bajo una solución diseñada y optimizada. El esfuerzo se organiza en un "
+"consorcio con actualmente 12 miembros, que suman 49 contribuyentes en 6 "
+"países."

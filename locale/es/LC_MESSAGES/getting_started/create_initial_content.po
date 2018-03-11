@@ -2,34 +2,39 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-11 08:46-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../getting_started/create_initial_content.rst:3
 msgid "Create Initial Content"
-msgstr ""
+msgstr "Crear contenido inicial"
 
 #: ../getting_started/create_initial_content.rst:7
 msgid ""
 "An intranet that is empty is not very enticing. You may want to set up "
 "some initial structure and content to welcome your users."
 msgstr ""
+"Una intranet que está vacía no es muy tentadora. Es posible que desee "
+"configurar una estructura y contenido inicial para dar la bienvenida a sus "
+"usuarios."
 
 #: ../getting_started/create_initial_content.rst:11
 msgid "Library"
-msgstr ""
+msgstr "Biblioteca"
 
 #: ../getting_started/create_initial_content.rst:13
 msgid ""
@@ -38,6 +43,10 @@ msgid ""
 "normally share through a file share, a mapped drive, a server directory "
 "etc."
 msgstr ""
+"La Biblioteca está destinada a proporcionar toda la información relevante "
+"para todos en la organización. Coloque aquí todos los datos que comparte "
+"normalmente a través de un recurso compartido de archivos, un disco mapeado, "
+"un directorio de servidor, etc."
 
 #: ../getting_started/create_initial_content.rst:15
 msgid ""
@@ -46,6 +55,10 @@ msgid ""
 "the library shows directly sections and subsections on the first glance. "
 "This makes it quick to navigate."
 msgstr ""
+"La Biblioteca Quaive no utiliza páginas de nodo para cada sección, por lo "
+"que no tiene que crear una página \"Bienvenido a la Sección X\" en cada "
+"sección. En cambio, la biblioteca muestra directamente secciones y "
+"subsecciones a primera vista. Esto hace que sea rápido navegar."
 
 #: ../getting_started/create_initial_content.rst:19
 msgid ""
@@ -55,6 +68,12 @@ msgid ""
 "process and background facts for users to look up. Another section could "
 "be the one for all the different forms needed to do travel expenses."
 msgstr ""
+"Por lo tanto, cree algunas secciones iniciales para los documentos más "
+"utilizados en su organización. La primera podría ser una sección para la "
+"nueva intranet social, donde puede colocar documentos sobre Quaive, sobre el "
+"proceso de embarque y antecedentes para que los usuarios puedan buscar. Otra "
+"sección podría ser la de todas las formas diferentes necesarias para hacer "
+"los gastos de viaje."
 
 #: ../getting_started/create_initial_content.rst:21
 msgid ""
@@ -63,6 +82,11 @@ msgid ""
 " chance to rethink and to redo the structure, to make it more flat and to"
 " ask your users where they would expect to find items."
 msgstr ""
+"Recuerde: la estructura utilizada en su recurso compartido de archivos no es "
+"necesariamente la misma estructura que usan los usuarios para buscar "
+"contenido. Esta podría ser una buena oportunidad para repensar y rehacer la "
+"estructura, para hacerla más plana y para preguntar a los usuarios dónde "
+"esperarían encontrar los elementos."
 
 #: ../getting_started/create_initial_content.rst:23
 msgid ""
@@ -71,6 +95,11 @@ msgid ""
 "see previews of the result documents right away, finding the right "
 "document will be quicker than before."
 msgstr ""
+"Otro enfoque que ayuda a recuperar información es la búsqueda. Use la "
+"búsqueda de la biblioteca para buscar contenido solo dentro de la "
+"biblioteca. Como puede ver las previsualizaciones de los documentos "
+"resultantes de inmediato, encontrar el documento correcto será más rápido "
+"que antes."
 
 #: ../getting_started/create_initial_content.rst:25
 msgid ""
@@ -78,6 +107,9 @@ msgid ""
 " you have to stick to one structure but you want to also make information"
 " available by another criterion, use tags."
 msgstr ""
+"Y hay etiquetas. Puede etiquetar todos sus documentos en la biblioteca cms. "
+"Si tiene que apegarse a una estructura pero desea también hacer que la "
+"información esté disponible por otro criterio, use etiquetas."
 
 #: ../getting_started/create_initial_content.rst:27
 msgid ""
@@ -85,4 +117,7 @@ msgid ""
 "department has order forms, then tagging them with the tag 'order form' "
 "makes it easy to locate all order forms - company wide."
 msgstr ""
-
+"Ejemplo: su estructura está estrictamente construida por departamento, y "
+"cada departamento tiene formularios de pedido, y luego etiquetarlos con la "
+"etiqueta 'formulario de pedido' facilita la localización de todos los "
+"formularios de pedido, en toda la empresa."

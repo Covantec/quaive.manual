@@ -2,24 +2,26 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-11 08:36-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../getting_started/importing_users.rst:2
 msgid "Importing Users"
-msgstr ""
+msgstr "Importando Usuarios"
 
 #: ../getting_started/importing_users.rst:6
 msgid ""
@@ -28,6 +30,11 @@ msgid ""
 "- from profile image and name to organisation and telefone number. You "
 "can find them in the /profiles folder."
 msgstr ""
+"Para comenzar a trabajar con Quaive, necesita usuarios. Los usuarios se "
+"almacenan como perfiles de usuario en Quaive y almacenan todo lo que Quaive "
+"sabe sobre el usuario, desde la imagen del perfil y el nombre hasta la "
+"organización y el número de teléfono. Puede encontrarlos en la carpeta "
+"/profiles."
 
 #: ../getting_started/importing_users.rst:8
 msgid ""
@@ -37,10 +44,16 @@ msgid ""
 "store more data, Quaive user profiles can store this extra information "
 "for you."
 msgstr ""
+"Los perfiles de usuario se pueden personalizar también. A menudo, las "
+"organizaciones tienen una base de datos central de usuarios que proporciona "
+"la información básica, como el nombre y los detalles de contacto, y se "
+"utiliza principalmente para la autenticación. Si desea almacenar más datos, "
+"los perfiles de usuario de Quaive pueden almacenar esta información "
+"adicional por usted."
 
 #: ../getting_started/importing_users.rst:10
 msgid "There are two ways to get users into Quaive."
-msgstr ""
+msgstr "Hay dos maneras de hacer que los usuarios entren en Quaive."
 
 #: ../getting_started/importing_users.rst:12
 msgid ""
@@ -48,14 +61,18 @@ msgid ""
 "administrator to do that, as it requires knowledge about the "
 "organisations user database configuration."
 msgstr ""
+"Conecte Quaive a LDAP o Active Directory. Póngase en contacto con el "
+"administrador de su sistema para hacerlo, ya que requiere conocimiento sobre "
+"la configuración de la base de datos de usuarios de la organización."
 
 #: ../getting_started/importing_users.rst:14
 msgid "Import Users from a spreadsheet See how it's done below."
 msgstr ""
+"Importar usuarios de una hoja de cálculo Vea cómo se hace a continuación."
 
 #: ../getting_started/importing_users.rst:19
 msgid "Import Users from a spreadsheet"
-msgstr ""
+msgstr "Importar usuarios de una hoja de cálculo"
 
 #: ../getting_started/importing_users.rst:21
 msgid ""
@@ -63,42 +80,54 @@ msgid ""
 "names, and the data is validated before users are created. The first line"
 " needs to contain the field names."
 msgstr ""
+"Hay una carga masiva de la opción CSV. Los nombres de las columnas se "
+"asignan a los nombres de los campos y los datos se validan antes de que se "
+"creen los usuarios. La primera línea debe contener los nombres de los campos."
 
 #: ../getting_started/importing_users.rst:23
 msgid ""
 "To use the bulk upload, visit the @@import-users browser view on the "
 "profiles folder in your site::"
 msgstr ""
+"Para usar la carga masiva, visite la vista del navegador @@import-users en "
+"la carpeta de perfiles de su sitio::"
 
 #: ../getting_started/importing_users.rst:27
 msgid ""
 "On this page, you will see a complete list of avaible field names. Here "
 "is an example of a CSV file that willl create 2 users::"
 msgstr ""
+"En esta página, verá una lista completa de los nombres de campo disponibles. "
+"Aquí hay un ejemplo de un archivo CSV que creará 2 usuarios::"
 
 #: ../getting_started/importing_users.rst:37
 msgid "Portrait images"
-msgstr ""
+msgstr "Imágenes de retrato"
 
 #: ../getting_started/importing_users.rst:39
 msgid ""
 "After creating users with bulk upload, you can even bulk add portrait "
 "images as follows:"
 msgstr ""
+"Después de crear usuarios con carga masiva, puede incluso agregar imágenes "
+"en vertical de forma masiva de la siguiente manera:"
 
 #: ../getting_started/importing_users.rst:41
 msgid ""
 "In the siteroot, via the Barceloneta interface on cms.yoursite.com, add a"
 " Folder ‘avatars’ to the portal root"
 msgstr ""
+"En la raíz del sitio, a través de la interfaz de Barceloneta en "
+"cms.susitio.com, agregue una carpeta 'avatares' a la raíz del portal"
 
 #: ../getting_started/importing_users.rst:42
 msgid ""
 "Upload images into this folder with ids like ‘johndoe.jpg’ matching "
 "userid ‘johndoe’"
 msgstr ""
+"Cargue imágenes en esta carpeta con ids como 'johndoe.jpg' que coincida con "
+"userid 'johndoe'"
 
 #: ../getting_started/importing_users.rst:43
 msgid "Run::"
-msgstr ""
-
+msgstr "Ejecutar::"
