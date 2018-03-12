@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: 2018-03-11 07:20-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
+"PO-Revision-Date: 2018-03-11 22:39-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: es\n"
 "Language: es\n"
@@ -25,7 +25,7 @@ msgstr "Comenzando con Quaive"
 
 #: ../getting_started/index.rst:6
 msgid ""
-"Welcome to Quaive! You have probably tried Quaive on a testserver or "
+"Welcome to Quaive! You have probably tried Quaive on a test server or "
 "installed it yourself, and now you want to configure it for real for your"
 " organisation? Let us explain better how Quaive is organised and how you "
 "should set things up so that you can get most out of your Quaive Social "
@@ -58,23 +58,26 @@ msgid ""
 "The social stream transports what's going on to everybody in the "
 "organisation"
 msgstr ""
-"La accion social transporta  lo que está pasando a todos en la organización"
+"La accion social transporta  lo que está pasando a todos en la "
+"organización"
 
 #: ../getting_started/index.rst:13
 msgid "People post updates to the stream"
 msgstr ""
-"Las personas publican actualizaciones en el muro de las últimas actividades"
+"Las personas publican actualizaciones en el muro de las últimas "
+"actividades"
 
 #: ../getting_started/index.rst:14
 msgid "Content changes and comments go into the stream"
 msgstr ""
-"Los cambios de contenido y los comentarios entran en el muro de las últimas "
-"actividades"
+"Los cambios de contenido y los comentarios entran en el muro de las "
+"últimas actividades"
 
 #: ../getting_started/index.rst:15
 msgid "Apps make it easy to find needed content right away"
 msgstr ""
-"Las aplicaciones hacen fácil buscar el contenido necesario de manera adecuada"
+"Las aplicaciones hacen fácil buscar el contenido necesario de manera "
+"adecuada"
 
 #: ../getting_started/index.rst:16
 msgid "The dashboard aggregates and personalises current information"

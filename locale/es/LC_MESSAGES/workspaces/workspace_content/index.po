@@ -2,16 +2,17 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
+"PO-Revision-Date: 2018-03-10 19:50-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language: es\n"
+"Language-Team: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +20,7 @@ msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:4
 msgid "Create Content"
-msgstr ""
+msgstr "Crear Contenido"
 
 #: ../workspaces/workspace_content/index.rst:6
 msgid ""
@@ -35,7 +36,7 @@ msgid ""
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:13
-msgid "The main content types for workspaces currenty existing in Quaive are:"
+msgid "The main content types for workspaces currently existing in Quaive are:"
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:19
@@ -55,7 +56,7 @@ msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:26
 msgid "Document"
-msgstr ""
+msgstr "Documento"
 
 #: ../workspaces/workspace_content/index.rst:28
 msgid ""
@@ -65,12 +66,12 @@ msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:31
 msgid "How to create a document"
-msgstr ""
+msgstr "Como crear un documento"
 
 #: ../workspaces/workspace_content/index.rst:33
 msgid ""
 "To create a document a workspace, click the dots icon in the sidebar to "
-"open the more menue."
+"open the more menu."
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:37
@@ -92,7 +93,7 @@ msgstr ""
 #: ../workspaces/workspace_content/index.rst:50
 msgid ""
 "Type your text in the given text area of the open document. For "
-"formatting you can use the editor functions above the textarea which "
+"formatting you can use the editor functions above the text-area which "
 "allow basic formatting as list elements, tables and also embedded images "
 "or links."
 msgstr ""
@@ -116,7 +117,7 @@ msgstr ""
 #: ../workspaces/workspace_content/index.rst:64
 msgid ""
 "To add a new folder, click the dots icon in the sidebar to open the more "
-"menue."
+"menu."
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:68
@@ -146,7 +147,7 @@ msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:87
 msgid "Image"
-msgstr ""
+msgstr "Imagen"
 
 #: ../workspaces/workspace_content/index.rst:89
 msgid ""
@@ -163,7 +164,7 @@ msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:95
 msgid "How to upload an image"
-msgstr ""
+msgstr "Como cargar una imagen"
 
 #: ../workspaces/workspace_content/index.rst:97
 msgid ""
@@ -208,7 +209,7 @@ msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:124
 msgid "File"
-msgstr ""
+msgstr "Archivo"
 
 #: ../workspaces/workspace_content/index.rst:126
 msgid ""
@@ -233,11 +234,36 @@ msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:134
 msgid "How to upload a file"
-msgstr ""
+msgstr "Como cargar un archivo"
 
 #: ../workspaces/workspace_content/index.rst:136
 msgid ""
 "Uploading files works exactly the same way as uploading images - so for a"
 " how to please read \"How to upload an image_\""
 msgstr ""
+
+#~ msgid "The main content types for workspaces currenty existing in Quaive are:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To create a document a workspace, "
+#~ "click the dots icon in the sidebar"
+#~ " to open the more menue."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Type your text in the given text"
+#~ " area of the open document. For "
+#~ "formatting you can use the editor "
+#~ "functions above the textarea which allow"
+#~ " basic formatting as list elements, "
+#~ "tables and also embedded images or "
+#~ "links."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To add a new folder, click the "
+#~ "dots icon in the sidebar to open"
+#~ " the more menue."
+#~ msgstr ""
 

@@ -2,24 +2,26 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
+"PO-Revision-Date: 2018-03-11 22:33-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../workspaces/workspace_overview.rst:2
 msgid "Overview"
-msgstr ""
+msgstr "Reseña"
 
 #: ../workspaces/workspace_overview.rst:4
 msgid ""
@@ -30,7 +32,7 @@ msgstr ""
 
 #: ../workspaces/workspace_overview.rst:9
 msgid "Create a workspace"
-msgstr ""
+msgstr "Crear un espacio de trabajo"
 
 #: ../workspaces/workspace_overview.rst:11
 msgid ""
@@ -54,7 +56,7 @@ msgstr ""
 #: ../workspaces/workspace_overview.rst:22
 msgid ""
 "Fill in a title and - if wanted - a short description what this workspace"
-" is about. The pulldown below the description textarea is about the "
+" is about. The pulldown below the description text area is about the "
 "security settings of the workspace. For this first workspace we will use "
 "the default value for the security settings and so will create a self-"
 "managed, private workspace."
@@ -110,7 +112,7 @@ msgstr ""
 
 #: ../workspaces/workspace_overview.rst:48
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: ../workspaces/workspace_overview.rst:50
 msgid ""
@@ -125,7 +127,7 @@ msgstr ""
 
 #: ../workspaces/workspace_overview.rst:61
 msgid "Settings"
-msgstr ""
+msgstr "Configuración"
 
 #: ../workspaces/workspace_overview.rst:63
 msgid ""
@@ -142,7 +144,7 @@ msgstr ""
 
 #: ../workspaces/workspace_overview.rst:74
 msgid "Documents"
-msgstr ""
+msgstr "Documentos"
 
 #: ../workspaces/workspace_overview.rst:76
 msgid "In the documents section all content stored in a workspace is managed."
@@ -156,7 +158,7 @@ msgstr ""
 
 #: ../workspaces/workspace_overview.rst:86
 msgid "Events"
-msgstr ""
+msgstr "Eventos"
 
 #: ../workspaces/workspace_overview.rst:88
 msgid ""
@@ -174,7 +176,7 @@ msgstr ""
 
 #: ../workspaces/workspace_overview.rst:99
 msgid "Tasks"
-msgstr ""
+msgstr "Tareas"
 
 #: ../workspaces/workspace_overview.rst:101
 msgid ""
@@ -190,3 +192,15 @@ msgid ""
 ":`workspace-tasks-label`"
 msgstr ""
 
+#~ msgid ""
+#~ "Fill in a title and - if "
+#~ "wanted - a short description what "
+#~ "this workspace is about. The pulldown"
+#~ " below the description textarea is "
+#~ "about the security settings of the "
+#~ "workspace. For this first workspace we"
+#~ " will use the default value for "
+#~ "the security settings and so will "
+#~ "create a self-managed, private "
+#~ "workspace."
+#~ msgstr ""

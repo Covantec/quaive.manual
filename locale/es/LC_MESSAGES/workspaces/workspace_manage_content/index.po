@@ -2,24 +2,26 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-10 19:53-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../workspaces/workspace_manage_content/index.rst:4
 msgid "Manage Content"
-msgstr ""
+msgstr "Administrar Contenido"
 
 #: ../workspaces/workspace_manage_content/index.rst:6
 msgid ""
@@ -44,61 +46,60 @@ msgstr ""
 
 #: ../workspaces/workspace_manage_content/index.rst:19
 msgid "Group by option"
-msgstr ""
+msgstr "Agrupar por opción"
 
 #: ../workspaces/workspace_manage_content/index.rst:23
 msgid "Sidebar search"
-msgstr ""
+msgstr "Barra lateral de busqueda"
 
 #: ../workspaces/workspace_manage_content/index.rst:27
 msgid "Display options"
-msgstr ""
+msgstr "Opciones de mostrar"
 
 #: ../workspaces/workspace_manage_content/index.rst:29
 msgid "show archived files"
-msgstr ""
+msgstr "mostrar archivos archivados"
 
 #: ../workspaces/workspace_manage_content/index.rst:30
 msgid "show archived tags"
-msgstr ""
+msgstr "mostrar etiquetas archivadas"
 
 #: ../workspaces/workspace_manage_content/index.rst:31
 msgid "show my documents only"
-msgstr ""
+msgstr "mostrar solo mis documentos"
 
 #: ../workspaces/workspace_manage_content/index.rst:35
 msgid "Batch actions"
-msgstr ""
+msgstr "acciones por lote"
 
 #: ../workspaces/workspace_manage_content/index.rst:37
 msgid "select mode"
-msgstr ""
+msgstr "seleccionar modo"
 
 #: ../workspaces/workspace_manage_content/index.rst:38
 msgid "cut/copy/paste"
-msgstr ""
+msgstr "cortar/copiar/pegar"
 
 #: ../workspaces/workspace_manage_content/index.rst:39
 msgid "send"
-msgstr ""
+msgstr "enviar"
 
 #: ../workspaces/workspace_manage_content/index.rst:40
 msgid "archive"
-msgstr ""
+msgstr "archivar"
 
 #: ../workspaces/workspace_manage_content/index.rst:41
 msgid "download"
-msgstr ""
+msgstr "descargar"
 
 #: ../workspaces/workspace_manage_content/index.rst:42
 msgid "delete"
-msgstr ""
+msgstr "eliminar"
 
 #: ../workspaces/workspace_manage_content/index.rst:43
 msgid "re-tag"
-msgstr ""
+msgstr "etiqueta de nuevo"
 
 #: ../workspaces/workspace_manage_content/index.rst:44
 msgid "rename"
-msgstr ""
-
+msgstr "renombrar"

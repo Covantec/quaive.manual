@@ -2,16 +2,17 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
+"PO-Revision-Date: 2018-03-10 19:25-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language: es\n"
+"Language-Team: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +20,7 @@ msgstr ""
 
 #: ../apps/todo/index.rst:2
 msgid "Todo"
-msgstr ""
+msgstr "Por hacer"
 
 #: ../apps/todo/index.rst:6
 msgid ""
@@ -45,15 +46,15 @@ msgstr ""
 
 #: ../apps/todo/index.rst:22 ../apps/todo/index.rst:32
 msgid "All tasks"
-msgstr ""
+msgstr "Todas las tareas"
 
 #: ../apps/todo/index.rst:23 ../apps/todo/index.rst:37
 msgid "My tasks"
-msgstr ""
+msgstr "Mis tareas"
 
 #: ../apps/todo/index.rst:24 ../apps/todo/index.rst:42
 msgid "Personal task list"
-msgstr ""
+msgstr "Lista de tareas personales"
 
 #: ../apps/todo/index.rst:34
 msgid ""
@@ -75,14 +76,14 @@ msgstr ""
 
 #: ../apps/todo/index.rst:49
 msgid "Create tasks"
-msgstr ""
+msgstr "Crear tareas"
 
 #: ../apps/todo/index.rst:51
 msgid ""
-"You can created taks by clicking on the button marked with a plus. On the"
-" screen that follows, you can enter details about the task, including a "
-"title for the task, a longer description about the task, the assignee and"
-" the due date."
+"You can created tasks by clicking on the button marked with a plus. On "
+"the screen that follows, you can enter details about the task, including "
+"a title for the task, a longer description about the task, the assignee "
+"and the due date."
 msgstr ""
 
 #: ../apps/todo/index.rst:62
@@ -94,7 +95,7 @@ msgstr ""
 
 #: ../apps/todo/index.rst:69
 msgid "Groupings and filters"
-msgstr ""
+msgstr "Agrupando y filtros"
 
 #: ../apps/todo/index.rst:71
 msgid ""
@@ -120,7 +121,7 @@ msgstr ""
 
 #: ../apps/todo/index.rst:90
 msgid "Find tasks"
-msgstr ""
+msgstr "Buscar tareas"
 
 #: ../apps/todo/index.rst:92
 msgid ""
@@ -139,4 +140,14 @@ msgid ""
 "You may reset both the search results and the filters by clicking on the "
 "button that reads “Reset search and filters”."
 msgstr ""
+
+#~ msgid ""
+#~ "You can created taks by clicking "
+#~ "on the button marked with a plus."
+#~ " On the screen that follows, you "
+#~ "can enter details about the task, "
+#~ "including a title for the task, a"
+#~ " longer description about the task, "
+#~ "the assignee and the due date."
+#~ msgstr ""
 
