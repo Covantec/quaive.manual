@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../getting_started/overview.rst:2
 msgid "Overview"
-msgstr "Reseña"
+msgstr "Visión general"
 
 #: ../getting_started/overview.rst:7
 msgid "Quaive is a social intranet collaboration solution."

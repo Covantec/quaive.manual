@@ -282,7 +282,7 @@ msgid ""
 msgstr ""
 "Puede controlar la visibilidad de la imagen del héroe para la página del "
 "artículo de noticias en sí, y para la visualización de esta noticia en las "
-"páginas de información general de la revista."
+"páginas de visión general de la revista."
 
 #: ../news.rst:118
 msgid "News items must always have a section"

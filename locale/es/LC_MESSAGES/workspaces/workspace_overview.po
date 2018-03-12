@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../workspaces/workspace_overview.rst:2
 msgid "Overview"
-msgstr "Reseña"
+msgstr "Visión general"
 
 #: ../workspaces/workspace_overview.rst:4
 msgid ""
