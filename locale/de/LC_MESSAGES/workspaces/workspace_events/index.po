@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -106,7 +106,7 @@ msgid "**To** (*required*) (calendar field): the date and time the event ends"
 msgstr ""
 
 #: ../workspaces/workspace_events/index.rst:45
-msgid "**Timezone**: the timezone for the event's start and end times"
+msgid "**Timezone**: the time-zone for the event's start and end times"
 msgstr ""
 
 #: ../workspaces/workspace_events/index.rst:46
@@ -235,4 +235,7 @@ msgid ""
 "application\" in the workspace general settings section as described "
 "here: :ref:`workspace-settings-central-calendar-label`"
 msgstr ""
+
+#~ msgid "**Timezone**: the timezone for the event's start and end times"
+#~ msgstr ""
 

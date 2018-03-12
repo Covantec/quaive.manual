@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,7 +35,7 @@ msgid ""
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:13
-msgid "The main content types for workspaces currenty existing in Quaive are:"
+msgid "The main content types for workspaces currently existing in Quaive are:"
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:19
@@ -70,7 +70,7 @@ msgstr ""
 #: ../workspaces/workspace_content/index.rst:33
 msgid ""
 "To create a document a workspace, click the dots icon in the sidebar to "
-"open the more menue."
+"open the more menu."
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:37
@@ -92,7 +92,7 @@ msgstr ""
 #: ../workspaces/workspace_content/index.rst:50
 msgid ""
 "Type your text in the given text area of the open document. For "
-"formatting you can use the editor functions above the textarea which "
+"formatting you can use the editor functions above the text-area which "
 "allow basic formatting as list elements, tables and also embedded images "
 "or links."
 msgstr ""
@@ -116,7 +116,7 @@ msgstr ""
 #: ../workspaces/workspace_content/index.rst:64
 msgid ""
 "To add a new folder, click the dots icon in the sidebar to open the more "
-"menue."
+"menu."
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:68
@@ -240,4 +240,29 @@ msgid ""
 "Uploading files works exactly the same way as uploading images - so for a"
 " how to please read \"How to upload an image_\""
 msgstr ""
+
+#~ msgid "The main content types for workspaces currenty existing in Quaive are:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To create a document a workspace, "
+#~ "click the dots icon in the sidebar"
+#~ " to open the more menue."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Type your text in the given text"
+#~ " area of the open document. For "
+#~ "formatting you can use the editor "
+#~ "functions above the textarea which allow"
+#~ " basic formatting as list elements, "
+#~ "tables and also embedded images or "
+#~ "links."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To add a new folder, click the "
+#~ "dots icon in the sidebar to open"
+#~ " the more menue."
+#~ msgstr ""
 

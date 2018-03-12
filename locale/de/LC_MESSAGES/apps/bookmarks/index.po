@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,7 +146,7 @@ msgid "The Documents alternative view"
 msgstr ""
 
 #: ../apps/bookmarks/index.rst:108
-msgid "It shows all your bookmarked docuents"
+msgid "It shows all your bookmarked documents"
 msgstr ""
 
 #: ../apps/bookmarks/index.rst:112 ../apps/bookmarks/index.rst:118
@@ -156,4 +156,7 @@ msgstr ""
 #: ../apps/bookmarks/index.rst:120
 msgid "They are an amazing shortcut to your favourite content."
 msgstr ""
+
+#~ msgid "It shows all your bookmarked docuents"
+#~ msgstr ""
 
