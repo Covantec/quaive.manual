@@ -2,7 +2,7 @@ Library
 =======
 .. versionadded:: 1.0
 
-The Library in Quaive is where content for all users of the intrant is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Libray is available to all.
+The Library in Quaive is where content for all users of the intrant is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Library is available to all.
 
 ------------------------------
 Viewing content in the Library
@@ -63,7 +63,7 @@ A click on it will open a little pop-up window where you can choose the destinat
 
 .. image::  images/library-publish-menu.jpeg
 
-In the selection menue, pick the desired section of the Library:
+In the selection menu, pick the desired section of the Library:
 
 .. image::  images/library-publish-menu-details.jpeg
 
@@ -100,4 +100,4 @@ Once you are satisfied and want to make the document available to all users, be 
 
 .. image::  images/library-publish-content-cms.jpeg
 
-For futher reading about editing in the CMS, please refer to `The Plone documentation <http://docs.plone.org/>`_.
+For further reading about editing in the CMS, please refer to `The Plone documentation <http://docs.plone.org/>`_.

@@ -74,7 +74,7 @@ Quaive codebase
 ---------------
 
 - Is now tested against the last stable Plone version (5.0.7 at the time of writing).
-- The userprofile API has new and more performant methods
+- The user profile API has new and more performant methods
 - SOLR: maintenance views
 - Membrane groups
 - WYSIWYG editor switch to redactor

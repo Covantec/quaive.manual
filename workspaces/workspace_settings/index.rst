@@ -91,7 +91,7 @@ Here you can add new members or groups, delete existing ones or change the speci
 Security
 -----------
 On the security panel you can see the current security settings of the workspace. This is called the workspace policy.
-You can get information about the external visibilty, the join policy and the participant policy of a workspace.
+You can get information about the external visibility, the join policy and the participant policy of a workspace.
 All these settings of a workspace can be changed for existing workspaces whenever needed.
 Short explanations offer information about the current and possible options for these settings to make sure what effects on the workspace and it's content a change has.
 
@@ -102,7 +102,7 @@ Short explanations offer information about the current and possible options for 
 -----------
 Advanced
 -----------
-In the avanced settings section extended functionality on a workspace can be found such as setting up related workspaces, division support but also actions like archiving, freezing or deleting the workspace
+In the advanced settings section extended functionality on a workspace can be found such as setting up related workspaces, division support but also actions like archiving, freezing or deleting the workspace
 
 .. image::  ../images/workspace-settings-advanced.png
 

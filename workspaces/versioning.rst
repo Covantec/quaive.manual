@@ -17,7 +17,7 @@ It shows only one entry, for the initial action:
 
 .. image:: images/versioning-history-initial.jpg
 
-We have detected a typo in the Excel file. Therefore we want to upload a new version of it. In the edit form, we tick the checkbox "Save a new version", select the file to upload, and optionally provide a comment that explains the changes made. A click on the "Save" button uploads the file and creates a new version:
+We have detected a typo in the Excel file. Therefore we want to upload a new version of it. In the edit form, we tick the check-box "Save a new version", select the file to upload, and optionally provide a comment that explains the changes made. A click on the "Save" button uploads the file and creates a new version:
 
 .. image:: images/versioning-new-version.jpg
 

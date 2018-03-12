@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgid "This document gives a short overview of the historical genesis of this pr
 msgstr ""
 
 #: ../getting_started/history.rst:10
-msgid "The Plone Intranet project started life as a discussion between Netsight and Cosent back in 2013. Like a number of Plone companies, Netsight had already been working on intranet projects for some years, starting with a bespoke intranet for Belron in 2007. In more recent years Netsight saw the need to componentise their offering to improve manageability of the codebase, to make supporting their solutions easier, and to help remain competitive in the marketplace (re-selling existing code was becoming a necessity)."
+msgid "The Plone Intranet project started life as a discussion between Netsight and Cosent back in 2013. Like a number of Plone companies, Netsight had already been working on intranet projects for some years, starting with a bespoke intranet for Belron in 2007. In more recent years Netsight saw the need to componentise their offering to improve manageability of the code base, to make supporting their solutions easier, and to help remain competitive in the marketplace (re-selling existing code was becoming a necessity)."
 msgstr ""
 
 #: ../getting_started/history.rst:12

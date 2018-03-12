@@ -3,7 +3,7 @@ Getting Started with Quaive
 
 .. versionadded:: 1.0
 
-Welcome to Quaive! You have probably tried Quaive on a testserver or installed it yourself, and now you want to configure it for real for your organisation? Let us explain better how Quaive is organised and how you should set things up so that you can get most out of your Quaive Social Intranet.
+Welcome to Quaive! You have probably tried Quaive on a test server or installed it yourself, and now you want to configure it for real for your organisation? Let us explain better how Quaive is organised and how you should set things up so that you can get most out of your Quaive Social Intranet.
 
 In Quaive, everything is about People and Content. Here is how it breaks down:
 

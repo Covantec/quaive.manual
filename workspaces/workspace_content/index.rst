@@ -10,7 +10,7 @@ There are several content types available to store and manage data in a workspac
 
 .. image::  ../images/workspace-documents-sidebar.png
 
-The main content types for workspaces currenty existing in Quaive are:
+The main content types for workspaces currently existing in Quaive are:
 
 .. contents::
     :depth: 1
@@ -30,7 +30,7 @@ The document is the basic content type in Quaive. Documents are used to store te
 How to create a document
 ++++++++++++++++++++++++
 
-To create a document a workspace, click the dots icon in the sidebar to open the more menue.
+To create a document a workspace, click the dots icon in the sidebar to open the more menu.
 
 .. image::  ../images/create-folder-1.png
 
@@ -47,7 +47,7 @@ Your document is created and can be edited.
 
 .. image::  ../images/create-document-3.png
 
-Type your text in the given text area of the open document. For formatting you can use the editor functions above the textarea which allow basic formatting as list elements, tables and also embedded images or links.
+Type your text in the given text area of the open document. For formatting you can use the editor functions above the text-area which allow basic formatting as list elements, tables and also embedded images or links.
 
 .. image::  ../images/create-document-4.png
 
@@ -61,7 +61,7 @@ A folder has a title and a description and can store all other types of workspac
 How to create a folder
 ++++++++++++++++++++++
 
-To add a new folder, click the dots icon in the sidebar to open the more menue.
+To add a new folder, click the dots icon in the sidebar to open the more menu.
 
 .. image::  ../images/create-folder-1.png
 

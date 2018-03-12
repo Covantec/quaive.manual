@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,7 +68,7 @@ msgid "Create tasks"
 msgstr ""
 
 #: ../apps/todo/index.rst:51
-msgid "You can created taks by clicking on the button marked with a plus. On the screen that follows, you can enter details about the task, including a title for the task, a longer description about the task, the assignee and the due date."
+msgid "You can created tasks by clicking on the button marked with a plus. On the screen that follows, you can enter details about the task, including a title for the task, a longer description about the task, the assignee and the due date."
 msgstr ""
 
 #: ../apps/todo/index.rst:62

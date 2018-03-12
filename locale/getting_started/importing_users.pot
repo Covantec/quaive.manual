@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,11 +21,11 @@ msgid "Importing Users"
 msgstr ""
 
 #: ../getting_started/importing_users.rst:6
-msgid "To start working with Quaive, you need users. Users are stored as user profiles in Quaive and store everything that Quaive knows about the user - from profile image and name to organisation and telefone number. You can find them in the /profiles folder."
+msgid "To start working with Quaive, you need users. Users are stored as user profiles in Quaive and store everything that Quaive knows about the user - from profile image and name to organisation and telephone number. You can find them in the /profiles folder."
 msgstr ""
 
 #: ../getting_started/importing_users.rst:8
-msgid "User profiles can be customised as well. Often, organisations have a central user database which supplies the basic information like name and contact details and is mainly used for authenication. If you want to store more data, Quaive user profiles can store this extra information for you."
+msgid "User profiles can be customised as well. Often, organisations have a central user database which supplies the basic information like name and contact details and is mainly used for authentication. If you want to store more data, Quaive user profiles can store this extra information for you."
 msgstr ""
 
 #: ../getting_started/importing_users.rst:10
@@ -53,7 +53,7 @@ msgid "To use the bulk upload, visit the @@import-users browser view on the prof
 msgstr ""
 
 #: ../getting_started/importing_users.rst:27
-msgid "On this page, you will see a complete list of avaible field names. Here is an example of a CSV file that willl create 2 users::"
+msgid "On this page, you will see a complete list of available field names. Here is an example of a CSV file that will create 2 users::"
 msgstr ""
 
 #: ../getting_started/importing_users.rst:37
@@ -65,7 +65,7 @@ msgid "After creating users with bulk upload, you can even bulk add portrait ima
 msgstr ""
 
 #: ../getting_started/importing_users.rst:41
-msgid "In the siteroot, via the Barceloneta interface on cms.yoursite.com, add a Folder ‘avatars’ to the portal root"
+msgid "In the site root, via the Barceloneta interface on cms.yoursite.com, add a Folder ‘avatars’ to the portal root"
 msgstr ""
 
 #: ../getting_started/importing_users.rst:42

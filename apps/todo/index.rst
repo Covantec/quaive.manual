@@ -48,7 +48,7 @@ The personal task list show tickets that are created through the Todo app, which
 Create tasks
 ------------
 
-You can created taks by clicking on the button marked with a plus.
+You can created tasks by clicking on the button marked with a plus.
 On the screen that follows,
 you can enter details about the task,
 including a title for the task,

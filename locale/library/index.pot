@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "Library"
 msgstr ""
 
 #: ../library/index.rst:5
-msgid "The Library in Quaive is where content for all users of the intrant is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Libray is available to all."
+msgid "The Library in Quaive is where content for all users of the intrant is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Library is available to all."
 msgstr ""
 
 #: ../library/index.rst:9
@@ -89,7 +89,7 @@ msgid "A click on it will open a little pop-up window where you can choose the d
 msgstr ""
 
 #: ../library/index.rst:66
-msgid "In the selection menue, pick the desired section of the Library:"
+msgid "In the selection menu, pick the desired section of the Library:"
 msgstr ""
 
 #: ../library/index.rst:71
@@ -125,6 +125,6 @@ msgid "Once you are satisfied and want to make the document available to all use
 msgstr ""
 
 #: ../library/index.rst:103
-msgid "For futher reading about editing in the CMS, please refer to `The Plone documentation <http://docs.plone.org/>`_."
+msgid "For further reading about editing in the CMS, please refer to `The Plone documentation <http://docs.plone.org/>`_."
 msgstr ""
 

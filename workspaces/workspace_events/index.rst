@@ -42,7 +42,7 @@ We will take a closer look to the fields on the create events form. From the top
 * **All day event**: when this is selected, the start and end time settings of the event are ignored
 * **From** (*required*) (calendar field): the date and time the event starts
 * **To** (*required*) (calendar field): the date and time the event ends
-* **Timezone**: the timezone for the event's start and end times
+* **Timezone**: the time-zone for the event's start and end times
 * **Invitees** (user picker field): the users that are invited to the event
 
 Only the title field and the start and end date and time are required. All other fields are optional and can also be left blank.

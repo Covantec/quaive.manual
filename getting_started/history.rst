@@ -7,7 +7,7 @@ The History
 
     This document gives a short overview of the historical genesis of this project. For the current status, see the Quaive_ website.
 
-The Plone Intranet project started life as a discussion between Netsight and Cosent back in 2013. Like a number of Plone companies, Netsight had already been working on intranet projects for some years, starting with a bespoke intranet for Belron in 2007. In more recent years Netsight saw the need to componentise their offering to improve manageability of the codebase, to make supporting their solutions easier, and to help remain competitive in the marketplace (re-selling existing code was becoming a necessity).
+The Plone Intranet project started life as a discussion between Netsight and Cosent back in 2013. Like a number of Plone companies, Netsight had already been working on intranet projects for some years, starting with a bespoke intranet for Belron in 2007. In more recent years Netsight saw the need to componentise their offering to improve manageability of the code base, to make supporting their solutions easier, and to help remain competitive in the marketplace (re-selling existing code was becoming a necessity).
 
 The idea behind this project is to build upon a number of existing packages out there in the Plone world that provide intranet-like functionality. Over the years many products have been developed, often inside individual organisations, with much repetition.
 

@@ -105,7 +105,7 @@ The Documents alternative view
 
     The Documents alternative view
 
-    It shows all your bookmarked docuents
+    It shows all your bookmarked documents
 
 
 The available bookmark tiles

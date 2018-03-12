@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -172,7 +172,7 @@ msgid "Is now tested against the last stable Plone version (5.0.7 at the time of
 msgstr ""
 
 #: ../changelog.rst:77
-msgid "The userprofile API has new and more performant methods"
+msgid "The user profile API has new and more performant methods"
 msgstr ""
 
 #: ../changelog.rst:78

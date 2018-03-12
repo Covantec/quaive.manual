@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -101,7 +101,7 @@ msgid "Security"
 msgstr ""
 
 #: ../workspaces/workspace_settings/index.rst:93
-msgid "On the security panel you can see the current security settings of the workspace. This is called the workspace policy. You can get information about the external visibilty, the join policy and the participant policy of a workspace. All these settings of a workspace can be changed for existing workspaces whenever needed. Short explanations offer information about the current and possible options for these settings to make sure what effects on the workspace and it's content a change has."
+msgid "On the security panel you can see the current security settings of the workspace. This is called the workspace policy. You can get information about the external visibility, the join policy and the participant policy of a workspace. All these settings of a workspace can be changed for existing workspaces whenever needed. Short explanations offer information about the current and possible options for these settings to make sure what effects on the workspace and it's content a change has."
 msgstr ""
 
 #: ../workspaces/workspace_settings/index.rst:104
@@ -109,6 +109,6 @@ msgid "Advanced"
 msgstr ""
 
 #: ../workspaces/workspace_settings/index.rst:105
-msgid "In the avanced settings section extended functionality on a workspace can be found such as setting up related workspaces, division support but also actions like archiving, freezing or deleting the workspace"
+msgid "In the advanced settings section extended functionality on a workspace can be found such as setting up related workspaces, division support but also actions like archiving, freezing or deleting the workspace"
 msgstr ""
 

@@ -20,7 +20,7 @@ After clicking the plus icon, a form opens for creating the new workspace
 .. image::  images/create-workspace-2.png
 
 Fill in a title and - if wanted - a short description what this workspace is about.
-The pulldown below the description textarea is about the security settings of the workspace.
+The pulldown below the description text area is about the security settings of the workspace.
 For this first workspace we will use the default value for the security settings and so will create a self-managed, private workspace.
 
 **Note:** You can see the different options when looking at the pulldown values and can get information about the different security policies and their effects on the workspace accessibility when selecting them. For more information on security policies please take a look here: :ref:`workspace-settings-security-label`

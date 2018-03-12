@@ -31,7 +31,7 @@ The app landing page
 
 .. figure:: ../images/administrator-tools-user-searched.png
     :scale: 50%
-    :alt: admiinistrator tools landing page
+    :alt: administrator tools landing page
 
     The app landing page
 
@@ -61,7 +61,7 @@ The activate/deactivate user confirmation panel
 
     The activate/deactivate user confirmation panel
 
-    On each rowe of the user listing there is a badge showing the user status.
+    On each row of the user listing there is a badge showing the user status.
     By clicking on it you will be redirected to a panel asking you to confirm
     if you want to toggle the user state.
 
