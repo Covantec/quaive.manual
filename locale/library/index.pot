@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-11 22:31-0400\n"
+"POT-Creation-Date: 2018-03-12 08:25-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "Library"
 msgstr ""
 
 #: ../library/index.rst:5
-msgid "The Library in Quaive is where content for all users of the intrant is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Library is available to all."
+msgid "The Library in Quaive is where content for all users of the intranet is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Library is available to all."
 msgstr ""
 
 #: ../library/index.rst:9

@@ -2,7 +2,7 @@ Library
 =======
 .. versionadded:: 1.0
 
-The Library in Quaive is where content for all users of the intrant is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Library is available to all.
+The Library in Quaive is where content for all users of the intranet is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Library is available to all.
 
 ------------------------------
 Viewing content in the Library
