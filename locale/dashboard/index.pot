@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-10 14:17-0400\n"
+"POT-Creation-Date: 2018-03-12 07:03-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,6 +73,6 @@ msgid "The customizable dashboard allows each user to boost the focus on what he
 msgstr ""
 
 #: ../dashboard/index.rst:45
-msgid "After clicking the top right pencil icon, the user can reorder, hide, shrink or exand the dashboard tiles."
+msgid "After clicking the top right pencil icon, the user can reorder, hide, shrink or expand the dashboard tiles."
 msgstr ""
 

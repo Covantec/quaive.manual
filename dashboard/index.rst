@@ -42,6 +42,6 @@ The customizable dashboard allows each user to boost the focus on what he cares 
 
 .. image:: ./images/dashboard-customizable-view.png
 
-After clicking the top right pencil icon, the user can reorder, hide, shrink or exand the dashboard tiles.
+After clicking the top right pencil icon, the user can reorder, hide, shrink or expand the dashboard tiles.
 
 .. image:: ./images/dashboard-customizable-edit.png
