@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-11 22:31-0400\n"
+"POT-Creation-Date: 2018-03-13 08:07-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -228,7 +228,7 @@ msgid ""
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:131
-msgid "Read more about versioning here: [link to versioning.html]"
+msgid "Read more about versioning here: :ref:`workspace-versioning`."
 msgstr ""
 
 #: ../workspaces/workspace_content/index.rst:134
@@ -264,5 +264,8 @@ msgstr ""
 #~ "To add a new folder, click the "
 #~ "dots icon in the sidebar to open"
 #~ " the more menue."
+#~ msgstr ""
+
+#~ msgid "Read more about versioning here: [link to versioning.html]"
 #~ msgstr ""
 

@@ -128,7 +128,7 @@ For the uploaded file a preview is generated automatically to give the user an i
 
 There is also the possibility to have version management for files in Quaive. This is a powerful method to view and even restore older versions of a file and also get an overview over the versions in a table like version history view.
 
-Read more about versioning here: [link to versioning.html]
+Read more about versioning here: :ref:`workspace-versioning`.
 
 How to upload a file
 ++++++++++++++++++++++++

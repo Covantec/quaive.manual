@@ -7,15 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-11 22:31-0400\n"
-"PO-Revision-Date: 2018-03-10 19:50-0400\n"
+"POT-Creation-Date: 2018-03-13 08:07-0400\n"
+"PO-Revision-Date: 2018-03-13 08:09-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
-"Language: es\n"
 "Language-Team: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../workspaces/workspace_content/index.rst:4
@@ -27,6 +28,8 @@ msgid ""
 "This part of the manual is about how to use and create content in an "
 "existing workspace."
 msgstr ""
+"Esta parte del manual trata sobre cómo usar y crear contenido en un "
+"espacio de trabajo existente."
 
 #: ../workspaces/workspace_content/index.rst:8
 msgid ""
@@ -34,10 +37,16 @@ msgid ""
 "workspace is listed and managed. There are several content types "
 "available to store and manage data in a workspace:"
 msgstr ""
+"El icono de la página abre la sección de documentos. Aquí se enumera y "
+"administra todo el contenido de un espacio de trabajo. Hay varios tipos "
+"de contenido disponibles para almacenar y administrar datos en un área de"
+" trabajo:"
 
 #: ../workspaces/workspace_content/index.rst:13
 msgid "The main content types for workspaces currently existing in Quaive are:"
 msgstr ""
+"Los principales tipos de contenido para los espacios de trabajo "
+"actualmente existente en Quaive son:"
 
 #: ../workspaces/workspace_content/index.rst:19
 msgid ""
@@ -47,12 +56,19 @@ msgid ""
 "filter or search for the elements in the sidebar to help you managing "
 "your content."
 msgstr ""
+"En esta sección, funciona como un buscador de archivos donde el contenido"
+" existente de un espacio de trabajo se presenta en una lista como la "
+"conoce desde el buscador de archivos en su computadora. Existen varias "
+"posibilidades para agrupar, filtrar o buscar los elementos en la barra "
+"lateral para ayudarlo a administrar su contenido."
 
 #: ../workspaces/workspace_content/index.rst:22
 msgid ""
 "Learn more about using the sidebar for managing workspace content here: "
 ":ref:`workspace-manage-content-label`"
 msgstr ""
+"Obtenga más información sobre cómo usar la barra lateral para administrar"
+" el contenido del área de trabajo aquí: :ref:`workspace-content-label`"
 
 #: ../workspaces/workspace_content/index.rst:26
 msgid "Document"
@@ -63,6 +79,9 @@ msgid ""
 "The document is the basic content type in Quaive. Documents are used to "
 "store text and have basic formatting possibilities to display it."
 msgstr ""
+"El documento es el tipo de contenido básico en Quaive. Los documentos se "
+"utilizan para almacenar texto y tienen posibilidades básicas de formato "
+"para mostrarlo."
 
 #: ../workspaces/workspace_content/index.rst:31
 msgid "How to create a document"
@@ -73,10 +92,12 @@ msgid ""
 "To create a document a workspace, click the dots icon in the sidebar to "
 "open the more menu."
 msgstr ""
+"Para crear un documento en un espacio de trabajo, haga clic en el icono "
+"puntos en la barra lateral al abrir el menu más."
 
 #: ../workspaces/workspace_content/index.rst:37
 msgid "Select \"Create document\" from the list of actions."
-msgstr ""
+msgstr "Seleccione \"Crear documento\" desde la lista de acciones."
 
 #: ../workspaces/workspace_content/index.rst:41
 msgid ""
@@ -85,10 +106,14 @@ msgid ""
 " and if wanted a short description for your new document and click "
 "\"Create\"."
 msgstr ""
+"Se abre un formulario donde puede elegir el tipo de objeto que se "
+"agregará. Como \"Texto enriquecido\" ya está seleccionado, no tiene que "
+"cambiarlo. Escriba un título y, si lo desea, una breve descripción de su "
+"nuevo documento y haga clic en \"Crear\"."
 
 #: ../workspaces/workspace_content/index.rst:46
 msgid "Your document is created and can be edited."
-msgstr ""
+msgstr "Su documento es creado y puede ser editado."
 
 #: ../workspaces/workspace_content/index.rst:50
 msgid ""
@@ -97,10 +122,14 @@ msgid ""
 "allow basic formatting as list elements, tables and also embedded images "
 "or links."
 msgstr ""
+"Escriba su texto en el área de texto dada del documento abierto. Para el "
+"formateo puede usar las funciones del editor encima del área de texto que"
+" permiten el formateo básico como elementos de lista, tablas y también "
+"imágenes o enlaces incrustados."
 
 #: ../workspaces/workspace_content/index.rst:56
 msgid "Folder"
-msgstr ""
+msgstr "Carpeta"
 
 #: ../workspaces/workspace_content/index.rst:58
 msgid ""
@@ -109,26 +138,34 @@ msgid ""
 "has a title and a description and can store all other types of workspace "
 "content."
 msgstr ""
+"Las carpetas en Quaive funcionan de forma similar a como lo hacen en su "
+"computadora. Se pueden usar para estructurar y organizar el contenido de "
+"su espacio de trabajo. Una carpeta tiene un título y una descripción, y "
+"puede almacenar todos los demás tipos de contenido del área de trabajo."
 
 #: ../workspaces/workspace_content/index.rst:62
 msgid "How to create a folder"
-msgstr ""
+msgstr "Como crear una carpeta"
 
 #: ../workspaces/workspace_content/index.rst:64
 msgid ""
 "To add a new folder, click the dots icon in the sidebar to open the more "
 "menu."
 msgstr ""
+"Para agregar una caperta en un espacio de trabajo, haga clic en el icono "
+"puntos en la barra lateral al abrir el menu más."
 
 #: ../workspaces/workspace_content/index.rst:68
 msgid "Select \"Create folder\" from the list of actions."
-msgstr ""
+msgstr "Seleccione \"Crear carpeta\" desde la lista de acciones."
 
 #: ../workspaces/workspace_content/index.rst:72
 msgid ""
 "A form opens where you can type in title and a short description of your "
 "new folder."
 msgstr ""
+"Se abre un formulario donde puede escribir el título y una breve "
+"descripción de su nueva carpeta."
 
 #: ../workspaces/workspace_content/index.rst:76
 msgid ""
@@ -136,6 +173,9 @@ msgid ""
 "workspace and immediately opens in the sidebar. Now you can add content "
 "to your new folder."
 msgstr ""
+"Después de hacer clic en el botón \"Crear\", la carpeta se agrega a su "
+"espacio de trabajo y se abre inmediatamente en la barra lateral. Ahora "
+"puede agregar contenido a su nueva carpeta."
 
 #: ../workspaces/workspace_content/index.rst:79
 msgid ""
@@ -144,6 +184,11 @@ msgid ""
 "level up back to the workspace's root folder click the link on the "
 "workspace title above the sidebar search field."
 msgstr ""
+"Puede cambiar el título y la descripción de las carpetas existentes "
+"haciendo clic en el ícono de lápiz detrás del título de la carpeta en la "
+"barra lateral. Para subir un nivel a la carpeta raíz del espacio de "
+"trabajo, haga clic en el enlace del título del área de trabajo sobre el "
+"campo de búsqueda de la barra lateral."
 
 #: ../workspaces/workspace_content/index.rst:87
 msgid "Image"
@@ -155,12 +200,17 @@ msgid ""
 "PNG) so that you can insert them into Quaive documents or just have them "
 "stored in your workspace."
 msgstr ""
+"Un objeto de imagen en Quaive se utiliza para cargar archivos de imagen "
+"(JPG, GIF, PNG) para que pueda insertarlos en documentos de Quaive o "
+"simplemente guardarlos en su espacio de trabajo."
 
 #: ../workspaces/workspace_content/index.rst:91
 msgid ""
 "When uploading an image a preview is generated automatically to make it "
 "easy for you to find your images within the workspace."
 msgstr ""
+"Al cargar una imagen, se genera automáticamente una vista previa para "
+"facilitar la búsqueda de imágenes dentro del espacio de trabajo."
 
 #: ../workspaces/workspace_content/index.rst:95
 msgid "How to upload an image"
@@ -173,12 +223,19 @@ msgid ""
 "image object is almost the same as for documents we will take a closer "
 "look at the uploading method here."
 msgstr ""
+"Las imágenes pueden crearse como se describe en la sección \"Cómo crear "
+"un documento\" o, como archivos, simplemente cargarse. Como el método "
+"para crear un objeto de imagen es casi el mismo que para los documentos, "
+"veremos más de cerca el método de carga aquí."
 
 #: ../workspaces/workspace_content/index.rst:100
 msgid ""
 "When looking at the sidebar within a workspace or a folder in document "
 "section, you can find an upload area below the list of content."
 msgstr ""
+"Al mirar la barra lateral dentro de un área de trabajo o una carpeta en "
+"la sección del documento, puede encontrar un área de carga debajo de la "
+"lista de contenido."
 
 #: ../workspaces/workspace_content/index.rst:104
 msgid ""
@@ -186,12 +243,19 @@ msgid ""
 "have two possibilities: You can either click the link within the drop "
 "area and select an image via the opening file browser"
 msgstr ""
+"Esta área se usa para subir una imagen (o también un archivo). Para hacer"
+" esto, tiene dos posibilidades: puede hacer clic en el enlace dentro del "
+"área de colocación y seleccionar una imagen a través del buscador de "
+"archivos abierto"
 
 #: ../workspaces/workspace_content/index.rst:109
 msgid ""
 "Or you can just add image(s) by dragging the image(s) you want to add "
 "from the file browser of your computer over the drop area"
 msgstr ""
+"O simplemente puede agregar imágenes arrastrando las imágenes que desea "
+"agregar desde el explorador de archivos de su computadora sobre el área "
+"de colocación"
 
 #: ../workspaces/workspace_content/index.rst:113
 msgid ""
@@ -199,6 +263,9 @@ msgid ""
 "images) is queued for upload below the upload area and you can watch the "
 "upload process of several objects easily."
 msgstr ""
+"Ambas acciones tienen el mismo efecto, la imagen (o si se seleccionaron "
+"más imágenes) se pone en cola para su carga debajo del área de carga y "
+"puede ver el proceso de carga de varios objetos fácilmente."
 
 #: ../workspaces/workspace_content/index.rst:117
 msgid ""
@@ -206,6 +273,10 @@ msgid ""
 "object in the sidebar. To view the image, simply click on the list entry "
 "and the image is opened in the main content area."
 msgstr ""
+"Una vez que el proceso de carga ha finalizado, la imagen aparece en la "
+"lista de objetos en la barra lateral. Para ver la imagen, simplemente "
+"haga clic en la entrada de la lista y la imagen se abrirá en el área de "
+"contenido principal."
 
 #: ../workspaces/workspace_content/index.rst:124
 msgid "File"
@@ -219,6 +290,12 @@ msgid ""
 "tables and spreadsheets. For the uploaded file a preview is generated "
 "automatically to give the user an idea of what the file is about."
 msgstr ""
+"Un archivo en Quaive es uno de los objetos más potentes, ya que puede "
+"contener cualquier tipo de archivo binario que desee cargar con la "
+"intención de ser descargado por los visitantes de su sitio. Ejemplos "
+"comunes son archivos PDF, documentos de Word, tablas y hojas de cálculo "
+"de Excel. Para el archivo cargado, se genera automáticamente una vista "
+"previa para darle al usuario una idea de qué se trata el archivo."
 
 #: ../workspaces/workspace_content/index.rst:129
 msgid ""
@@ -227,10 +304,16 @@ msgid ""
 " of a file and also get an overview over the versions in a table like "
 "version history view."
 msgstr ""
+"También existe la posibilidad de tener la gestión de versiones para "
+"archivos en Quaive. Este es un poderoso método para ver e incluso "
+"restaurar versiones anteriores de un archivo y también obtener una visión"
+" general de las versiones en una tabla como la vista del historial de "
+"versiones."
 
 #: ../workspaces/workspace_content/index.rst:131
-msgid "Read more about versioning here: [link to versioning.html]"
+msgid "Read more about versioning here: :ref:`workspace-versioning`."
 msgstr ""
+"Lea más sobre el control de versiones aquí: :ref:`workspace-versioning`."
 
 #: ../workspaces/workspace_content/index.rst:134
 msgid "How to upload a file"
@@ -241,6 +324,9 @@ msgid ""
 "Uploading files works exactly the same way as uploading images - so for a"
 " how to please read \"How to upload an image_\""
 msgstr ""
+"La carga de archivos funciona exactamente de la misma manera que la carga"
+" de imágenes, por lo que para saber cómo leer, por favor lea \"Cómo "
+"cargar una imagen_\"."
 
 #~ msgid "The main content types for workspaces currenty existing in Quaive are:"
 #~ msgstr ""
@@ -266,4 +352,3 @@ msgstr ""
 #~ "dots icon in the sidebar to open"
 #~ " the more menue."
 #~ msgstr ""
-
