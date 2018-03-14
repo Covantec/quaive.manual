@@ -2,56 +2,66 @@
 # Copyright (C) 2017 - 2018, Quaive.com
 # This file is distributed under the same license as the Quaive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-#, fuzzy
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-03-14 17:23-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../search.rst:2
 msgid "Search"
-msgstr ""
+msgstr "Búsqueda"
 
 #: ../search.rst:6
 msgid ""
 "The search is the tool of choice if you know what you are looking for but"
 " not exactly where to find it."
 msgstr ""
+"La búsqueda es la herramienta de elección si sabe lo que está buscando pero "
+"no exactamente dónde encontrarlo."
 
 #: ../search.rst:10
 msgid "Using the search icon"
-msgstr ""
+msgstr "Usando el icono de búsqueda"
 
 #: ../search.rst:12
 msgid ""
 "Among the icons in the top right corner you will find the search icon (a "
 "magnifying glass)."
 msgstr ""
+"Entre los íconos en la esquina superior derecha, encontrarás el ícono de "
+"búsqueda (una lupa)."
 
 #: ../search.rst:16
 msgid ""
 "Click it and a text input opens. Enter one or more words that are "
 "contained in the document you are looking for."
 msgstr ""
+"Haga clic en él y se abrirá una entrada de texto. Ingrese una o más palabras "
+"que están contenidas en el documento que está buscando."
 
 #: ../search.rst:20
 msgid ""
 "Submit your input by pressing enter. You are taken to the search results "
 "page."
 msgstr ""
+"Envíe su entrada presionando la tecla Enter. Lo llevan a la página de resultados de "
+"búsqueda."
 
 #: ../search.rst:25
 msgid "The search results"
-msgstr ""
+msgstr "Los resultados de búsqueda"
 
 #: ../search.rst:29
 msgid ""
@@ -59,26 +69,32 @@ msgid ""
 "are shown at the top of the list. Results will have a preview and/or "
 "description where available."
 msgstr ""
+"Se muestra una lista de resultados. Los resultados más relevantes para la "
+"búsqueda se muestran en la parte superior de la lista. Los resultados "
+"tendrán una vista previa y/o descripción cuando estén disponibles."
 
 #: ../search.rst:33
 msgid "There is an options menu that allows you to"
-msgstr ""
+msgstr "Hay un menú de opciones que te permite"
 
 #: ../search.rst:35
 msgid "hide the previews to save some space on your screen"
-msgstr ""
+msgstr "ocultar las vistas previas para ahorrar espacio en la pantalla"
 
 #: ../search.rst:36
 msgid "change the sorting to have the most recent results at the top of the list."
 msgstr ""
+"cambie la clasificación para tener los resultados más recientes en la parte "
+"superior de la lista."
 
 #: ../search.rst:40
 msgid "Above the results list you can see how many results were found."
 msgstr ""
+"Sobre la lista de resultados puede ver cuántos resultados se encontraron."
 
 #: ../search.rst:47
 msgid "Filters"
-msgstr ""
+msgstr "Filtros"
 
 #: ../search.rst:51
 msgid ""
@@ -87,10 +103,14 @@ msgid ""
 "looking for then you can select it from the offered document types. The "
 "result list is updated to reflect your selection."
 msgstr ""
+"Si la lista es larga, puede restringir su búsqueda seleccionando filtros a "
+"la izquierda. Si, por ejemplo, conoce el tipo de documento que está "
+"buscando, puede seleccionarlo de entre los tipos de documentos ofrecidos. La "
+"lista de resultados se actualiza para reflejar su selección."
 
 #: ../search.rst:58
 msgid "Spell checking"
-msgstr ""
+msgstr "Revisón ortografica"
 
 #: ../search.rst:62
 msgid ""
@@ -98,10 +118,13 @@ msgid ""
 "looking for. The search will suggest search words with similar spelling "
 "to those you entered."
 msgstr ""
+"Incluso si hay un error ortográfico en su búsqueda, puede encontrar lo que "
+"está buscando. La búsqueda sugerirá palabras de búsqueda con una ortografía "
+"similar a las que ingresó."
 
 #: ../search.rst:69
 msgid "Alternate result views"
-msgstr ""
+msgstr "Vista de resultado alternativa"
 
 #: ../search.rst:73
 msgid ""
@@ -109,4 +132,6 @@ msgid ""
 "for example people. They are accessible as tabs on the default results "
 "page."
 msgstr ""
-
+"Varias páginas de resultados especializados lo ayudan a buscar cosas "
+"específicas, por ejemplo personas. Se encuentran accesibles como pestañas en "
+"la página de resultados predeterminados."
