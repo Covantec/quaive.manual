@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-11 22:31-0400\n"
-"PO-Revision-Date: 2018-03-10 19:50-0400\n"
+"PO-Revision-Date: 2018-03-14 12:22-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
-"Language: es\n"
 "Language-Team: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../workspaces/workspace_events/index.rst:4
@@ -27,6 +28,8 @@ msgid ""
 "This part of the manual is about how to use and create events in an "
 "existing workspace."
 msgstr ""
+"Esta parte del manual trata sobre cómo usar y crear eventos en un espacio de "
+"trabajo existente."
 
 #: ../workspaces/workspace_events/index.rst:8
 msgid ""
@@ -35,6 +38,10 @@ msgid ""
 "which makes it possible to keep users informed on important dates "
 "concerning their workspaces."
 msgstr ""
+"Quaive tiene un poderoso sistema incorporado para administrar y mostrar "
+"eventos del calendario. Además, cada espacio de trabajo en Quaive puede "
+"albergar su propio evento, lo que permite mantener informados a los usuarios "
+"sobre fechas importantes relacionadas con sus espacios de trabajo."
 
 #: ../workspaces/workspace_events/index.rst:11
 msgid ""
@@ -42,6 +49,10 @@ msgid ""
 "an overview over all events in all workspaces that are relevant for you. "
 ".. Learn more about the calendar App here:"
 msgstr ""
+"También hay una aplicación calendario existente en Quaive la cual le "
+"permite obtener una visión general de todos los eventos de todos los "
+"espacios de trabajo que sean relevante a usted. .. Aprenda mas acerca de la "
+"aplicación calendario aquí:"
 
 #: ../workspaces/workspace_events/index.rst:14
 msgid ""
@@ -49,86 +60,111 @@ msgid ""
 "scheduled please click the little calendar icon in the section navigation"
 " of your workspace."
 msgstr ""
+"Para acceder al calendario de su espacio de trabajo y ver cuales eventos "
+"están planificados, por favor, haga clic en el pequeño icono calendario en "
+"la sección de navegación de su espacio de trabajo."
 
 #: ../workspaces/workspace_events/index.rst:18
 msgid "In this part of the manual you will"
-msgstr ""
+msgstr "En esta parte del manual usted podrá"
 
 #: ../workspaces/workspace_events/index.rst:26
 msgid "Create an event in a workspace"
-msgstr ""
+msgstr "Crear un evento en un espacio de trabajo"
 
 #: ../workspaces/workspace_events/index.rst:28
 msgid "To create an event in a workspace, click the plus icon in the sidebar."
 msgstr ""
+"Para crear un evento en un espacio de trabajo, haga clic en icono más en la "
+"barra lateral."
 
 #: ../workspaces/workspace_events/index.rst:32
 msgid "This opens the create event form."
-msgstr ""
+msgstr "Esta abrirá un formulario para crear evento."
 
 #: ../workspaces/workspace_events/index.rst:36
 msgid ""
 "We will take a closer look to the fields on the create events form. From "
 "the top they are:"
 msgstr ""
+"Nosotros tomaremos de cerca los campos en el formulario de creación de "
+"eventos. Desde arriba ellos son:"
 
 #: ../workspaces/workspace_events/index.rst:38
 msgid ""
 "**Event title** (*required*): The title is displayed in all places where "
 "the event is listed - calendar, portlets, listings, ..."
 msgstr ""
+"**Título del Evento** (*requerido*): El título es mostrado en todos los "
+"lugares donde el evento es listado - calendario, portlets, listados, ..."
 
 #: ../workspaces/workspace_events/index.rst:39
 msgid ""
 "**Notes**: the description is also displayed in some overviews and should"
 " therefor be short"
 msgstr ""
+"**Notas**: la descripción es también mostrada en algunas vistas generales y "
+"deberian ser cortas and should therefor be short"
 
 #: ../workspaces/workspace_events/index.rst:40
 msgid "**Location**: the location the event takes place (free text)"
-msgstr ""
+msgstr "**Ubicación**: la ubicación del evento en que sucedera (texto libre)"
 
 #: ../workspaces/workspace_events/index.rst:41
 msgid "**Organiser** (user picker field): the user organising the event"
-msgstr ""
+msgstr "**Organizador** (campo selector de usuario): el organizador del evento"
 
 #: ../workspaces/workspace_events/index.rst:42
 msgid ""
 "**All day event**: when this is selected, the start and end time settings"
 " of the event are ignored"
 msgstr ""
+"**Evento todo el día**: cuando esto es seleccionado, la configuración de la "
+"hora de inicio y el fin del evento es ignorada"
 
 #: ../workspaces/workspace_events/index.rst:43
 msgid "**From** (*required*) (calendar field): the date and time the event starts"
 msgstr ""
+"**Desde** (*requerido*) (campo calendario): la fecha y hora en que inicia el "
+"evento"
 
 #: ../workspaces/workspace_events/index.rst:44
 msgid "**To** (*required*) (calendar field): the date and time the event ends"
 msgstr ""
+"**Hasta** (*requerido*) (campo calendario): la fecha y hora en que culmina "
+"el evento"
 
 #: ../workspaces/workspace_events/index.rst:45
 msgid "**Timezone**: the time-zone for the event's start and end times"
 msgstr ""
+"**Zona horaria**: la zona horaria para la hora de inicio y culminación del "
+"evento"
 
 #: ../workspaces/workspace_events/index.rst:46
 msgid "**Invitees** (user picker field): the users that are invited to the event"
 msgstr ""
+"**Invitados** (campo selector de usuario): los usuarios que esta invitados "
+"al evento"
 
 #: ../workspaces/workspace_events/index.rst:48
 msgid ""
 "Only the title field and the start and end date and time are required. "
 "All other fields are optional and can also be left blank."
 msgstr ""
+"Solamente el campo título y la hora de inicio y culminación son requeridas. "
+"Todos los demás campos son opcionales y pueden también dejar en blanco."
 
 #: ../workspaces/workspace_events/index.rst:50
 msgid ""
 "For date fields in Quaive a handy popup-calendar helps you selecting the "
 "date easily."
 msgstr ""
+"Para los campos de fecha en Quaive, un práctico calendario emergente le "
+"ayuda a seleccionar la fecha fácilmente."
 
 #: ../workspaces/workspace_events/index.rst:55
 msgid "Quaive user picker field"
-msgstr ""
+msgstr "Campo selector de usuario Quaive"
 
 #: ../workspaces/workspace_events/index.rst:57
 msgid ""
@@ -136,30 +172,42 @@ msgid ""
 "helps you browsing the user database to find portal users and assign "
 "them:"
 msgstr ""
+"Para los campos relacionados con usuarios Quaive ofrece un espacial selector "
+"de usuario que le ayuda a navegar la base de datos de usuario para buscar "
+"los usuarios del portal y entonces asignarlo:"
 
 #: ../workspaces/workspace_events/index.rst:61
 msgid ""
 "Just enter two or more chars to search for a user within the whole Quaive"
 " portal"
 msgstr ""
+"Justo ingrese dos o más caracteres para buscar por un usuario en todo el "
+"portal Quaive"
 
 #: ../workspaces/workspace_events/index.rst:65
 msgid ""
 "When selecting a user from the list of search results, the field is "
 "filled with the correct name and email address."
 msgstr ""
+"Cuando seleccione un usuario desde la lista de resultados de búsqueda, el "
+"campo es rellenado con el nombre correcto y la dirección de correo "
+"electrónico."
 
 #: ../workspaces/workspace_events/index.rst:69
 msgid ""
 "That's how the form looks for our test event. To create the event just "
 "click the button \"Create\" at the bottom of the form."
 msgstr ""
+"Eso es como lucirá el formulario para nuestro evento de prueba. Para crear "
+"el evento solo haga clic en el botón \"Crear\" al finalizar el formulario."
 
 #: ../workspaces/workspace_events/index.rst:73
 msgid ""
 "Your event is now created and listed in the sidebar under \"Upcoming "
 "events\"."
 msgstr ""
+"Su evento es ahora creado y listado en la barra lateral bajo \"Próximos "
+"eventos\"."
 
 #: ../workspaces/workspace_events/index.rst:75
 msgid ""
@@ -168,10 +216,14 @@ msgid ""
 " manual when we take a closer look at the workspace's :ref:`calendar-"
 "view-label`."
 msgstr ""
+"Allí será una sección para los eventos anteriores los cuales contiene los "
+"eventos del espacio de trabajo con fechas de culminación estén en el pasado. "
+"Usted puede ver eso en el próximo capítulo de este manual cuando nosotros "
+"trataremos de cerca en :ref:`calendar-view-label` del espacio de trabajo."
 
 #: ../workspaces/workspace_events/index.rst:83
 msgid "Use the Calendar view"
-msgstr ""
+msgstr "Usar la vista Calendario"
 
 #: ../workspaces/workspace_events/index.rst:85
 msgid ""
@@ -179,12 +231,18 @@ msgid ""
 "several view options within the workspace to get a quick overview over "
 "all events scheduled for this workspace."
 msgstr ""
+"Además de la lista de eventos en la barra lateral, Quaive ofrece un "
+"calendario con varias opciones de visualización dentro del espacio de trabajo "
+"para obtener una visión general rápida de todos los eventos programados para "
+"este espacio de trabajo."
 
 #: ../workspaces/workspace_events/index.rst:87
 msgid ""
 "To open the calendar view please click the link \"Workspace calendar\" at"
 " the top of the sidebar."
 msgstr ""
+"Para abrir la vista calendario, por favor, haga clic en el enlace \""
+"Calendario de espacio de trabajo\" en tope de la barra lateral."
 
 #: ../workspaces/workspace_events/index.rst:91
 msgid ""
@@ -193,6 +251,10 @@ msgid ""
 " start time, their title and the location they are supposed to take place"
 " in brackets."
 msgstr ""
+"El calendario aparece con una vista general de un mes para el mes actual. "
+"Todos los próximos eventos y eventos de las últimas semanas se muestran con "
+"su hora de inicio, su título y la ubicación que se supone que tienen lugar "
+"entre corchetes."
 
 #: ../workspaces/workspace_events/index.rst:96
 msgid ""
@@ -201,6 +263,11 @@ msgid ""
 "your current workspace's calendar view just tick the checkbox \"All "
 "calendars\" above the calendar grid."
 msgstr ""
+"En cada espacio de trabajo usted tiene también la posibilidad de mostrar "
+"todos los eventos que puede ver que residen en otros espacios de trabajo. "
+"Para mostrar entonces en su vista de calendario del actual espacio de "
+"trabajo solo marque la casilla \"Todos los calendarios\" arriba de la "
+"rejilla del calendario."
 
 #: ../workspaces/workspace_events/index.rst:101
 msgid ""
@@ -209,6 +276,10 @@ msgid ""
 "transparent way to make it easy for you to see which events are from "
 "other workspaces."
 msgstr ""
+"Esto muestra todos los eventos durante el período de tiempo visible. Los "
+"eventos que no pertenecen al espacio de trabajo en el que se encuentra "
+"actualmente se muestran de forma transparente para que le resulte más fácil "
+"ver qué eventos provienen de otros espacios de trabajo."
 
 #: ../workspaces/workspace_events/index.rst:106
 msgid ""
@@ -216,10 +287,13 @@ msgid ""
 "app - you can switch between the calendar month, week or day view. Here "
 "you can see the calendar week view:"
 msgstr ""
+"El la vista calendario del espacio de trabajo Quaive - igual como en la "
+"aplicación calendario Quaive - usted puede cambiar entre vista mensual, "
+"semanal o diaria. Aquí usted puede ver la vista semanal: "
 
 #: ../workspaces/workspace_events/index.rst:111
 msgid "And the calendar day view:"
-msgstr ""
+msgstr "Y la vista de calendario diario:"
 
 #: ../workspaces/workspace_events/index.rst:115
 msgid ""
@@ -227,6 +301,10 @@ msgid ""
 "the tile for this day or time period. This will open a compact popup form"
 " to create your events in a quick and easy way."
 msgstr ""
+"En todas las vistas calendario usted puede también crear nuevos eventos "
+"simplemente haciendo clic en el titulo de este día o periodo de tiempo. Esto "
+"abrirá una ventana emergente compacta con un formulario para crear sus "
+"eventos de forma rápida y fácilmente."
 
 #: ../workspaces/workspace_events/index.rst:120
 msgid ""

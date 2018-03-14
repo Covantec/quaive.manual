@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-11 22:31-0400\n"
-"PO-Revision-Date: 2018-03-11 22:33-0400\n"
+"PO-Revision-Date: 2018-03-14 01:23-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: es\n"
 "Language: es\n"
@@ -29,6 +29,9 @@ msgid ""
 "Then we will take a closer look at the different sections of this "
 "workspace."
 msgstr ""
+"En esta sección del manual, creará su primer espacio de trabajo de "
+"demostración. Luego veremos más de cerca las diferentes secciones de este "
+"espacio de trabajo."
 
 #: ../workspaces/workspace_overview.rst:9
 msgid "Create a workspace"
@@ -40,6 +43,9 @@ msgid ""
 "this manual, you can find a plus icon above the list of existing "
 "workspaces."
 msgstr ""
+"En la página de visión general de espacios de trabajo que se mostró en la "
+"página Espacios de trabajo de este manual, puede encontrar un icono más "
+"sobre la lista de espacios de trabajo existentes."
 
 #: ../workspaces/workspace_overview.rst:16
 msgid ""
@@ -48,10 +54,16 @@ msgid ""
 "portal. Please ask your site administrator to grant you the necessary "
 "permissions."
 msgstr ""
+"**Nota:** Si no puede ver el ícono más, el usuario que está utilizando no "
+"tiene los permisos necesarios para crear espacios de trabajo dentro del "
+"portal de Quaive. Pídale al administrador de su sitio que le otorgue los "
+"permisos necesarios."
 
 #: ../workspaces/workspace_overview.rst:18
 msgid "After clicking the plus icon, a form opens for creating the new workspace"
 msgstr ""
+"Después de hacer clic en el icono más, se abre un formulario para crear el "
+"nuevo espacio de trabajo"
 
 #: ../workspaces/workspace_overview.rst:22
 msgid ""
@@ -61,6 +73,12 @@ msgid ""
 "the default value for the security settings and so will create a self-"
 "managed, private workspace."
 msgstr ""
+"Complete un título y, si lo desea, una breve descripción de qué se trata "
+"este espacio de trabajo. El menú desplegable debajo del área de texto de "
+"descripción trata sobre la configuración de seguridad del espacio de "
+"trabajo. Para este primer espacio de trabajo usaremos el valor "
+"predeterminado para la configuración de seguridad y así crearemos un espacio "
+"de trabajo privado, autogestionado."
 
 #: ../workspaces/workspace_overview.rst:26
 msgid ""
@@ -70,10 +88,17 @@ msgid ""
 "more information on security policies please take a look here: :ref"
 ":`workspace-settings-security-label`"
 msgstr ""
+"**Nota:** Puede ver las diferentes opciones cuando mira los valores "
+"desplegables y puede obtener información sobre las diferentes políticas de "
+"seguridad y sus efectos sobre la accesibilidad del espacio de trabajo al "
+"seleccionarlas. Para obtener más información sobre las políticas de "
+"seguridad, consulte aquí: :ref:`workspace-settings-security-label`"
 
 #: ../workspaces/workspace_overview.rst:28
 msgid "Then click \"Create workspace\" to finally create your first workspace."
 msgstr ""
+"Luego haga clic en \"Crear espacio de trabajo\" para finalmente crear su "
+"primer espacio de trabajo."
 
 #: ../workspaces/workspace_overview.rst:32
 msgid ""
@@ -83,32 +108,40 @@ msgid ""
 "workspace. Clicking them opens the sidebar, a vertical panel for the "
 "selected section."
 msgstr ""
+"Al ingresar a un espacio de trabajo, puede ver un conjunto de iconos en la "
+"barra vertical coloreada a la izquierda de la página. Esta es la sección de "
+"navegación del espacio de trabajo y los iconos representan las diferentes "
+"secciones del espacio de trabajo. Al hacer clic en ellos se abre la barra "
+"lateral, un panel vertical para la sección seleccionada."
 
 #: ../workspaces/workspace_overview.rst:36
 msgid ""
 "The different sections of a workspace are listed here. Click one of the "
 "links to get more information about a specific workspace sections:"
 msgstr ""
+"Las diferentes secciones de un espacio de trabajo se enumeran aquí. Haga "
+"clic en uno de los enlaces para obtener más información sobre secciones "
+"específicas del espacio de trabajo:"
 
 #: ../workspaces/workspace_overview.rst:38
 msgid ":ref:`workspace-overview-home-label`"
-msgstr ""
+msgstr ":ref:`workspace-overview-home-label`"
 
 #: ../workspaces/workspace_overview.rst:39
 msgid ":ref:`workspace-overview-settings-label`"
-msgstr ""
+msgstr ":ref:`workspace-overview-settings-label`"
 
 #: ../workspaces/workspace_overview.rst:40
 msgid ":ref:`workspace-overview-documents-label`"
-msgstr ""
+msgstr ":ref:`workspace-overview-documents-label`"
 
 #: ../workspaces/workspace_overview.rst:41
 msgid ":ref:`workspace-overview-events-label`"
-msgstr ""
+msgstr ":ref:`workspace-overview-events-label`"
 
 #: ../workspaces/workspace_overview.rst:42
 msgid ":ref:`workspace-overview-tasks-label`"
-msgstr ""
+msgstr ":ref:`workspace-overview-tasks-label`"
 
 #: ../workspaces/workspace_overview.rst:48
 msgid "Home"
@@ -120,10 +153,15 @@ msgid ""
 "workspace. When clicking on it the sidebar is closed and the main view of"
 " the workspace with the social stream is displayed."
 msgstr ""
+"El primer ícono, el ícono de la casa, representa la vista de inicio de un "
+"espacio de trabajo. Al hacer clic en él, la barra lateral se cierra y se "
+"muestra la vista principal del espacio de trabajo con la secuencia social."
 
 #: ../workspaces/workspace_overview.rst:53
 msgid "Learn more about using the social stream here: :ref:`social-stream-label`."
 msgstr ""
+"Obtenga más información sobre cómo usar la actividades sociales aquí: :ref"
+":`social-stream-label`."
 
 #: ../workspaces/workspace_overview.rst:61
 msgid "Settings"
@@ -135,12 +173,18 @@ msgid ""
 "workspace is stored and managed. Also the members of a workspace and the "
 "workspace security settings can be edited in this area."
 msgstr ""
+"El ícono de rueda dentada abre la sección de configuración. Aquí se "
+"almacenan y administran todos los metadatos de un espacio de trabajo. "
+"Además, los miembros de un espacio de trabajo y la configuración de "
+"seguridad del espacio de trabajo se pueden editar en esta área."
 
 #: ../workspaces/workspace_overview.rst:66
 msgid ""
 "Learn more about managing the workspace settings here: :ref:`workspace-"
 "settings-label`"
 msgstr ""
+"Obtenga más información sobre la administración de la configuración del "
+"espacio de trabajo aquí: :ref:`workspace-settings-label`"
 
 #: ../workspaces/workspace_overview.rst:74
 msgid "Documents"
@@ -149,12 +193,16 @@ msgstr "Documentos"
 #: ../workspaces/workspace_overview.rst:76
 msgid "In the documents section all content stored in a workspace is managed."
 msgstr ""
+"En la sección de documentos, se administra todo el contenido almacenado en "
+"un espacio de trabajo."
 
 #: ../workspaces/workspace_overview.rst:78
 msgid ""
 "Learn more about handling workspace content here: :ref:`workspace-"
 "content-label`"
 msgstr ""
+"Obtenga más información sobre cómo manejar el contenido del espacio de "
+"trabajo aquí: :ref:`workspace-content-label`"
 
 #: ../workspaces/workspace_overview.rst:86
 msgid "Events"
@@ -167,12 +215,19 @@ msgid ""
 "have workspace events displayed in the site wide calendar app to be "
 "served to users outside the workspace."
 msgstr ""
+"En Quaive, cada espacio de trabajo tiene su propio calendario donde los "
+"eventos de este espacio de trabajo se muestran y se pueden administrar. "
+"También hay una opción para que los eventos del espacio de trabajo se "
+"muestren en la aplicación de calendario de todo el sitio para que se sirvan "
+"a los usuarios fuera del espacio de trabajo."
 
 #: ../workspaces/workspace_overview.rst:91
 msgid ""
 "Learn more about the workspace calendar and handling events here: :ref"
 ":`workspace-events-label`"
 msgstr ""
+"Obtenga más información sobre el calendario del espacio de trabajo y el "
+"manejo de eventos aquí: :ref:`workspace-events-label`"
 
 #: ../workspaces/workspace_overview.rst:99
 msgid "Tasks"

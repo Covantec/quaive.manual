@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: 2018-03-10 19:45-0400\n"
+"PO-Revision-Date: 2018-03-14 01:10-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: es\n"
 "Language: es\n"
@@ -28,12 +28,16 @@ msgid ""
 "Quaive provides locking support to prevent concurrent edits on the "
 "documents."
 msgstr ""
+"Quaive provee soporte a bloqueo para prevenir ediciones concurrente en los "
+"documentos."
 
 #: ../workspaces/locking.rst:8
 msgid ""
 "When the user starts to edit a document, the document goes in to a locked"
 " state."
 msgstr ""
+"Cuando el usuario inicia la edición de un documento, el documento va a tener "
+"un estado bloqueado."
 
 #: ../workspaces/locking.rst:11
 msgid ""
@@ -41,19 +45,26 @@ msgid ""
 "that will visit the document will find a locked badge instead of the "
 "normal save button."
 msgstr ""
+"Esto es transparente para el usuario que edita el documento, pero otros "
+"usuarios que visitarán el documento encontrarán una insignia bloqueada en "
+"lugar del botón de guardar normal."
 
 #: ../workspaces/locking.rst:20
 msgid ""
 "Clicking on the locked badge will pop up a panel that tells the user what"
 " is going on and offers some actions:"
 msgstr ""
+"Haciendo clic en la insignia bloqueado abrirá un panel en una ventana "
+"emergente que le dice al usuario que va hacer y le ofrece algunas opciones:"
 
 #: ../workspaces/locking.rst:23
 msgid ""
 "the user can start a chat through the messaging app with the user who "
 "started editing the document"
 msgstr ""
+"el usuario inicia un chat a través de la aplicación de mensajería con el "
+"usuario que inicio la edición del documento"
 
 #: ../workspaces/locking.rst:25
 msgid "the user can force the document unlock"
-msgstr ""
+msgstr "el usuario puede forzar el desbloqueo del documento"

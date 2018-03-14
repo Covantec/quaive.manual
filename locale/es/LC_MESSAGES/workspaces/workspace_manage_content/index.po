@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: 2018-03-10 19:53-0400\n"
+"PO-Revision-Date: 2018-03-14 01:20-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: es\n"
 "Language: es\n"
@@ -30,6 +30,10 @@ msgid ""
 " does. This enables you to get an overview over the content of your "
 "workspace."
 msgstr ""
+"En la sección de documentos de un espacio de trabajo la barra lateral "
+"presenta el contenido del actual espacio de trabajo en igual forma que el "
+"examinador de archivos en su computadora lo hace. Esto le habilita a obtener "
+"una visión general sobre el contenido de su espacio de trabajo."
 
 #: ../workspaces/workspace_manage_content/index.rst:9
 msgid ""
@@ -37,12 +41,18 @@ msgid ""
 "filter and hide content objects. A powerful search option also helps to "
 "find special objects in even large workspaces within a few seconds."
 msgstr ""
+"Para mejorar la organización, hay varias opciones de visualización para "
+"agrupar, filtrar y ocultar objetos de contenido. Una poderosa opción de "
+"búsqueda también ayuda a encontrar objetos especiales incluso en espacios de "
+"trabajo grandes en pocos segundos."
 
 #: ../workspaces/workspace_manage_content/index.rst:11
 msgid ""
 "Besides display functionality the sidebar also offers a lot of batch "
 "actions and other functionality:"
 msgstr ""
+"Además de la funcionalidad de visualización, la barra lateral también ofrece "
+"muchas acciones por lotes y otras funcionalidades:"
 
 #: ../workspaces/workspace_manage_content/index.rst:19
 msgid "Group by option"
@@ -50,7 +60,7 @@ msgstr "Agrupar por opción"
 
 #: ../workspaces/workspace_manage_content/index.rst:23
 msgid "Sidebar search"
-msgstr "Barra lateral de busqueda"
+msgstr "Barra lateral de búsqueda"
 
 #: ../workspaces/workspace_manage_content/index.rst:27
 msgid "Display options"
@@ -70,7 +80,7 @@ msgstr "mostrar solo mis documentos"
 
 #: ../workspaces/workspace_manage_content/index.rst:35
 msgid "Batch actions"
-msgstr "acciones por lote"
+msgstr "Acciones por lote"
 
 #: ../workspaces/workspace_manage_content/index.rst:37
 msgid "select mode"

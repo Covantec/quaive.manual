@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-11 22:31-0400\n"
-"PO-Revision-Date: 2018-03-10 19:55-0400\n"
+"PO-Revision-Date: 2018-03-14 01:21-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
-"Language: es\n"
 "Language-Team: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../workspaces/workspace_settings/index.rst:4
@@ -27,6 +28,8 @@ msgid ""
 "This part of the manual is about how to change the different workspace "
 "settings."
 msgstr ""
+"Esta parte del manual trata sobre cómo cambiar las diferentes "
+"configuraciones del espacio de trabajo."
 
 #: ../workspaces/workspace_settings/index.rst:8
 msgid ""
@@ -34,6 +37,10 @@ msgid ""
 "workspace is stored and managed. Also the members of a workspace and the "
 "workspaces security settings can be edited in this area."
 msgstr ""
+"El ícono de rueda dentada abre la sección de configuración. Aquí se "
+"almacenan y administran todos los metadatos de un espacio de trabajo. "
+"Además, los miembros de un espacio de trabajo y la configuración de "
+"seguridad de espacios de trabajo se pueden editar en esta área."
 
 #: ../workspaces/workspace_settings/index.rst:13
 msgid ""
@@ -41,6 +48,9 @@ msgid ""
 "sidebar. These tabs open the available subsections of the workspace "
 "settings:"
 msgstr ""
+"Cuando está en la sección de configuración, puede ver varias pestañas en la "
+"parte superior de la barra lateral. Estas pestañas abren las subsecciones "
+"disponibles de la configuración del espacio de trabajo:"
 
 #: ../workspaces/workspace_settings/index.rst:22
 msgid "General"
@@ -51,32 +61,42 @@ msgid ""
 "Here general metadata like title, description and the workspace's hero "
 "image can be changed."
 msgstr ""
+"Aquí los metadatos generales como el título, la descripción y la imagen del "
+"héroe del espacio de trabajo se pueden cambiar."
 
 #: ../workspaces/workspace_settings/index.rst:28
 msgid "How to change title and description of a workspace"
-msgstr ""
+msgstr "Cómo cambiar el título y la descripción de un espacio de trabajo"
 
 #: ../workspaces/workspace_settings/index.rst:30
 msgid ""
 "To change a workspace's title and description just type a new title or "
 "description in the text field or area in the sidebar."
 msgstr ""
+"Para cambiar el título y la descripción de un espacio de trabajo, simplemente "
+"escriba un nuevo título o descripción en el campo o área de texto en la "
+"barra lateral."
 
 #: ../workspaces/workspace_settings/index.rst:34
 msgid ""
 "The metadata is immediately autosaved and a info popup tells you that "
 "some attributes have been changed."
 msgstr ""
+"Los metadatos se guardan automáticamente de forma automática y una ventana "
+"emergente de información le informa que algunos atributos se han modificado."
 
 #: ../workspaces/workspace_settings/index.rst:38
 msgid ""
 "After the page is reloaded you can see the new workspace title in the "
 "breadcrumbs and the workspace header."
 msgstr ""
+"Después de volver a cargar la página, puede ver el nuevo título del espacio "
+"de trabajo en las rutas de exploración y el encabezado del espacio de "
+"trabajo."
 
 #: ../workspaces/workspace_settings/index.rst:44
 msgid "How to change the hero image of a workspace"
-msgstr ""
+msgstr "Cómo cambiar la imagen del héroe de un espacio de trabajo"
 
 #: ../workspaces/workspace_settings/index.rst:46
 msgid ""
@@ -84,26 +104,37 @@ msgid ""
 "in the workspace's header section background. Changing this image can "
 "also be done in the general settings section."
 msgstr ""
+"Cada espacio de trabajo puede tener una imagen de héroe que se mostrará como "
+"un elemento visual en el fondo de la sección del encabezado del espacio de "
+"trabajo. Cambiar esta imagen también se puede hacer en la sección de "
+"configuración general."
 
 #: ../workspaces/workspace_settings/index.rst:49
 msgid ""
 "To change the image click the \"upload\" button in the sidebar and select"
 " an image in the opening file browser of your computer."
 msgstr ""
+"Para cambiar la imagen, haga clic en el botón \"cargar\" en la barra lateral "
+"y seleccione una imagen en el navegador de archivos abierto de su "
+"computadora."
 
 #: ../workspaces/workspace_settings/index.rst:53
 msgid "The image will be changed immediately as the metadata again is autosaved."
 msgstr ""
+"La imagen se cambiará inmediatamente ya que los metadatos se guardan "
+"automáticamente."
 
 #: ../workspaces/workspace_settings/index.rst:57
 msgid ""
 "Reloading the page will display the image in the header section of your "
 "workspace."
 msgstr ""
+"Recargar la página mostrará la imagen en la sección del encabezado de su "
+"espacio de trabajo."
 
 #: ../workspaces/workspace_settings/index.rst:64
 msgid "How to display the workspace events in the global calendar"
-msgstr ""
+msgstr "Cómo mostrar los eventos del espacio de trabajo en el calendario global"
 
 #: ../workspaces/workspace_settings/index.rst:66
 msgid ""
@@ -111,12 +142,18 @@ msgid ""
 "global calendar app. To enable this you have to check the checkbox "
 "\"Workspace calendar visible in central calendar application\""
 msgstr ""
+"Existe la posibilidad de mostrar los eventos de su espacio de trabajo en la "
+"aplicación de calendario global. Para habilitar esto, debe marcar la casilla "
+"de verificación \"Calendario del espacio de trabajo visible en la aplicación de "
+"calendario central\""
 
 #: ../workspaces/workspace_settings/index.rst:69
 msgid ""
 "Learn more about events and the workspace calendar here: :ref:`workspace-"
 "events-label`"
 msgstr ""
+"Obtenga más información sobre eventos y el calendario del espacio de trabajo "
+"aquí: :ref:`workspace-events-label`"
 
 #: ../workspaces/workspace_settings/index.rst:78
 msgid "Members"
@@ -129,6 +166,10 @@ msgid ""
 "members or groups, delete existing ones or change the specific role of a "
 "member or a group."
 msgstr ""
+"En la sección Miembros, puede ver qué usuarios y grupos son miembros de este "
+"espacio de trabajo y qué roles tienen en él. Aquí puede agregar nuevos "
+"miembros o grupos, eliminar los existentes o cambiar el rol específico de un "
+"miembro o un grupo."
 
 #: ../workspaces/workspace_settings/index.rst:92
 msgid "Security"
@@ -144,6 +185,15 @@ msgid ""
 " about the current and possible options for these settings to make sure "
 "what effects on the workspace and it's content a change has."
 msgstr ""
+"En el panel de seguridad, puede ver la configuración de seguridad actual del "
+"espacio de trabajo. Esto se llama política de espacio de trabajo. Puede obtener "
+"información sobre la visibilidad externa, la política de unirse al espacio y "
+"la política de participante de un espacio de trabajo. Todas estas "
+"configuraciones de un espacio de trabajo se pueden cambiar para espacios de "
+"trabajo existentes siempre que sea necesario. Las explicaciones breves "
+"ofrecen información sobre las opciones actuales y posibles para estas "
+"configuraciones para asegurarse de qué efectos tiene el cambio en el espacio "
+"de trabajo y su contenido."
 
 #: ../workspaces/workspace_settings/index.rst:104
 msgid "Advanced"
