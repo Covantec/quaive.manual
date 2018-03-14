@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-11 22:31-0400\n"
+"POT-Creation-Date: 2018-03-13 19:22-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,42 +17,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.5.3\n"
 
-#: ../workspaces/versioning.rst:2
+#: ../workspaces/versioning.rst:4
 msgid "Versioning"
 msgstr ""
 
-#: ../workspaces/versioning.rst:4
+#: ../workspaces/versioning.rst:6
 msgid ""
 "Versioning for uploaded files can be enabled optionally. Please contact "
 "your site's administrator for enabling it."
 msgstr ""
 
-#: ../workspaces/versioning.rst:6
+#: ../workspaces/versioning.rst:8
 msgid ""
 "If versioning is enabled and you are uploading a new version of a file "
-"that already exists in Quiave, then the old version of the file is not "
+"that already exists in Quaive, then the old version of the file is not "
 "simply replaced, but kept in the system. Although users will then see the"
 " new version of the file by default, they can still access previous "
 "versions of it."
 msgstr ""
 
-#: ../workspaces/versioning.rst:8
+#: ../workspaces/versioning.rst:10
 msgid ""
 "The example below shows an Excel file that is present in a workspace. We "
 "can see the preview for this file:"
 msgstr ""
 
-#: ../workspaces/versioning.rst:12
+#: ../workspaces/versioning.rst:14
 msgid ""
 "If you click on the symbol with three dots, you can open the version "
 "history:"
 msgstr ""
 
-#: ../workspaces/versioning.rst:16
+#: ../workspaces/versioning.rst:18
 msgid "It shows only one entry, for the initial action:"
 msgstr ""
 
-#: ../workspaces/versioning.rst:20
+#: ../workspaces/versioning.rst:22
 msgid ""
 "We have detected a typo in the Excel file. Therefore we want to upload a "
 "new version of it. In the edit form, we tick the check-box \"Save a new "
@@ -61,13 +61,13 @@ msgid ""
 "the file and creates a new version:"
 msgstr ""
 
-#: ../workspaces/versioning.rst:24
+#: ../workspaces/versioning.rst:26
 msgid ""
 "After a short while, the preview is re-generated, reflecting the updated "
 "state of the file:"
 msgstr ""
 
-#: ../workspaces/versioning.rst:28
+#: ../workspaces/versioning.rst:30
 msgid ""
 "If we look at the version history again, we can see a new entry about our"
 " change. We see *who* made the change, *when* the change was made and "
@@ -76,7 +76,7 @@ msgid ""
 "version, we can jump to the details page."
 msgstr ""
 
-#: ../workspaces/versioning.rst:32
+#: ../workspaces/versioning.rst:34
 msgid ""
 "On the details page for a specific version, we see at the top again the "
 "list of all versions. At the lower part of the page, we see the details "
@@ -84,7 +84,7 @@ msgid ""
 " \"Download\" button for downloading this version of the file."
 msgstr ""
 
-#: ../workspaces/versioning.rst:34
+#: ../workspaces/versioning.rst:36
 msgid ""
 "In case a new version is not wanted, a click on \"Revert to this "
 "revision\", next to one of the older versions in the table above, will "
@@ -102,5 +102,17 @@ msgstr ""
 #~ " changes made. A click on the "
 #~ "\"Save\" button uploads the file and "
 #~ "creates a new version:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "If versioning is enabled and you "
+#~ "are uploading a new version of a"
+#~ " file that already exists in Quiave,"
+#~ " then the old version of the "
+#~ "file is not simply replaced, but "
+#~ "kept in the system. Although users "
+#~ "will then see the new version of"
+#~ " the file by default, they can "
+#~ "still access previous versions of it."
 #~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-03-13 08:07-0400\n"
+"POT-Creation-Date: 2018-03-13 19:22-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgid "Versioning for uploaded files can be enabled optionally. Please contact y
 msgstr ""
 
 #: ../workspaces/versioning.rst:8
-msgid "If versioning is enabled and you are uploading a new version of a file that already exists in Quiave, then the old version of the file is not simply replaced, but kept in the system. Although users will then see the new version of the file by default, they can still access previous versions of it."
+msgid "If versioning is enabled and you are uploading a new version of a file that already exists in Quaive, then the old version of the file is not simply replaced, but kept in the system. Although users will then see the new version of the file by default, they can still access previous versions of it."
 msgstr ""
 
 #: ../workspaces/versioning.rst:10

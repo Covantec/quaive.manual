@@ -5,7 +5,7 @@ Versioning
 
 Versioning for uploaded files can be enabled optionally. Please contact your site's administrator for enabling it.
 
-If versioning is enabled and you are uploading a new version of a file that already exists in Quiave, then the old version of the file is not simply replaced, but kept in the system. Although users will then see the new version of the file by default, they can still access previous versions of it.
+If versioning is enabled and you are uploading a new version of a file that already exists in Quaive, then the old version of the file is not simply replaced, but kept in the system. Although users will then see the new version of the file by default, they can still access previous versions of it.
 
 The example below shows an Excel file that is present in a workspace. We can see the preview for this file:
 
