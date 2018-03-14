@@ -156,7 +156,3 @@ msgstr ""
 #: ../apps/bookmarks/index.rst:120
 msgid "They are an amazing shortcut to your favourite content."
 msgstr ""
-
-#~ msgid "It shows all your bookmarked docuents"
-#~ msgstr ""
-

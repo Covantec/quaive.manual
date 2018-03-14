@@ -143,13 +143,3 @@ msgid ""
 " created any content yet, this should be no problem. But deleting a user "
 "this way who has created content already will lead to broken links."
 msgstr ""
-
-#~ msgid ""
-#~ "On each rowe of the user listing"
-#~ " there is a badge showing the "
-#~ "user status. By clicking on it you"
-#~ " will be redirected to a panel "
-#~ "asking you to confirm if you want"
-#~ " to toggle the user state."
-#~ msgstr ""
-

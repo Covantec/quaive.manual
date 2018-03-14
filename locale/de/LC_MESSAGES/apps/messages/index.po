@@ -20,7 +20,3 @@ msgstr ""
 #: ../apps/messages/index.rst:2
 msgid "Messages"
 msgstr ""
-
-#~ msgid "News publisher"
-#~ msgstr ""
-

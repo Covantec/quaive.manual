@@ -82,10 +82,3 @@ msgid ""
 "After clicking the top right pencil icon, the user can reorder, hide, "
 "shrink or expand the dashboard tiles."
 msgstr ""
-
-#~ msgid ""
-#~ "After clicking the top right pencil "
-#~ "icon, the user can reorder, hide, "
-#~ "shrink or exand the dashboard tiles."
-#~ msgstr ""
-

@@ -236,7 +236,9 @@ msgid ""
 "application\" in the workspace general settings section as described "
 "here: :ref:`workspace-settings-central-calendar-label`"
 msgstr ""
-
-#~ msgid "**Timezone**: the timezone for the event's start and end times"
-#~ msgstr ""
-
+"También hay una opción para ver los eventos de su calendario del "
+"espacio de trabajo local en la aplicación calendario central. Para habilitar "
+"esto tiene que cambiar la configuración \"Calendario de espacio trabajo "
+"visible en aplicación de calendario central\" en la sección de configuración "
+"general del calendario como se describe aquí: :ref:`workspace-settings-"
+"central-calendar-label`"

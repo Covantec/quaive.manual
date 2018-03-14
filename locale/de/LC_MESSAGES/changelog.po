@@ -203,7 +203,3 @@ msgstr ""
 #: ../changelog.rst:80
 msgid "WYSIWYG editor switch to redactor"
 msgstr ""
-
-#~ msgid "The userprofile API has new and more performant methods"
-#~ msgstr ""
-

@@ -235,7 +235,3 @@ msgid ""
 "application\" in the workspace general settings section as described "
 "here: :ref:`workspace-settings-central-calendar-label`"
 msgstr ""
-
-#~ msgid "**Timezone**: the timezone for the event's start and end times"
-#~ msgstr ""
-
