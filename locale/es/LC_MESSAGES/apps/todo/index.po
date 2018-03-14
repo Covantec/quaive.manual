@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-11 22:31-0400\n"
-"PO-Revision-Date: 2018-03-10 19:25-0400\n"
+"PO-Revision-Date: 2018-03-14 17:14-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
-"Language: es\n"
 "Language-Team: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../apps/todo/index.rst:2
@@ -27,10 +28,12 @@ msgid ""
 "The todo app that allows you to find, create and handle all of your tasks"
 " or todo items from a central location."
 msgstr ""
+"La aplicación de tareas pendientes que le permite buscar, crear y manejar "
+"todas sus tareas o elementos pendientes desde una ubicación central."
 
 #: ../apps/todo/index.rst:12
 msgid "Sections of the application"
-msgstr ""
+msgstr "Secciones de la aplicación"
 
 #: ../apps/todo/index.rst:14
 msgid ""
@@ -39,10 +42,15 @@ msgid ""
 "task is shown on the right. The task list can always be restored to its "
 "full view again, by clicking on the arrows in the sidebar."
 msgstr ""
+"La aplicación siempre comienza con una lista de tareas. Una vez que haga "
+"clic en una tarea para verla o editarla, la lista de tareas se reducirá a "
+"una barra lateral y la tarea se mostrará a la derecha. La lista de tareas "
+"siempre se puede restaurar a su vista completa de nuevo, haciendo clic en "
+"las flechas en la barra lateral."
 
 #: ../apps/todo/index.rst:20
 msgid "The todo comprises of three main parts:"
-msgstr ""
+msgstr "La aplicación \"por hacer\" se compone de tres partes principales:"
 
 #: ../apps/todo/index.rst:22 ../apps/todo/index.rst:32
 msgid "All tasks"
@@ -61,18 +69,25 @@ msgid ""
 "In the all tasks section you may find any task that you created, that is "
 "assigned to you or that you have view and/or editing rights on."
 msgstr ""
+"En la sección de todas las tareas, puede encontrar cualquier tarea que haya "
+"creado, que esté asignada a usted o que tenga derechos de visualización y / "
+"o edición."
 
 #: ../apps/todo/index.rst:39
 msgid ""
 "My tasks aggregates only tasks that are assigned to you. Either by "
 "yourself, or by others."
 msgstr ""
+"\"Mis tareas\" solo agregan las tareas que le asignan. Ya sea por ti mismo o "
+"por otros."
 
 #: ../apps/todo/index.rst:44
 msgid ""
 "The personal task list show tickets that are created through the Todo "
 "app, which do not live in a Workspace."
 msgstr ""
+"La \"lista de tareas personales\" muestra los tickets que se crean a través "
+"de la aplicación \"Por Hacer\", que no viven en un espacio de trabajo."
 
 #: ../apps/todo/index.rst:49
 msgid "Create tasks"
@@ -85,6 +100,10 @@ msgid ""
 "a title for the task, a longer description about the task, the assignee "
 "and the due date."
 msgstr ""
+"Puede crear tareas haciendo clic en el botón marcado con un signo más. En la "
+"pantalla que sigue, puede ingresar detalles sobre la tarea, incluido un "
+"título para la tarea, una descripción más larga sobre la tarea, el "
+"asignatario y la fecha de vencimiento."
 
 #: ../apps/todo/index.rst:62
 msgid ""
@@ -92,6 +111,9 @@ msgid ""
 "default, tasks end up on your personal task list. But you can also select"
 " a workspace in which the task will be created."
 msgstr ""
+"También es digno de mención que puede seleccionar el destino de la tarea. "
+"Por defecto, las tareas terminan en su lista de tareas personal. Pero "
+"también puede seleccionar un espacio de trabajo en el que se creará la tarea."
 
 #: ../apps/todo/index.rst:69
 msgid "Groupings and filters"
@@ -105,6 +127,11 @@ msgid ""
 "include: by assignee, initiator, task state (open/closed), priority or no"
 " grouping at all."
 msgstr ""
+"Puede elegir una cierta agrupación para sus tareas que se ajuste a su forma "
+"de trabajar mejor. Si está monitoreando un programa de diferentes proyectos, "
+"puede ser conveniente agrupar por origen (predeterminado). Otros métodos de "
+"agrupación incluyen: por asignador, iniciador, estado de la tarea (abierto / "
+"cerrado), prioridad o no agrupación en absoluto."
 
 #: ../apps/todo/index.rst:81
 msgid ""
@@ -112,12 +139,17 @@ msgid ""
 "tasks are sorted or reduce the items on the list by using any of the "
 "filters above the search bar."
 msgstr ""
+"Además de la agrupación, también es posible cambiar el orden en que se "
+"ordenan las tareas o reducir los elementos en la lista mediante el uso de "
+"cualquiera de los filtros sobre la barra de búsqueda."
 
 #: ../apps/todo/index.rst:85
 msgid ""
 "Sorting and filters are hidden in the sidebar view and only available in "
 "the full list view."
 msgstr ""
+"La ordenación y los filtros están ocultos en la vista de la barra lateral y "
+"solo están disponibles en la vista de lista completa."
 
 #: ../apps/todo/index.rst:90
 msgid "Find tasks"
@@ -130,13 +162,19 @@ msgid ""
 "title or description of the task you are looking for and it will appear "
 "in the list underneath the search box."
 msgstr ""
+"Todas las tareas en la intranet completa que tiene derechos de visualización "
+"o edición se pueden encontrar a través de la función de búsqueda. "
+"Simplemente escriba unas letras del título o la descripción de la tarea que "
+"está buscando y aparecerá en la lista debajo del cuadro de búsqueda."
 
 #: ../apps/todo/index.rst:101
 msgid "Search, filters and groupings can be combined."
-msgstr ""
+msgstr "La búsqueda, los filtros y las agrupaciones se pueden combinar."
 
 #: ../apps/todo/index.rst:103
 msgid ""
 "You may reset both the search results and the filters by clicking on the "
 "button that reads “Reset search and filters”."
 msgstr ""
+"Puede restablecer los resultados de búsqueda y los filtros haciendo clic en "
+"el botón que dice \"Restablecer búsqueda y filtros\"."

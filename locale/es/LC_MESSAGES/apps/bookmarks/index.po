@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-11 22:31-0400\n"
-"PO-Revision-Date: 2018-03-10 19:18-0400\n"
+"PO-Revision-Date: 2018-03-14 17:00-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
-"Language: es\n"
 "Language-Team: es\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: Babel 2.5.3\n"
 
 #: ../apps/bookmarks/index.rst:2
@@ -27,10 +28,13 @@ msgid ""
 "The bookmark app takes care of providing the best way to find the "
 "documents you care about."
 msgstr ""
+"La aplicación de marcadores se ocupa de proporcionar la mejor manera de "
+"encontrar los documentos que te interesan."
 
 #: ../apps/bookmarks/index.rst:8
 msgid "The app provides you convenient groupings for your bookmarks:"
 msgstr ""
+"La aplicación te proporciona agrupaciones convenientes para tus marcadores:"
 
 #: ../apps/bookmarks/index.rst:10
 msgid "by first letter (the default one)"
@@ -53,14 +57,16 @@ msgid ""
 "Your bookmarking experience is enhanced by the tabs that provide "
 "alternatives views that focus on subsets of documents."
 msgstr ""
+"Su experiencia de marcadores se ve reforzada por las pestañas que ofrecen "
+"vistas alternativas que se centran en subconjuntos de documentos."
 
 #: ../apps/bookmarks/index.rst:18
 msgid "We currently have the following:"
-msgstr ""
+msgstr "Actualmente tenemos lo siguiente:"
 
 #: ../apps/bookmarks/index.rst:20
 msgid "All bookmarks (the default one)"
-msgstr ""
+msgstr "Todos los marcadores (el predeterminado)"
 
 #: ../apps/bookmarks/index.rst:21
 msgid "Apps"
@@ -83,20 +89,24 @@ msgid ""
 "Convenients tiles are provided for your dashboard. You can have bookmark "
 "tiles:"
 msgstr ""
+"Los mosaicos convenientes se proporcionan para su tablero. Puedes tener "
+"mosaicos de marcadores:"
 
 #: ../apps/bookmarks/index.rst:29
 msgid ""
 "For all your bookmarked documents (the tile provides a search filter and "
 "a most popular bookmarks tab)"
 msgstr ""
+"Para todos sus documentos marcados (el mosaico proporciona un filtro de "
+"búsqueda y una pestaña de favoritos más popular)"
 
 #: ../apps/bookmarks/index.rst:30
 msgid "For all your bookmarked workspaces"
-msgstr ""
+msgstr "Para todos sus espacios de trabajo marcados"
 
 #: ../apps/bookmarks/index.rst:31
 msgid "For all your bookmarked apps"
-msgstr ""
+msgstr "Para todos sus aplicaciones marcadas"
 
 #: ../apps/bookmarks/index.rst:36
 msgid "Screenshots"
@@ -109,51 +119,53 @@ msgstr "La página de inicio de la aplicación"
 #: ../apps/bookmarks/index.rst:47
 msgid "It shows all the bookmarks sorted alphabetically and grouped first letter"
 msgstr ""
+"Muestra todos los marcadores ordenados alfabéticamente y la primera letra "
+"agrupada"
 
 #: ../apps/bookmarks/index.rst:52 ../apps/bookmarks/index.rst:58
 msgid "The bookmarks grouped by workspace"
-msgstr ""
+msgstr "Los marcadores agrupados por espacio de trabajo"
 
 #: ../apps/bookmarks/index.rst:60
 msgid "It shows all the bookmarks grouped by workspace"
-msgstr ""
+msgstr "Muestra todos los marcadores agrupados por espacio de trabajo"
 
 #: ../apps/bookmarks/index.rst:64 ../apps/bookmarks/index.rst:70
 msgid "The Workspaces alternative view"
-msgstr ""
+msgstr "La vista alternativa de Espacios de trabajo"
 
 #: ../apps/bookmarks/index.rst:72
 msgid "It shows all your bookmarked workspaces"
-msgstr ""
+msgstr "Muestra todos tus espacios de trabajo marcados"
 
 #: ../apps/bookmarks/index.rst:76 ../apps/bookmarks/index.rst:82
 msgid "The Apps alternative view"
-msgstr ""
+msgstr "La vista alternativa de Aplicaciones"
 
 #: ../apps/bookmarks/index.rst:84
 msgid "It shows all your bookmarked apps"
-msgstr ""
+msgstr "Muestra todos tus aplicaciones marcadas"
 
 #: ../apps/bookmarks/index.rst:88 ../apps/bookmarks/index.rst:94
 msgid "The People alternative view"
-msgstr ""
+msgstr "La vista alternativa de Personas"
 
 #: ../apps/bookmarks/index.rst:96
 msgid "It shows all your bookmarked people"
-msgstr ""
+msgstr "Muestra todos tus personas marcadas"
 
 #: ../apps/bookmarks/index.rst:100 ../apps/bookmarks/index.rst:106
 msgid "The Documents alternative view"
-msgstr ""
+msgstr "La vista alternativa de Documentos"
 
 #: ../apps/bookmarks/index.rst:108
 msgid "It shows all your bookmarked documents"
-msgstr ""
+msgstr "Muestra todos tus documentos marcados"
 
 #: ../apps/bookmarks/index.rst:112 ../apps/bookmarks/index.rst:118
 msgid "The available bookmark tiles"
-msgstr ""
+msgstr "Los mosaicos de favoritos disponibles"
 
 #: ../apps/bookmarks/index.rst:120
 msgid "They are an amazing shortcut to your favourite content."
-msgstr ""
+msgstr "Son un acceso directo sorprendente a su contenido favorito."
