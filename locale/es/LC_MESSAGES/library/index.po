@@ -146,7 +146,7 @@ msgid ""
 "considered relevant for all users of the intranet."
 msgstr ""
 "Cualquier usuario de un espacio de trabajo puede enviar un documento "
-"desde su área de trabajo a la Biblioteca. Esto puede tener sentido cuando"
+"desde su espacio de trabajo a la Biblioteca. Esto puede tener sentido cuando"
 " la información de este documento se considera relevante para todos los "
 "usuarios de la intranet."
 
