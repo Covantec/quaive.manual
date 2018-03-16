@@ -76,7 +76,7 @@ language = 'en' # or None
 # the standard gettext module.
 #
 # The text domain of individual documents depends on gettext_compact
-locale_dirs = ['locale/']
+locale_dirs = ['_locales/']
 
 # If true, a document’s text domain is its docname if it is a top-level project
 # file and its very base directory otherwise.
