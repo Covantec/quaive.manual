@@ -35,7 +35,7 @@ First activate the virtualenv:
 
 Create specified language's po files from pot files:
 
-    $ sphinx-intl update -p ./locale/ -l <LANG>
+    $ sphinx-intl update -p ./_locales/ -l <LANG>
 
 **note:** `<LANG>` is the language code to add.
 
@@ -50,6 +50,6 @@ First activate the virtualenv:
 Update specified language's po files from pot files:
 
     $ make gettext
-    $ sphinx-intl update -p ./locale/ -l <LANG>
+    $ sphinx-intl update -p ./_locales/ -l <LANG>
 
 **note:** `<LANG>` is the language code to add.

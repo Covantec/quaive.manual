@@ -6,6 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = bin/sphinx-build
 PAPER         =
 BUILDDIR      = _build
+LOCALESDIR    = _locales
 
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
@@ -199,9 +200,9 @@ info:
 
 .PHONY: gettext
 gettext:
-	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) ./locale
+	$(SPHINXBUILD) -b gettext $(I18NSPHINXOPTS) $(LOCALESDIR)
 	@echo
-	@echo "Build finished. The message catalogs are in ./locale."
+	@echo "Build finished. The message catalogs are in $(LOCALESDIR)."
 
 .PHONY: changes
 changes:
