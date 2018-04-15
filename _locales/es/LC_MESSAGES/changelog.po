@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-11 22:31-0400\n"
-"PO-Revision-Date: 2018-03-11 22:33-0400\n"
+"PO-Revision-Date: 2018-04-15 09:24-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: es\n"
 "Language: es\n"
@@ -57,7 +57,7 @@ msgstr "Mensajes"
 
 #: ../changelog.rst:18
 msgid "News publisher"
-msgstr "Publicador de Noticias"
+msgstr "Publicador de noticias"
 
 #: ../changelog.rst:19
 msgid "Todo"
@@ -118,7 +118,7 @@ msgstr ""
 #: ../changelog.rst:45
 msgid "you can follow tags and view a stream filtered to your interests"
 msgstr ""
-"puedes seguir las etiquetas y ver una ultima actvidad filtrada según tus "
+"puedes seguir las etiquetas y ver una ultima actividad filtrada según tus "
 "intereses"
 
 #: ../changelog.rst:50
@@ -179,10 +179,9 @@ msgid ""
 "system and the search results are divided in categories (All results, "
 "Peoples, Files, Images)"
 msgstr ""
-"La interfaz de usuario de búsqueda ha crecido en funcionalidad. Tenemos "
-"un sistema complejo de facetas y los resultados de búsqueda están "
-"divididos en categorías (Todos los resultados, Personas, Archivos, "
-"Imágenes)"
+"La interfaz de usuario - UI de búsqueda ha crecido en funcionalidad. Tenemos "
+"un sistema complejo de facetas y los resultados de búsqueda están divididos "
+"en categorías (Todos los resultados, Personas, Archivos, Imágenes)"
 
 #: ../changelog.rst:68
 msgid "Each search result has a rich preview."

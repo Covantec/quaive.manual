@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Quaive 2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-10 14:17-0400\n"
-"PO-Revision-Date: 2018-03-11 17:38-0400\n"
+"PO-Revision-Date: 2018-04-15 09:16-0400\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: es\n"
 "Language: es\n"
@@ -30,7 +30,7 @@ msgstr ""
 
 #: ../news.rst:14
 msgid "Dashboard news tile"
-msgstr "Mosaico de tablero de Noticias"
+msgstr "Mosaico de tablero de noticias"
 
 #: ../news.rst:16
 msgid ""
@@ -91,7 +91,7 @@ msgstr ""
 "La columna principal de la revista se abre con un gran artículo líder y "
 "luego continúa con noticias menos destacadas y una larga lista de artículos. "
 "De arriba a abajo y de izquierda a derecha, la secuencia de elementos "
-"mostrada está determinada por *fecha de vigencia*, es decir, la fecha de "
+"mostrada está determinada por *fecha de vigencia* por ejemplo, la fecha de "
 "publicación, con la última noticia publicada en la parte superior."
 
 #: ../news.rst:45
@@ -141,7 +141,7 @@ msgstr ""
 
 #: ../news.rst:64
 msgid "News publisher"
-msgstr "Publicador de Noticias"
+msgstr "Publicador de noticias"
 
 #: ../news.rst:66
 msgid ""
@@ -216,7 +216,7 @@ msgstr ""
 
 #: ../news.rst:93
 msgid "Edit news item"
-msgstr "Editar elemento de Noticias"
+msgstr "Editar articulo de noticias"
 
 #: ../news.rst:95
 msgid ""

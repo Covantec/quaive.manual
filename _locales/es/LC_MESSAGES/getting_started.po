@@ -1,0 +1,724 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-15 09:09-0400\n"
+"PO-Revision-Date: 2018-04-15 09:10-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../getting_started/create_initial_content.rst:3
+msgid "Create Initial Content"
+msgstr "Crear Contenido Inicial"
+
+#: ../getting_started/create_initial_content.rst:7
+msgid ""
+"An intranet that is empty is not very enticing. You may want to set up "
+"some initial structure and content to welcome your users."
+msgstr ""
+"Una intranet que está vacía no es muy tentadora. Es posible que desee "
+"configurar una estructura y contenido inicial para dar la bienvenida a "
+"sus usuarios."
+
+#: ../getting_started/create_initial_content.rst:11
+msgid "Library"
+msgstr "Biblioteca"
+
+#: ../getting_started/create_initial_content.rst:13
+msgid ""
+"The Library is intended to provide all the information that is relevant "
+"for everybody in the organisation. Put here all the data that you "
+"normally share through a file share, a mapped drive, a server directory "
+"etc."
+msgstr ""
+"La Biblioteca está destinada a proporcionar toda la información relevante"
+" para todos en la organización. Coloque aquí todos los datos que comparte"
+" normalmente a través de un recurso compartido de archivos, un disco "
+"mapeado, un directorio de servidor, etc."
+
+#: ../getting_started/create_initial_content.rst:15
+msgid ""
+"Quaive Library does not use node pages for every section, so you don't "
+"have to create a \"Welcome to Section X\" page in every section. Instead "
+"the library shows directly sections and subsections on the first glance. "
+"This makes it quick to navigate."
+msgstr ""
+"La Biblioteca Quaive no utiliza páginas de nodo para cada sección, por lo"
+" que no tiene que crear una página \"Bienvenido a la Sección X\" en cada "
+"sección. En cambio, la biblioteca muestra directamente secciones y "
+"subsecciones a primera vista. Esto hace que sea rápido navegar."
+
+#: ../getting_started/create_initial_content.rst:19
+msgid ""
+"So create some initial sections for the documents most used in your "
+"organisation. The first one could be a section for the new social "
+"intranet, where you put documents about Quaive, about the on boarding "
+"process and background facts for users to look up. Another section could "
+"be the one for all the different forms needed to do travel expenses."
+msgstr ""
+"Por lo tanto, cree algunas secciones iniciales para los documentos más "
+"utilizados en su organización. La primera podría ser una sección para la "
+"nueva intranet social, donde puede colocar documentos sobre Quaive, sobre"
+" el proceso de embarque y antecedentes para que los usuarios puedan "
+"buscar. Otra sección podría ser la de todas las formas diferentes "
+"necesarias para hacer los gastos de viaje."
+
+#: ../getting_started/create_initial_content.rst:21
+msgid ""
+"Remember: The structure used on your file share is not necessarily the "
+"same structure that users use to search for content. This might be a good"
+" chance to rethink and to redo the structure, to make it more flat and to"
+" ask your users where they would expect to find items."
+msgstr ""
+"Recuerde: la estructura utilizada en su recurso compartido de archivos no"
+" es necesariamente la misma estructura que usan los usuarios para buscar "
+"contenido. Esta podría ser una buena oportunidad para repensar y rehacer "
+"la estructura, para hacerla más plana y para preguntar a los usuarios "
+"dónde esperarían encontrar los elementos."
+
+#: ../getting_started/create_initial_content.rst:23
+msgid ""
+"Another approach that helps retrieving information is the search. Use the"
+" library search to look for content only within the library. As you can "
+"see previews of the result documents right away, finding the right "
+"document will be quicker than before."
+msgstr ""
+"Otro enfoque que ayuda a recuperar información es la búsqueda. Use la "
+"búsqueda de la biblioteca para buscar contenido solo dentro de la "
+"biblioteca. Como puede ver las previsualizaciones de los documentos "
+"resultantes de inmediato, encontrar el documento correcto será más rápido"
+" que antes."
+
+#: ../getting_started/create_initial_content.rst:25
+msgid ""
+"And there are tags. You can tag all your documents in the library cms. If"
+" you have to stick to one structure but you want to also make information"
+" available by another criterion, use tags."
+msgstr ""
+"Y hay etiquetas. Puede etiquetar todos sus documentos en la biblioteca "
+"cms. Si tiene que apegarse a una estructura pero desea también hacer que "
+"la información esté disponible por otro criterio, use etiquetas."
+
+#: ../getting_started/create_initial_content.rst:27
+msgid ""
+"Example: Your structure is strictly built by department, and every "
+"department has order forms, then tagging them with the tag 'order form' "
+"makes it easy to locate all order forms - company wide."
+msgstr ""
+"Ejemplo: su estructura está estrictamente construida por departamento, y "
+"cada departamento tiene formularios de pedido, y luego etiquetarlos con "
+"la etiqueta 'formulario de pedido' facilita la localización de todos los "
+"formularios de pedido, en toda la empresa."
+
+#: ../getting_started/history.rst:3
+msgid "The History"
+msgstr "La historia"
+
+#: ../getting_started/history.rst:6 ../getting_started/setup.rst:6
+msgid "Description"
+msgstr "Descripción"
+
+#: ../getting_started/history.rst:8
+msgid ""
+"This document gives a short overview of the historical genesis of this "
+"project. For the current status, see the Quaive_ website."
+msgstr ""
+"Este documento ofrece una breve descripción de la génesis histórica de este "
+"proyecto. Para conocer el estado actual, consulte el sitio web de Quaive_."
+
+#: ../getting_started/history.rst:10
+msgid ""
+"The Plone Intranet project started life as a discussion between Netsight "
+"and Cosent back in 2013. Like a number of Plone companies, Netsight had "
+"already been working on intranet projects for some years, starting with a"
+" bespoke intranet for Belron in 2007. In more recent years Netsight saw "
+"the need to componentise their offering to improve manageability of the "
+"code base, to make supporting their solutions easier, and to help remain "
+"competitive in the marketplace (re-selling existing code was becoming a "
+"necessity)."
+msgstr ""
+"El proyecto Plone Intranet comenzó como una discusión entre Netsight y "
+"Cosent en 2013. Al igual que varias compañías de Plone, Netsight ya había"
+" estado trabajando en proyectos de intranet durante algunos años, "
+"comenzando con una intranet a medida para Belron en 2007. En años más "
+"recientes Netsight vio la necesidad de complementar su oferta para "
+"mejorar la capacidad de administración de la base de código, facilitar el"
+" soporte de sus soluciones y ayudar a mantener la competitividad en el "
+"mercado (volver a vender el código existente se estaba convirtiendo en "
+"una necesidad)."
+
+#: ../getting_started/history.rst:12
+msgid ""
+"The idea behind this project is to build upon a number of existing "
+"packages out there in the Plone world that provide intranet-like "
+"functionality. Over the years many products have been developed, often "
+"inside individual organisations, with much repetition."
+msgstr ""
+"La idea detrás de este proyecto es construir sobre una serie de paquetes "
+"existentes en el mundo de Plone que ofrecen una funcionalidad tipo "
+"intranet. Con los años se han desarrollado muchos productos, a menudo "
+"dentro de organizaciones individuales, con mucha repetición."
+
+#: ../getting_started/history.rst:14
+msgid ""
+"At the 2013 Plone Conference an open space session indicated that there "
+"were a number of other Plone companies with a similar history to "
+"Netsight’s in the intranet marketplace. With the growth of the "
+"intranet/digital workplace industry, it became clear that a number of "
+"Plone companies saw an opportunity to commercialise on a common Plone-"
+"based intranet solution. These discussions continued with other Plone "
+"community members which lead to the organisation of the first Plone "
+"Intranet summit in November 2013, and the formation of the Plone Intranet"
+" Consortium, which was later renamed into Quaive_."
+msgstr ""
+"En la Conferencia de Plone 2013, una sesión de espacio abierto indicó que"
+" existían otras empresas de Plone con una historia similar a Netsight en "
+"el mercado de intranet. Con el crecimiento de la industria del trabajo "
+"intranet/digital, se hizo evidente que varias empresas de Plone vieron la"
+" oportunidad de comercializar en una solución común de Intranet basada en"
+" Plone. Estas discusiones continuaron con otros miembros de la comunidad "
+"Plone que condujeron a la organización de la primera cumbre de Plone "
+"Intranet en noviembre de 2013, y la formación del Consorcio de Plone "
+"Intranet, que más tarde fue rebautizado como Quaive_."
+
+#: ../getting_started/history.rst:16
+msgid ""
+"An in-person meeting was arranged to follow up and brainstorm on these "
+"ideas two weeks after the conference. For expediency, those invited were "
+"those we knew who had an interest and experience with Plone intranets and"
+" who were located within an hour of London."
+msgstr ""
+"Se organizó una reunión en persona para dar seguimiento y una lluvia de "
+"ideas sobre estas ideas dos semanas después de la conferencia. Por "
+"conveniencia, los invitados fueron aquellos que conocíamos que tenían "
+"interés y experiencia con las intranets de Plone y que se encontraban a "
+"una hora de Londres."
+
+#: ../getting_started/history.rst:20
+msgid "This initial meeting was held in London and attended by:"
+msgstr "Esta reunión inicial se celebró en Londres y asistieron:"
+
+#: ../getting_started/history.rst:22
+msgid "Matt Hamilton, Matthew Sital-Singh, Ben Ackland - Netsight (UK)"
+msgstr "Matt Hamilton, Matthew Sital-Singh, Ben Ackland - Netsight (Reino Unido)"
+
+#: ../getting_started/history.rst:23
+msgid "Guido Stevens - Cosent (NL)"
+msgstr "Guido Stevens - Cosent (Países Bajos)"
+
+#: ../getting_started/history.rst:24
+msgid "Alexander Pilz - Syslab.com (DE)"
+msgstr "Alexander Pilz - Syslab.com (Alemania)"
+
+#: ../getting_started/history.rst:25
+msgid "Rob Gietema - Four Digits (NL)"
+msgstr "Rob Gietema - Four Digits (Países Bajos)"
+
+#: ../getting_started/history.rst:26
+msgid "Philip Bauer - Starzel (DE) (remote)"
+msgstr "Philip Bauer - Starzel (Alemania) (remoto)"
+
+#: ../getting_started/history.rst:27
+msgid "Bernhard Bühlmann - 4Teamwork (CH) (remote)"
+msgstr "Bernhard Bühlmann - 4Teamwork (Suiza) (remoto)"
+
+#: ../getting_started/history.rst:29
+msgid ""
+"A number of key areas were identified which are common requirements for "
+"intranets and which have been repeatedly over and over by a number of "
+"similar Plone add-ons."
+msgstr ""
+"Se identificaron varias áreas clave que son requisitos comunes para "
+"intranets y que han sido repetidamente repetidas veces por una cantidad "
+"de complementos Plone similares."
+
+#: ../getting_started/history.rst:32
+msgid ""
+"Following a number of weekly Hangout sessions with the participants, a "
+"number of user stories were collected and organised into a `spreadsheet "
+"<https://docs.google.com/spreadsheet/ccc?key=0AmooreRUAv9PdGg4eG5VWkxZVS1EaWdCQllWWnh1Snc&usp=sharing>`_."
+msgstr ""
+"Después de varias sesiones semanales de Hangout con los participantes, se"
+" recopilaron varias historias de usuarios y se organizaron en una `hoja "
+"de cálculo "
+"<https://docs.google.com/spreadsheet/ccc?key=0AmooreRUAv9PdGg4eG5VWkxZVS1EaWdCQllWWnh1Snc&usp=sharing>`_."
+
+#: ../getting_started/history.rst:34
+msgid ""
+"In early 2014, Netsight received funding to research social software "
+"within the enterprise. This grant has been used to research new process "
+"methodologies to improve the success rate of the introduction of social "
+"technologies into the organisation environment. In particular, Netsight "
+"have focussed on profiling individuals, departments and an entire "
+"organisation in order to deliver relevant social content and user "
+"interface within an intranet system."
+msgstr ""
+"A principios de 2014, Netsight recibió fondos para investigar software "
+"social dentro de la empresa. Esta subvención se ha utilizado para "
+"investigar nuevas metodologías de proceso para mejorar la tasa de éxito "
+"de la introducción de tecnologías sociales en el entorno de la "
+"organización. En particular, Netsight se ha centrado en crear perfiles de"
+" personas, departamentos y una organización completa con el fin de "
+"proporcionar contenido social relevante e interfaz de usuario dentro de "
+"un sistema de intranet."
+
+#: ../getting_started/history.rst:36
+msgid ""
+"In October 2014, the Plone Intranet Consortium met in Munich and decided "
+"on a concrete commitment to developing Plone Intranet by investing money "
+"and manpower. Development was organised using Scrum and a roadmap for a "
+"first version was set."
+msgstr ""
+"En octubre de 2014, el Consorcio de Plone Intranet se reunió en Munich y "
+"se decidió por un compromiso concreto de desarrollar la Plone Intranet "
+"invirtiendo dinero y mano de obra. El desarrollo se organizó utilizando "
+"la metodología Scrum y se estableció una hoja de ruta para una primera "
+"versión."
+
+#: ../getting_started/history.rst:38
+msgid ""
+"In October 2015, the Plone Intranet Consortium was renamed into Quaive "
+"and the first production version of the software suite was released."
+msgstr ""
+"En octubre de 2015, Plone Intranet Consortium pasó a llamarse Quaive y se"
+" lanzó la primera versión de producción del paquete de software."
+
+#: ../getting_started/history.rst:40
+msgid "The founding partners of Quaive are:"
+msgstr "Los socios fundadores de Quaive son:"
+
+#: ../getting_started/history.rst:42
+msgid "Netsight (UK)"
+msgstr "Netsight (Reino Unido)"
+
+#: ../getting_started/history.rst:43
+msgid "Cosent (Netherlands)"
+msgstr "Cosent (Países Bajos)"
+
+#: ../getting_started/history.rst:44
+msgid "Syslab (Germany)"
+msgstr "Syslab (Alemania)"
+
+#: ../getting_started/history.rst:45
+msgid "FourDigits (Netherlands)"
+msgstr "FourDigits (Países Bajos)"
+
+#: ../getting_started/history.rst:46
+msgid "Abstract (Italy)"
+msgstr "Abstract (Italia)"
+
+#: ../getting_started/history.rst:47
+msgid "Red Turtle (Italy)"
+msgstr "Red Turtle (Italia)"
+
+#: ../getting_started/history.rst:48
+msgid "Starzel (Germany)"
+msgstr "Starzel (Alemania)"
+
+#: ../getting_started/history.rst:49
+msgid "Zest (Netherlands)"
+msgstr "Zest (Países Bajos)"
+
+#: ../getting_started/history.rst:52
+msgid "Important Aspects of Plone Intranet"
+msgstr "Aspectos importantes de Plone Intranet"
+
+#: ../getting_started/history.rst:54
+msgid "Design First"
+msgstr "Primero el diseño"
+
+#: ../getting_started/history.rst:55
+msgid "Roadmap-driven Scrum development"
+msgstr "Desarrollo de Scrum impulsado por mapa de ruta"
+
+#: ../getting_started/history.rst:56
+msgid "Quaive board funds roadmap"
+msgstr "Hoja de ruta de los fondos de la junta Quaive"
+
+#: ../getting_started/history.rst:57
+msgid "100% Open Source - all code is donated to the Plone Foundation"
+msgstr "100% de código abierto - todo el código se dona a la Fundación Plone"
+
+#: ../getting_started/history.rst:58
+msgid "NOT a core fork"
+msgstr "NO es un fork de núcleo"
+
+#: ../getting_started/history.rst:59
+msgid "Compatible with mockup"
+msgstr "Compatible con mockup"
+
+#: ../getting_started/history.rst:60
+msgid "NOT a €€€ conspiracy"
+msgstr "NO es una conspiración de €€€"
+
+#: ../getting_started/history.rst:61
+msgid "Plone 5 based"
+msgstr "Basado en Plone 5"
+
+#: ../getting_started/history.rst:65
+msgid "Further reading"
+msgstr "Otras lecturas"
+
+#: ../getting_started/history.rst:67
+msgid ""
+"The study `Systems of Intent <http://cosent.nl/roadmap>`_ created by "
+"Guido Stevens"
+msgstr ""
+"El estudio `Systems of Intent <http://cosent.nl/roadmap>`_ creado por "
+"Guido Stevens"
+
+#: ../getting_started/history.rst:68
+msgid "The Talk given at the Plone Conference 2014 in Bristol"
+msgstr "La charla impartida en la Conferencia Plone 2014 en Bristol"
+
+#: ../getting_started/history.rst:70
+msgid ""
+"Slides at `Slideshare <http://www.slideshare.net/GuidoStevens/plone-"
+"intranet-consortium-united-we-stand-divided-we-fall>`_"
+msgstr ""
+"Diapositivas en `Slideshare <http://www.slideshare.net/GuidoStevens"
+"/plone-intranet-consortium-united-we-stand-divided-we-fall>`_"
+
+#: ../getting_started/history.rst:71
+msgid "Video at `Vimeo <http://vimeo.com/110489988>`_"
+msgstr "Vídeo en `Vimeo <http://vimeo.com/110489988>`_"
+
+#: ../getting_started/history.rst:73
+msgid ""
+"Many talks given at the Plone Conference 2015 in Bucharest, see the "
+"`ploneintranet tweet stream`_"
+msgstr ""
+"Muchas charlas dadas en la Conferencia Plone 2015 en Bucarest, ver el "
+"`tweet stream ploneintranet`_"
+
+#: ../getting_started/importing_users.rst:2
+msgid "Importing Users"
+msgstr "Importando Usuarios"
+
+#: ../getting_started/importing_users.rst:6
+msgid ""
+"To start working with Quaive, you need users. Users are stored as user "
+"profiles in Quaive and store everything that Quaive knows about the user "
+"- from profile image and name to organisation and telephone number. You "
+"can find them in the /profiles folder."
+msgstr ""
+"Para comenzar a trabajar con Quaive, necesita usuarios. Los usuarios se "
+"almacenan como perfiles de usuario en Quaive y almacenan todo lo que "
+"Quaive sabe sobre el usuario, desde la imagen del perfil y el nombre "
+"hasta la organización y el número de teléfono. Puede encontrarlos en la "
+"carpeta /profiles."
+
+#: ../getting_started/importing_users.rst:8
+msgid ""
+"User profiles can be customised as well. Often, organisations have a "
+"central user database which supplies the basic information like name and "
+"contact details and is mainly used for authentication. If you want to "
+"store more data, Quaive user profiles can store this extra information "
+"for you."
+msgstr ""
+"Los perfiles de usuario se pueden personalizar también. A menudo, las "
+"organizaciones tienen una base de datos central de usuarios que "
+"proporciona la información básica, como el nombre y los detalles de "
+"contacto, y se utiliza principalmente para la autenticación. Si desea "
+"almacenar más datos, los perfiles de usuario de Quaive pueden almacenar "
+"esta información adicional por usted."
+
+#: ../getting_started/importing_users.rst:10
+msgid "There are two ways to get users into Quaive."
+msgstr "Hay dos maneras de hacer que los usuarios entren en Quaive."
+
+#: ../getting_started/importing_users.rst:12
+msgid ""
+"Connect Quaive to LDAP or Active Directory Please contact your system "
+"administrator to do that, as it requires knowledge about the "
+"organisations user database configuration."
+msgstr ""
+"Conecte Quaive a LDAP o Active Directory por favor, póngase en contacto "
+"con el administrador de su sistema para hacerlo, ya que requiere "
+"conocimiento sobre la configuración de la base de datos de usuarios de la"
+" organización."
+
+#: ../getting_started/importing_users.rst:14
+msgid "Import Users from a spreadsheet See how it's done below."
+msgstr "Importar usuarios de una hoja de cálculo Vea cómo se hace a continuación."
+
+#: ../getting_started/importing_users.rst:19
+msgid "Import Users from a spreadsheet"
+msgstr "Importar usuarios de una hoja de cálculo"
+
+#: ../getting_started/importing_users.rst:21
+msgid ""
+"There is a bulk upload from CSV option. Column names are mapped to field "
+"names, and the data is validated before users are created. The first line"
+" needs to contain the field names."
+msgstr ""
+"Hay una carga masiva de la opción CSV. Los nombres de las columnas se "
+"asignan a los nombres de los campos y los datos se validan antes de que "
+"se creen los usuarios. La primera línea debe contener los nombres de los "
+"campos."
+
+#: ../getting_started/importing_users.rst:23
+msgid ""
+"To use the bulk upload, visit the @@import-users browser view on the "
+"profiles folder in your site::"
+msgstr ""
+"Para usar la carga masiva, visite la vista del navegador @@import-users "
+"en la carpeta de perfiles de su sitio::"
+
+#: ../getting_started/importing_users.rst:27
+msgid ""
+"On this page, you will see a complete list of available field names. Here"
+" is an example of a CSV file that will create 2 users::"
+msgstr ""
+"En esta página, verá una lista completa de los nombres de campo "
+"disponibles. Aquí hay un ejemplo de un archivo CSV que creará 2 "
+"usuarios::"
+
+#: ../getting_started/importing_users.rst:37
+msgid "Portrait images"
+msgstr "Imágenes de retrato"
+
+#: ../getting_started/importing_users.rst:39
+msgid ""
+"After creating users with bulk upload, you can even bulk add portrait "
+"images as follows:"
+msgstr ""
+"Después de crear usuarios con carga masiva, puede incluso agregar "
+"imágenes en vertical de forma masiva de la siguiente manera:"
+
+#: ../getting_started/importing_users.rst:41
+msgid ""
+"In the site root, via the Barceloneta interface on cms.yoursite.com, add "
+"a Folder 'avatars' to the portal root"
+msgstr ""
+"En la raíz del sitio, a través de la interfaz de Barceloneta en "
+"cms.susitio.com, agregue una carpeta 'avatares' a la raíz del portal"
+
+#: ../getting_started/importing_users.rst:42
+msgid ""
+"Upload images into this folder with ids like 'johndoe.jpg' matching "
+"userid 'johndoe'"
+msgstr ""
+"Cargue imágenes en esta carpeta con ids como 'johndoe.jpg' que coincida con "
+"userid 'johndoe'"
+
+#: ../getting_started/importing_users.rst:43
+msgid "Run::"
+msgstr "Ejecutar::"
+
+#: ../getting_started/index.rst:2
+msgid "Getting Started with Quaive"
+msgstr "Comenzando con Quaive"
+
+#: ../getting_started/index.rst:6
+msgid ""
+"Welcome to Quaive! You have probably tried Quaive on a test server or "
+"installed it yourself, and now you want to configure it for real for your"
+" organisation? Let us explain better how Quaive is organised and how you "
+"should set things up so that you can get most out of your Quaive Social "
+"Intranet."
+msgstr ""
+"¡Bienvenido a Quaive! Probablemente haya probado Quaive en un servidor de"
+" pruebas o lo haya instalado usted mismo, ¿y ahora quiere configurarlo de"
+" manera real para su organización? Permítanos explicar mejor cómo se "
+"organiza Quaive y cómo debe configurar las cosas para que pueda sacar el "
+"máximo provecho de su Intranet de Quaive Social."
+
+#: ../getting_started/index.rst:8
+msgid ""
+"In Quaive, everything is about People and Content. Here is how it breaks "
+"down:"
+msgstr ""
+"En Quaive, todo se trata de la Gente y su Contenido. Aquí es cómo se "
+"descompone:"
+
+#: ../getting_started/index.rst:10
+msgid "People create Workspaces"
+msgstr "Las personas crea espacios de trabajos"
+
+#: ../getting_started/index.rst:11
+msgid "People create content in Workspaces"
+msgstr "Las personas crea contenidos en espacios de trabajos"
+
+#: ../getting_started/index.rst:12
+msgid ""
+"The social stream transports what's going on to everybody in the "
+"organisation"
+msgstr "La acción social transporta lo que está pasando a todos en la organización"
+
+#: ../getting_started/index.rst:13
+msgid "People post updates to the stream"
+msgstr ""
+"Las personas publican actualizaciones en el muro de las últimas "
+"actividades"
+
+#: ../getting_started/index.rst:14
+msgid "Content changes and comments go into the stream"
+msgstr ""
+"Los cambios de contenido y los comentarios entran en el muro de las "
+"últimas actividades"
+
+#: ../getting_started/index.rst:15
+msgid "Apps make it easy to find needed content right away"
+msgstr ""
+"Las aplicaciones hacen fácil buscar el contenido necesario de manera "
+"adecuada"
+
+#: ../getting_started/index.rst:16
+msgid "The dashboard aggregates and personalises current information"
+msgstr "El tablero agrega y personaliza la información actual"
+
+#: ../getting_started/index.rst:18
+msgid ""
+"To do all of this, you need to prepare a few things. This guide shouldn’t"
+" take you any longer than ten minutes to get through, front-to-back."
+msgstr ""
+"Para hacer todo esto, debes preparar algunas cosas. Esta guía no debe "
+"demorar más de diez minutos en llegar, de adelante hacia atrás."
+
+#: ../getting_started/overview.rst:2
+msgid "Overview"
+msgstr "Visión general"
+
+#: ../getting_started/overview.rst:7
+msgid "Quaive is a social intranet collaboration solution."
+msgstr "Quaive es una solución de colaboración social en la intranet."
+
+#: ../getting_started/overview.rst:9
+msgid ""
+"We’ve specifically developed the Quaive software to deliver the balance "
+"of social tools, structure, and process that customers demand to "
+"successfully introduce a modern digital workplace into their "
+"organisation."
+msgstr ""
+"Hemos desarrollado específicamente el software Quaive para ofrecer el "
+"equilibrio de las herramientas sociales, la estructura y el proceso que "
+"los clientes demandan para introducir con éxito un lugar de trabajo "
+"digital moderno en su organización."
+
+#: ../getting_started/overview.rst:12
+msgid "Be productive"
+msgstr "Se productivo"
+
+#: ../getting_started/overview.rst:12
+msgid "Provide staff with the tools and information they need to get things done"
+msgstr ""
+"Proporcionar al personal las herramientas y la información que necesitan "
+"para hacer las cosas"
+
+#: ../getting_started/overview.rst:15
+msgid "Work together"
+msgstr "Trabajar juntos"
+
+#: ../getting_started/overview.rst:15
+msgid ""
+"Strengthen internal communication, engage employees, build a sense of "
+"community"
+msgstr ""
+"Fortalecer la comunicación interna, involucrar a los empleados, construir"
+" un sentido de comunidad"
+
+#: ../getting_started/overview.rst:18
+msgid "Stay organised"
+msgstr "Mantente organizado"
+
+#: ../getting_started/overview.rst:18
+msgid "Manage key tasks and common business processes; keep up-to-date"
+msgstr "Administrar tareas clave y procesos comerciales comunes; mantenerse al día"
+
+#: ../getting_started/overview.rst:22
+msgid "On any device"
+msgstr "En cualquier dispositivo"
+
+#: ../getting_started/overview.rst:21
+msgid "Mobile, tablet, laptop, desktop"
+msgstr "Móvil, tableta, computadora portátil, escritorio"
+
+#: ../getting_started/overview.rst:24
+msgid ""
+"Quaive is a web based social intranet. However you should see Quaive more"
+" as an Application than a Website, even though there are a few website "
+"like aspects in it, like the news or the library. It performs much more "
+"application like tasks for you like aggregating information on the "
+"dashboard, support to share documents with your team and providing apps, "
+"which are small applications in itself."
+msgstr ""
+"Quaive es una intranet social basada en la web. Sin embargo, debería ver "
+"a Quaive más como una Aplicación que como un Sitio web, aunque hay "
+"algunos aspectos del sitio web, como las noticias o la biblioteca. "
+"Realiza muchas más tareas similares a las tareas para usted, como agregar"
+" información en el tablero, soporte para compartir documentos con su "
+"equipo y proporcionar aplicaciones, que son pequeñas aplicaciones en sí "
+"mismas."
+
+#: ../getting_started/overview.rst:26
+msgid "The main sections in Quaive are:"
+msgstr "Las secciones principales en Quaive son:"
+
+#: ../getting_started/overview.rst:28
+msgid ""
+"Dashboard - An aggregation of everything that is going on - personalised "
+"for you."
+msgstr "Tablero - una agregación de todo lo que sucede, personalizado para usted."
+
+#: ../getting_started/overview.rst:29
+msgid "News - A trail of what's going on within your organisation."
+msgstr "Noticias - una pista de lo que sucede dentro de su organización."
+
+#: ../getting_started/overview.rst:30
+msgid "Library - All information that concerns everybody in the organisation."
+msgstr "Biblioteca - toda la información que concierne a todos en la organización."
+
+#: ../getting_started/overview.rst:31
+msgid "Workspaces - All information that concerns your teams."
+msgstr "Espacios de trabajo - toda la información que concierne a sus equipos."
+
+#: ../getting_started/overview.rst:32
+msgid "Apps - All information that concerns you."
+msgstr "Aplicaciones - toda la información que le concierne."
+
+#: ../getting_started/overview.rst:34
+msgid ""
+"The Open Source version of Quaive goes also under the name Plone Intranet"
+" and has been created by a team of Plone Solution Providers in an effort "
+"to unify available solutions for intranet under a designed and "
+"streamlined solution. The effort is organised in a consortium with "
+"currently 12 members, totalling 49 contributors in 6 countries."
+msgstr ""
+"La versión de código abierto de Quaive también se conoce con el nombre de"
+" Plone Intranet y ha sido creada por un equipo de proveedores de "
+"soluciones Plone en un esfuerzo por unificar las soluciones disponibles "
+"para intranet bajo una solución diseñada y optimizada. El esfuerzo se "
+"organiza en un consorcio con actualmente 12 miembros, que suman 49 "
+"contribuyentes en 6 países."
+
+#: ../getting_started/setup.rst:3
+msgid "Set up your Intranet"
+msgstr "Instalar su Intranet"
+
+#: ../getting_started/setup.rst:8
+msgid "A step-by-step guide to configure initial parameters of your intranet"
+msgstr ""
+"Una guía paso-por-paso para configurar los parámetros iniciales de su "
+"intranet"
+
+#: ../getting_started/setup.rst:11
+msgid ""
+"For a first time installation, you will want to configure some settings. "
+"You can do that via the portal registry. These settings are listed below:"
+msgstr ""
+"Para una primera instalación, deseará configurar algunas configuraciones. "
+"Puede hacerlo a través de la herramienta portal registry (portal_registry) "
+"de Plone. Estas configuraciones se enumeran a continuación:"

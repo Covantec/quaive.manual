@@ -1,0 +1,879 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-14 20:56-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../workspaces/cases/index.rst:2
+msgid "Case Workspaces"
+msgstr ""
+
+#: ../workspaces/cases/index.rst:4
+msgid "Case workspaces are a special type of workspace which help teams to manage a shared work load with discreet milestones. You can configure a case workspace with a set of tasks and milestones and then re-use that configuration for new projects. You can also decide who is able to work on particular tasks during each milestone and notify workspace members when a particular milestone has been reached."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:8
+msgid "Let's step through the process of creating and using a case workspace."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:13
+msgid "Select \"Case Template\" as the workspace type."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:17
+msgid "Your Quaive site may have a selection of different pre-configured case workspaces available under the 'Special workspace' section."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:19
+msgid "Fill in the details and create the workspace."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:23
+msgid "On the case workspace you will see an overview of the tasks and milestones for this case workspace."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:27
+msgid "Please click on the tasks icon in the sidebar to configure additional tasks."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:31
+msgid "Let's create a new task to add members to the case workspace. Please click the button to add a new task to the \"New\" milestone."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:36
+msgid "You can add an assignee and a due date."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:40
+msgid "You will also see the assignee and due date on the case workspace."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:44
+msgid "You can now add complete the task by adding a team member. This works in exactly the same way as a normal workspace, using the :ref:`workspace-settings-members-label` settings."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:47
+msgid "There are two ways to mark a task as complete."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:51
+msgid "You can now see that the task is complete."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:55
+msgid "Once all the tasks for a milestone are complete, you can close the milestone and move on to the next one."
+msgstr ""
+
+#: ../workspaces/cases/index.rst:59
+msgid "You can now see that the milestone is closed, you can also reopen it from the task sidebar."
+msgstr ""
+
+#: ../workspaces/index.rst:2
+msgid "Workspaces"
+msgstr ""
+
+#: ../workspaces/index.rst:4
+msgid "In a Quaive site workspaces are the key areas for creating, organizing and sharing content. Workspaces represent projects or working units where the users that work on these projects are members of the workspace and collaborate by creating and editing content."
+msgstr ""
+
+#: ../workspaces/index.rst:7
+msgid "A very important aspect of workspaces is the security model that ensures that all content is only visible to those users who are supposed to see it."
+msgstr ""
+
+#: ../workspaces/index.rst:9
+msgid "In the most simple use-case, workspaces can be treated as folders for storing data that belongs to a specific project. But they provide many more powerful aspects, such as built-in events that will appear in the workspace calendar and the possibility to create and assigns tasks. All actions that happen in the workspace automatically appear in the social stream, where they can be commented on by the workspace members."
+msgstr ""
+
+#: ../workspaces/index.rst:11
+msgid "In this chapter of the manual we will take a closer look at Quaive's workspaces and how you can use them. All sections of a workspace, content elements and subsystems will be treated here."
+msgstr ""
+
+#: ../workspaces/index.rst:13
+msgid "All workspaces in a Quaive site can be accessed in the Workspaces section. To get there please use the navigation link in the main menu called \"Workspaces\"."
+msgstr ""
+
+#: ../workspaces/index.rst:15
+msgid "This opens the workspaces overview page. Here you can get an overview over all workspaces currently existing in the Quaive site and you have the necessary permissions to see. The workspaces are displayed as coloured tiles with their title and - if existing - a short description of what they are about."
+msgstr ""
+
+#: ../workspaces/index.rst:21
+msgid "Read on to create your first workspace and discover all sections and content objects that make a workspace that powerful tool it is meant to be:"
+msgstr ""
+
+#: ../workspaces/locking.rst:2
+msgid "Locking"
+msgstr ""
+
+#: ../workspaces/locking.rst:6
+msgid "Quaive provides locking support to prevent concurrent edits on the documents."
+msgstr ""
+
+#: ../workspaces/locking.rst:8
+msgid "When the user starts to edit a document, the document goes in to a locked state."
+msgstr ""
+
+#: ../workspaces/locking.rst:11
+msgid "This is transparent for the user editing the document, but other users that will visit the document will find a locked badge instead of the normal save button."
+msgstr ""
+
+#: ../workspaces/locking.rst:20
+msgid "Clicking on the locked badge will pop up a panel that tells the user what is going on and offers some actions:"
+msgstr ""
+
+#: ../workspaces/locking.rst:23
+msgid "the user can start a chat through the messaging app with the user who started editing the document"
+msgstr ""
+
+#: ../workspaces/locking.rst:25
+msgid "the user can force the document unlock"
+msgstr ""
+
+#: ../workspaces/versioning.rst:4
+msgid "Versioning"
+msgstr ""
+
+#: ../workspaces/versioning.rst:6
+msgid "Versioning for uploaded files can be enabled optionally. Please contact your site's administrator for enabling it."
+msgstr ""
+
+#: ../workspaces/versioning.rst:8
+msgid "If versioning is enabled and you are uploading a new version of a file that already exists in Quaive, then the old version of the file is not simply replaced, but kept in the system. Although users will then see the new version of the file by default, they can still access previous versions of it."
+msgstr ""
+
+#: ../workspaces/versioning.rst:10
+msgid "The example below shows an Excel file that is present in a workspace. We can see the preview for this file:"
+msgstr ""
+
+#: ../workspaces/versioning.rst:14
+msgid "If you click on the symbol with three dots, you can open the version history:"
+msgstr ""
+
+#: ../workspaces/versioning.rst:18
+msgid "It shows only one entry, for the initial action:"
+msgstr ""
+
+#: ../workspaces/versioning.rst:22
+msgid "We have detected a typo in the Excel file. Therefore we want to upload a new version of it. In the edit form, we tick the check-box \"Save a new version\", select the file to upload, and optionally provide a comment that explains the changes made. A click on the \"Save\" button uploads the file and creates a new version:"
+msgstr ""
+
+#: ../workspaces/versioning.rst:26
+msgid "After a short while, the preview is re-generated, reflecting the updated state of the file:"
+msgstr ""
+
+#: ../workspaces/versioning.rst:30
+msgid "If we look at the version history again, we can see a new entry about our change. We see *who* made the change, *when* the change was made and *what* the nature of the change was (\"edited\"). Also, we see the manually entered change note. By clicking on the \"View\" link next to a version, we can jump to the details page."
+msgstr ""
+
+#: ../workspaces/versioning.rst:34
+msgid "On the details page for a specific version, we see at the top again the list of all versions. At the lower part of the page, we see the details of the version we are currently viewing. Most importantly, we can use the \"Download\" button for downloading this version of the file."
+msgstr ""
+
+#: ../workspaces/versioning.rst:36
+msgid "In case a new version is not wanted, a click on \"Revert to this revision\", next to one of the older versions in the table above, will restore the selected older version."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:4
+msgid "Create Content"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:6
+msgid "This part of the manual is about how to use and create content in an existing workspace."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:8
+msgid "The page icon opens the documents section. Here all content of a workspace is listed and managed. There are several content types available to store and manage data in a workspace:"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:13
+msgid "The main content types for workspaces currently existing in Quaive are:"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:19
+msgid "In this section, the works as a file browser where the existing content of a workspace is presented in a list as you know it from the file browser on your computer. There are several possibilities to group, filter or search for the elements in the sidebar to help you managing your content."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:22
+msgid "Learn more about using the sidebar for managing workspace content here: :ref:`workspace-manage-content-label`"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:26
+msgid "Document"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:28
+msgid "The document is the basic content type in Quaive. Documents are used to store text and have basic formatting possibilities to display it."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:31
+msgid "How to create a document"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:33
+msgid "To create a document a workspace, click the dots icon in the sidebar to open the more menu."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:37
+msgid "Select \"Create document\" from the list of actions."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:41
+msgid "A form opens where you can choose the object type to be added. As \"Rich text\" is already selected, you do not have to change it. Type in a title and if wanted a short description for your new document and click \"Create\"."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:46
+msgid "Your document is created and can be edited."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:50
+msgid "Type your text in the given text area of the open document. For formatting you can use the editor functions above the text-area which allow basic formatting as list elements, tables and also embedded images or links."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:56
+msgid "Folder"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:58
+msgid "Folders in Quaive work much like they do on your computer. They can be used to structure and organize the content of your workspace. A folder has a title and a description and can store all other types of workspace content."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:62
+msgid "How to create a folder"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:64
+msgid "To add a new folder, click the dots icon in the sidebar to open the more menu."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:68
+msgid "Select \"Create folder\" from the list of actions."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:72
+msgid "A form opens where you can type in title and a short description of your new folder."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:76
+msgid "After clicking the button \"Create\" the folder is added to your workspace and immediately opens in the sidebar. Now you can add content to your new folder."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:79
+msgid "You can change title and description of existing folders by clicking the pencil icon behind the title of the folder in the sidebar. To get one level up back to the workspace's root folder click the link on the workspace title above the sidebar search field."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:87
+msgid "Image"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:89
+msgid "An Image object in Quaive is used for uploading image files (JPG, GIF, PNG) so that you can insert them into Quaive documents or just have them stored in your workspace."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:91
+msgid "When uploading an image a preview is generated automatically to make it easy for you to find your images within the workspace."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:95
+msgid "How to upload an image"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:97
+msgid "Images can either be created as described in the section \"How to create a document\" or - as files - simply uploaded. As the method to create an image object is almost the same as for documents we will take a closer look at the uploading method here."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:100
+msgid "When looking at the sidebar within a workspace or a folder in document section, you can find an upload area below the list of content."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:104
+msgid "This area is used to upload an image (or also a file). To do this you have two possibilities: You can either click the link within the drop area and select an image via the opening file browser"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:109
+msgid "Or you can just add image(s) by dragging the image(s) you want to add from the file browser of your computer over the drop area"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:113
+msgid "Both actions have the same effect, the image (or if more were selected images) is queued for upload below the upload area and you can watch the upload process of several objects easily."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:117
+msgid "After the upload process has finished, the image occurs in the list of object in the sidebar. To view the image, simply click on the list entry and the image is opened in the main content area."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:124
+msgid "File"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:126
+msgid "A File in Quaive is one of the most powerful objects as it can hold any kind of binary file you wish to upload with the intent to be downloaded by your site visitors. Common examples are PDFs, Word Documents, Excel tables and spreadsheets. For the uploaded file a preview is generated automatically to give the user an idea of what the file is about."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:129
+msgid "There is also the possibility to have version management for files in Quaive. This is a powerful method to view and even restore older versions of a file and also get an overview over the versions in a table like version history view."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:131
+msgid "Read more about versioning here: :ref:`workspace-versioning`."
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:134
+msgid "How to upload a file"
+msgstr ""
+
+#: ../workspaces/workspace_content/index.rst:136
+msgid "Uploading files works exactly the same way as uploading images - so for a how to please read \"How to upload an image_\""
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:4
+#: ../workspaces/workspace_overview.rst:86
+msgid "Events"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:6
+msgid "This part of the manual is about how to use and create events in an existing workspace."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:8
+msgid "Quaive has a powerful built-in system for managing and showing calendar events. Besides that, every workspace in Quaive can hold it's own event which makes it possible to keep users informed on important dates concerning their workspaces."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:11
+msgid "There is also a calendar App existing in Quaive which allows you to get an overview over all events in all workspaces that are relevant for you. .. Learn more about the calendar App here:"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:14
+msgid "To access the calendar of your workspace and see which events are scheduled please click the little calendar icon in the section navigation of your workspace."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:18
+msgid "In this part of the manual you will"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:26
+msgid "Create an event in a workspace"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:28
+msgid "To create an event in a workspace, click the plus icon in the sidebar."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:32
+msgid "This opens the create event form."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:36
+msgid "We will take a closer look to the fields on the create events form. From the top they are:"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:38
+msgid "**Event title** (*required*): The title is displayed in all places where the event is listed - calendar, portlets, listings, ..."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:39
+msgid "**Notes**: the description is also displayed in some overviews and should therefor be short"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:40
+msgid "**Location**: the location the event takes place (free text)"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:41
+msgid "**Organiser** (user picker field): the user organising the event"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:42
+msgid "**All day event**: when this is selected, the start and end time settings of the event are ignored"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:43
+msgid "**From** (*required*) (calendar field): the date and time the event starts"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:44
+msgid "**To** (*required*) (calendar field): the date and time the event ends"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:45
+msgid "**Timezone**: the time-zone for the event's start and end times"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:46
+msgid "**Invitees** (user picker field): the users that are invited to the event"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:48
+msgid "Only the title field and the start and end date and time are required. All other fields are optional and can also be left blank."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:50
+#: ../workspaces/workspace_tasks/index.rst:44
+msgid "For date fields in Quaive a handy popup-calendar helps you selecting the date easily."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:55
+msgid "Quaive user picker field"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:57
+msgid "For the user related fields Quaive offers a special user picker that helps you browsing the user database to find portal users and assign them:"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:61
+msgid "Just enter two or more chars to search for a user within the whole Quaive portal"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:65
+msgid "When selecting a user from the list of search results, the field is filled with the correct name and email address."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:69
+msgid "That's how the form looks for our test event. To create the event just click the button \"Create\" at the bottom of the form."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:73
+msgid "Your event is now created and listed in the sidebar under \"Upcoming events\"."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:75
+#: ../workspaces/workspace_tasks/index.rst:55
+msgid "There will be a section older events which holds events of this workspace with end dates in the past. You can see that in the next chapter of this manual when we take a closer look at the workspace's :ref:`calendar-view-label`."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:83
+msgid "Use the Calendar view"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:85
+msgid "Besides the list of events in the sidebar Quaive offers a calendar with several view options within the workspace to get a quick overview over all events scheduled for this workspace."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:87
+msgid "To open the calendar view please click the link \"Workspace calendar\" at the top of the sidebar."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:91
+msgid "The calendar shows up with a month overview for the current month. All upcoming events and events of the last few weeks are displayed with their start time, their title and the location they are supposed to take place in brackets."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:96
+msgid "In each workspace you have also the possibility to display all events you are allowed to see that reside in other workspaces. To show them up in your current workspace's calendar view just tick the checkbox \"All calendars\" above the calendar grid."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:101
+msgid "This displays all events for the visible period of time. Events that do not belong to the workspace you are currently in are displayed in a transparent way to make it easy for you to see which events are from other workspaces."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:106
+msgid "In the Quaive workspace calendar view - same as in the Quaive calendar app - you can switch between the calendar month, week or day view. Here you can see the calendar week view:"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:111
+msgid "And the calendar day view:"
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:115
+msgid "In all calendar views you can also create new events by simply clicking the tile for this day or time period. This will open a compact popup form to create your events in a quick and easy way."
+msgstr ""
+
+#: ../workspaces/workspace_events/index.rst:120
+msgid "There is also an option to view the events of you local workspace's calendar in the central calendar app. To enable this you have to change the setting \"Workspace calendar visible in central calendar application\" in the workspace general settings section as described here: :ref:`workspace-settings-central-calendar-label`"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:4
+msgid "Manage Content"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:6
+msgid "In the documents section of a workspace the sidebar presents the content of the current workspace in a similar way a file browser on your computer does. This enables you to get an overview over the content of your workspace."
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:9
+msgid "To improve organization there are several display options to group, filter and hide content objects. A powerful search option also helps to find special objects in even large workspaces within a few seconds."
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:11
+msgid "Besides display functionality the sidebar also offers a lot of batch actions and other functionality:"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:19
+msgid "Group by option"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:23
+msgid "Sidebar search"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:27
+msgid "Display options"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:29
+msgid "show archived files"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:30
+msgid "show archived tags"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:31
+msgid "show my documents only"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:35
+msgid "Batch actions"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:37
+msgid "select mode"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:38
+msgid "cut/copy/paste"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:39
+msgid "send"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:40
+msgid "archive"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:41
+msgid "download"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:42
+msgid "delete"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:43
+msgid "re-tag"
+msgstr ""
+
+#: ../workspaces/workspace_manage_content/index.rst:44
+msgid "rename"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:2
+msgid "Overview"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:4
+msgid "In this section of the manual you will create your first demo workspace. Then we will take a closer look at the different sections of this workspace."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:9
+msgid "Create a workspace"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:11
+msgid "On the workspaces overview page that was shown on the Workspaces page of this manual, you can find a plus icon above the list of existing workspaces."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:16
+msgid "**Note:** If you cannot see the plus icon the user you are using does not have the necessary permissions to create workspaces within the Quaive portal. Please ask your site administrator to grant you the necessary permissions."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:18
+msgid "After clicking the plus icon, a form opens for creating the new workspace"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:22
+msgid "Fill in a title and - if wanted - a short description what this workspace is about. The pulldown below the description text area is about the security settings of the workspace. For this first workspace we will use the default value for the security settings and so will create a self-managed, private workspace."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:26
+msgid "**Note:** You can see the different options when looking at the pulldown values and can get information about the different security policies and their effects on the workspace accessibility when selecting them. For more information on security policies please take a look here: :ref:`workspace-settings-security-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:28
+msgid "Then click \"Create workspace\" to finally create your first workspace."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:32
+msgid "When entering a workspace you can see a set of icons in the coloured vertical bar on the left of the page. This is the section navigation of the workspace and the icons represent the different sections of the workspace. Clicking them opens the sidebar, a vertical panel for the selected section."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:36
+msgid "The different sections of a workspace are listed here. Click one of the links to get more information about a specific workspace sections:"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:38
+msgid ":ref:`workspace-overview-home-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:39
+msgid ":ref:`workspace-overview-settings-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:40
+msgid ":ref:`workspace-overview-documents-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:41
+msgid ":ref:`workspace-overview-events-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:42
+msgid ":ref:`workspace-overview-tasks-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:48
+msgid "Home"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:50
+msgid "The first icon - the house icon - represents the home view of a workspace. When clicking on it the sidebar is closed and the main view of the workspace with the social stream is displayed."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:53
+msgid "Learn more about using the social stream here: :ref:`social-stream-label`."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:61
+#: ../workspaces/workspace_settings/index.rst:4
+msgid "Settings"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:63
+msgid "The gearwheel icon opens the settings section. Here all metadata of a workspace is stored and managed. Also the members of a workspace and the workspace security settings can be edited in this area."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:66
+msgid "Learn more about managing the workspace settings here: :ref:`workspace-settings-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:74
+msgid "Documents"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:76
+msgid "In the documents section all content stored in a workspace is managed."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:78
+msgid "Learn more about handling workspace content here: :ref:`workspace-content-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:88
+msgid "In Quaive every workspace has its own calendar where the events of this workspace are displayed and can be managed. There is also an option to have workspace events displayed in the site wide calendar app to be served to users outside the workspace."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:91
+msgid "Learn more about the workspace calendar and handling events here: :ref:`workspace-events-label`"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:99
+#: ../workspaces/workspace_tasks/index.rst:4
+msgid "Tasks"
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:101
+msgid "In this section the tasks of this workspace are managed. New tasks can be created and you also can get an overview over tasks created and assigned to you by other workspace users. You can also see if a task is still open or already closed."
+msgstr ""
+
+#: ../workspaces/workspace_overview.rst:103
+msgid "Learn more about tasks and their usage within a workspace here: :ref:`workspace-tasks-label`"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:6
+msgid "This part of the manual is about how to change the different workspace settings."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:8
+msgid "The gearwheel icon opens the settings section. Here all metadata of a workspace is stored and managed. Also the members of a workspace and the workspaces security settings can be edited in this area."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:13
+msgid "When in settings section, you can see several tabs at the top of the sidebar. These tabs open the available subsections of the workspace settings:"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:22
+msgid "General"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:23
+msgid "Here general metadata like title, description and the workspace's hero image can be changed."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:28
+msgid "How to change title and description of a workspace"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:30
+msgid "To change a workspace's title and description just type a new title or description in the text field or area in the sidebar."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:34
+msgid "The metadata is immediately autosaved and a info popup tells you that some attributes have been changed."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:38
+msgid "After the page is reloaded you can see the new workspace title in the breadcrumbs and the workspace header."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:44
+msgid "How to change the hero image of a workspace"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:46
+msgid "Each workspace can have a hero image to be displayed as a visual element in the workspace's header section background. Changing this image can also be done in the general settings section."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:49
+msgid "To change the image click the \"upload\" button in the sidebar and select an image in the opening file browser of your computer."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:53
+msgid "The image will be changed immediately as the metadata again is autosaved."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:57
+msgid "Reloading the page will display the image in the header section of your workspace."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:64
+msgid "How to display the workspace events in the global calendar"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:66
+msgid "There is a possibility to display the events of your workspace in the global calendar app. To enable this you have to check the checkbox \"Workspace calendar visible in central calendar application\""
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:69
+msgid "Learn more about events and the workspace calendar here: :ref:`workspace-events-label`"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:78
+msgid "Members"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:79
+msgid "In the Members section you can see which users and groups are members of this workspace and which roles they have on it. Here you can add new members or groups, delete existing ones or change the specific role of a member or a group."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:92
+msgid "Security"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:93
+msgid "On the security panel you can see the current security settings of the workspace. This is called the workspace policy. You can get information about the external visibility, the join policy and the participant policy of a workspace. All these settings of a workspace can be changed for existing workspaces whenever needed. Short explanations offer information about the current and possible options for these settings to make sure what effects on the workspace and it's content a change has."
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:104
+msgid "Advanced"
+msgstr ""
+
+#: ../workspaces/workspace_settings/index.rst:105
+msgid "In the advanced settings section extended functionality on a workspace can be found such as setting up related workspaces, division support but also actions like archiving, freezing or deleting the workspace"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:6
+msgid "This part of the manual is about how to use and create tasks in an existing workspace."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:8
+msgid "In a workspace in Quaive you can use tasks to define small pieces of work and - if you want - assign this to another user. Tasks can be closed when the job is finished and reopened again if this seems necessary. A notification email is sent out to the different users when a task was edited or it's status was changed."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:12
+msgid "To access the task section of your workspace and see existing tasks and their status click the little checkbox icon in the section navigation of your workspace."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:16
+msgid "Now you will learn how to"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:24
+msgid "Create a task in a workspace"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:26
+msgid "To create a task in a workspace, click the plus icon in the sidebar."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:30
+msgid "This opens the create task form."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:34
+msgid "We will take a closer look to the fields on the create task form. From the top they are:"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:36
+msgid "**Task title** (*required*): The title is displayed in all places where the task is listed - sidebar, portlets, listings, ..."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:37
+msgid "**Description**: the description can be used to describe the task if necessary"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:38
+msgid "**Initiator** (user picker field): the user initiating the task (this field is prefilled by the user who created the task)"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:39
+msgid "**Assignee** (user picker field): the user the task is assigned to"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:40
+msgid "**Due date** (calendar field): the due date this task should be done"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:42
+msgid "Only the title field is required. All other fields are optional and can also be left blank."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:46
+msgid "For the user related fields Quaive offers a special user picker that helps you browsing the user database to find portal users and assign them. More about the user picker field type you can read in the events section here :ref:`quaive-user-picker-field-label`"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:49
+msgid "That's how the form looks for our test task. To create the task just click the button \"Create\" at the bottom of the form."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:53
+msgid "Your task is now created and listed in the sidebar under \"General tasks\"."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:61
+msgid "Change the status of a task"
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:63
+msgid "When you create a task in a workspace, the status of this task is open. This means, the work still has to be done, the job awaits doing."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:65
+msgid "Usually you assign a task to a specific user and then this user has the task in his task list on the dashboard to see action needs to be done. After this user - or also someone else - did the job, he may want to inform you about it and this can be done by closing the task. So a closed task tells you the work has been done."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:69
+msgid "Of course tasks can be reopened again if needed so the actions described now can also be performed to re-open a closed task. You can see the current status of all tasks in the sidebar by looking at the task's checkbox. Checked means the task is done, unchecked means it's still open."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:74
+msgid "To close our newly created task we click on the task title in the sidebar to open the task's edit view. In the edit actions bar you can see the current status of the task. For our task, the status is \"Open\" - you can also see this in the sidebar."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:79
+msgid "To change the status of the task open the status pulldown and select \"Done\"."
+msgstr ""
+
+#: ../workspaces/workspace_tasks/index.rst:83
+msgid "A spinner shows that the status of the task is changed immediately and also the sidebar is updated automatically - the checkbox in front of the task is checked now. You can also use the sidebar checkboxes to close or re-open a task by simply checking or unchecking it's checkbox."
+msgstr ""
+

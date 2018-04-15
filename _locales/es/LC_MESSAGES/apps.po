@@ -1,0 +1,548 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-15 09:18-0400\n"
+"PO-Revision-Date: 2018-04-15 09:19-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../apps/administrator-tool/index.rst:2
+msgid "Administrator tool"
+msgstr "Herramienta de administrador"
+
+#: ../apps/administrator-tool/index.rst:6
+msgid "The applications eases the life of the site administrators."
+msgstr "Las aplicaciones facilitan la vida de los administradores del sitio."
+
+#: ../apps/administrator-tool/index.rst:10
+msgid "User management"
+msgstr "Administración de usuario"
+
+#: ../apps/administrator-tool/index.rst:12
+msgid ""
+"A fully featured user listing view, providing a search and sorting "
+"options, allows the administrator to have full control on its site users."
+msgstr ""
+"Una vista de lista de usuarios con todas las características, que "
+"proporciona opciones de búsqueda y clasificación, permite al "
+"administrador tener control total sobre los usuarios de su sitio."
+
+#: ../apps/administrator-tool/index.rst:15
+msgid "The users can be sorted:"
+msgstr "Los usuarios pueden ser ordenados:"
+
+#: ../apps/administrator-tool/index.rst:17
+msgid "Alphabetically"
+msgstr "Alfabéticamente"
+
+#: ../apps/administrator-tool/index.rst:18
+msgid "By their state"
+msgstr "Por su estado"
+
+#: ../apps/administrator-tool/index.rst:19
+msgid "By creation date"
+msgstr "Por fecha de creación"
+
+#: ../apps/administrator-tool/index.rst:20
+msgid "By login date"
+msgstr "Por fecha de inicio de sesión"
+
+#: ../apps/administrator-tool/index.rst:22
+msgid ""
+"Through this application it is possible to add a new user and control "
+"their state."
+msgstr ""
+"A través de esta aplicación, es posible agregar un nuevo usuario y "
+"controlar su estado."
+
+#: ../apps/administrator-tool/index.rst:27 ../apps/bookmarks/index.rst:36
+#: ../apps/calendar/index.rst:10
+msgid "Screenshots"
+msgstr "Capturas de pantallas"
+
+#: ../apps/administrator-tool/index.rst:30
+#: ../apps/administrator-tool/index.rst:36 ../apps/bookmarks/index.rst:39
+#: ../apps/bookmarks/index.rst:45 ../apps/calendar/index.rst:13
+msgid "The app landing page"
+msgstr "La página de inicio de la aplicación"
+
+#: ../apps/administrator-tool/index.rst:38
+msgid ""
+"It shows all the users sorted alphabetically and with the possibility to "
+"search for users. If you have lots of users do not worry! The users are "
+"paginated and will load automatically as you scroll the page."
+msgstr ""
+"Muestra todos los usuarios ordenados alfabéticamente y con la posibilidad"
+" de buscar usuarios. Si tienes muchos usuarios, ¡no te preocupes! Los "
+"usuarios están paginados y se cargarán automáticamente a medida que se "
+"desplaza por la página."
+
+#: ../apps/administrator-tool/index.rst:45
+#: ../apps/administrator-tool/index.rst:51
+msgid "The users sorted by their account status"
+msgstr "Los usuario ordenados por su estatus de cuenta"
+
+#: ../apps/administrator-tool/index.rst:56
+#: ../apps/administrator-tool/index.rst:62
+msgid "The activate/deactivate user confirmation panel"
+msgstr "El panel de confirmación de activar/deactivar usuario"
+
+#: ../apps/administrator-tool/index.rst:64
+msgid ""
+"On each row of the user listing there is a badge showing the user status."
+" By clicking on it you will be redirected to a panel asking you to "
+"confirm if you want to toggle the user state."
+msgstr ""
+"En cada fila de la lista de usuarios hay una insignia que muestra el "
+"estado del usuario. Al hacer clic en él, se le redirigirá a un panel que "
+"le pedirá que confirme si desea alternar el estado del usuario."
+
+#: ../apps/administrator-tool/index.rst:71
+#: ../apps/administrator-tool/index.rst:77
+msgid "The create user panel"
+msgstr "El panel de creación de usuario"
+
+#: ../apps/administrator-tool/index.rst:79
+msgid ""
+"By clicking the plus icon in the app landing page it is possible to add a"
+" new user. The user will receive an email (be sure your mail setting in "
+"the Plone control panel are ok) with a link to reset his password."
+msgstr ""
+"Al hacer clic en el icono más en la página de inicio de la aplicación, es"
+" posible agregar un nuevo usuario. El usuario recibirá un correo "
+"electrónico (asegúrese de que su configuración de correo en el panel de "
+"control de Plone esté bien) con un enlace para restablecer su contraseña."
+
+#: ../apps/administrator-tool/index.rst:87
+msgid "How can I?"
+msgstr "¿Como puedo yo?"
+
+#: ../apps/administrator-tool/index.rst:90
+msgid "How can I delete a user?"
+msgstr "¿Como puedo yo eliminar un usuario?"
+
+#: ../apps/administrator-tool/index.rst:92
+msgid ""
+"Deleting a user is discouraged in Quaive, because this could break the "
+"\"social\" aspect of the intranet. Any content that a user has created is"
+" suddenly without a connection to the creator. That is why in the "
+"Administrator Tool, you can only disable a user to prevent further "
+"logging in."
+msgstr ""
+"Se desaconseja eliminar a un usuario en Quaive, porque esto podría romper"
+" el aspecto \"social\" de la intranet. Cualquier contenido que un usuario"
+" haya creado de repente no tiene conexión con el creador. Es por eso que "
+"en la Herramienta de Administrador, solo se puede deshabilitar a un "
+"usuario para evitar el inicio de sesión adicional."
+
+#: ../apps/administrator-tool/index.rst:94
+msgid ""
+"However, there might be a reason to really delete a users, e.g. if you "
+"created a duplicate account. This is possible in the CMS "
+"https://cms[yourname].quaivecloud.com/profiles/folder_contents."
+msgstr ""
+"Sin embargo, puede haber una razón para eliminar realmente a los "
+"usuarios, ej. si creaste una cuenta duplicada. Esto es posible en el CMS "
+"https://cms[sunombre].quaivecloud.com/profiles/folder_contents."
+
+#: ../apps/administrator-tool/index.rst:96
+msgid ""
+"In the root, click on \"Contents\", then on Profiles. This takes you "
+"here: https://cms[yourname].quaivecloud.com/profiles/folder_contents."
+msgstr ""
+"En la raíz, haga clic en \"Contenido\", luego en Perfiles. Esto te lleva "
+"aquí: https://cms[sunombre].quaivecloud.com/profiles/folder_contents."
+
+#: ../apps/administrator-tool/index.rst:98
+msgid ""
+"Locate the duplicate profile: just hover over the link to see the URL. "
+"Tick the duplicate one, press Delete. Warning: for a new user who has not"
+" created any content yet, this should be no problem. But deleting a user "
+"this way who has created content already will lead to broken links."
+msgstr ""
+"Ubique el perfil duplicado: simplemente coloque el cursor sobre el enlace"
+" para ver la dirección URL. Marque el perfil duplicado, presione "
+"Eliminar. Advertencia: para un nuevo usuario que aún no ha creado ningún "
+"contenido, esto no debería ser un problema. Pero eliminar a un usuario de"
+" esta manera que ya ha creado contenido dará lugar a enlaces rotos."
+
+#: ../apps/bookmarks/index.rst:2
+msgid "Bookmarks"
+msgstr "Marcadores"
+
+#: ../apps/bookmarks/index.rst:6
+msgid ""
+"The bookmark app takes care of providing the best way to find the "
+"documents you care about."
+msgstr ""
+"La aplicación de marcadores se ocupa de proporcionar la mejor manera de "
+"encontrar los documentos que te interesan."
+
+#: ../apps/bookmarks/index.rst:8
+msgid "The app provides you convenient groupings for your bookmarks:"
+msgstr ""
+"La aplicación te proporciona agrupaciones convenientes para tus "
+"marcadores:"
+
+#: ../apps/bookmarks/index.rst:10
+msgid "by first letter (the default one)"
+msgstr "por primera letra (la opción por defecto)"
+
+#: ../apps/bookmarks/index.rst:11
+msgid "by workspace"
+msgstr "por espacio de trabajo"
+
+#: ../apps/bookmarks/index.rst:12
+msgid "by document creation date"
+msgstr "por fecha de creación de documento"
+
+#: ../apps/bookmarks/index.rst:13
+msgid "by bookmarking date"
+msgstr "por fecha de marcador"
+
+#: ../apps/bookmarks/index.rst:15
+msgid ""
+"Your bookmarking experience is enhanced by the tabs that provide "
+"alternatives views that focus on subsets of documents."
+msgstr ""
+"Su experiencia de marcadores se ve reforzada por las pestañas que ofrecen"
+" vistas alternativas que se centran en subconjuntos de documentos."
+
+#: ../apps/bookmarks/index.rst:18
+msgid "We currently have the following:"
+msgstr "Actualmente tenemos lo siguiente:"
+
+#: ../apps/bookmarks/index.rst:20
+msgid "All bookmarks (the default one)"
+msgstr "Todos los marcadores (el predeterminado)"
+
+#: ../apps/bookmarks/index.rst:21 ../apps/index.rst:2
+msgid "Apps"
+msgstr "Aplicaciones"
+
+#: ../apps/bookmarks/index.rst:22
+msgid "Workspaces"
+msgstr "Espacios de trabajo"
+
+#: ../apps/bookmarks/index.rst:23
+msgid "People"
+msgstr "Gente"
+
+#: ../apps/bookmarks/index.rst:24
+msgid "Documents"
+msgstr "Documentos"
+
+#: ../apps/bookmarks/index.rst:26
+msgid ""
+"Convenients tiles are provided for your dashboard. You can have bookmark "
+"tiles:"
+msgstr ""
+"Los mosaicos convenientes se proporcionan para su tablero. Puedes tener "
+"mosaicos de marcadores:"
+
+#: ../apps/bookmarks/index.rst:29
+msgid ""
+"For all your bookmarked documents (the tile provides a search filter and "
+"a most popular bookmarks tab)"
+msgstr ""
+"Para todos sus documentos marcados (el mosaico proporciona un filtro de "
+"búsqueda y una pestaña de favoritos más popular)"
+
+#: ../apps/bookmarks/index.rst:30
+msgid "For all your bookmarked workspaces"
+msgstr "Para todos sus espacios de trabajo marcados"
+
+#: ../apps/bookmarks/index.rst:31
+msgid "For all your bookmarked apps"
+msgstr "Para todos sus aplicaciones marcadas"
+
+#: ../apps/bookmarks/index.rst:47
+msgid "It shows all the bookmarks sorted alphabetically and grouped first letter"
+msgstr ""
+"Muestra todos los marcadores ordenados alfabéticamente y la primera letra"
+" agrupada"
+
+#: ../apps/bookmarks/index.rst:52 ../apps/bookmarks/index.rst:58
+msgid "The bookmarks grouped by workspace"
+msgstr "Los marcadores agrupados por espacio de trabajo"
+
+#: ../apps/bookmarks/index.rst:60
+msgid "It shows all the bookmarks grouped by workspace"
+msgstr "Muestra todos los marcadores agrupados por espacio de trabajo"
+
+#: ../apps/bookmarks/index.rst:64 ../apps/bookmarks/index.rst:70
+msgid "The Workspaces alternative view"
+msgstr "La vista alternativa de Espacios de trabajo"
+
+#: ../apps/bookmarks/index.rst:72
+msgid "It shows all your bookmarked workspaces"
+msgstr "Muestra todos tus espacios de trabajo marcados"
+
+#: ../apps/bookmarks/index.rst:76 ../apps/bookmarks/index.rst:82
+msgid "The Apps alternative view"
+msgstr "La vista alternativa de Aplicaciones"
+
+#: ../apps/bookmarks/index.rst:84
+msgid "It shows all your bookmarked apps"
+msgstr "Muestra todos tus aplicaciones marcadas"
+
+#: ../apps/bookmarks/index.rst:88 ../apps/bookmarks/index.rst:94
+msgid "The People alternative view"
+msgstr "La vista alternativa de Personas"
+
+#: ../apps/bookmarks/index.rst:96
+msgid "It shows all your bookmarked people"
+msgstr "Muestra todos tus personas marcadas"
+
+#: ../apps/bookmarks/index.rst:100 ../apps/bookmarks/index.rst:106
+msgid "The Documents alternative view"
+msgstr "La vista alternativa de Documentos"
+
+#: ../apps/bookmarks/index.rst:108
+msgid "It shows all your bookmarked documents"
+msgstr "Muestra todos tus documentos marcados"
+
+#: ../apps/bookmarks/index.rst:112 ../apps/bookmarks/index.rst:118
+msgid "The available bookmark tiles"
+msgstr "Los mosaicos de favoritos disponibles"
+
+#: ../apps/bookmarks/index.rst:120
+msgid "They are an amazing shortcut to your favourite content."
+msgstr "Son un acceso directo sorprendente a su contenido favorito."
+
+#: ../apps/calendar/index.rst:2
+msgid "Calendar"
+msgstr "Calendario"
+
+#: ../apps/calendar/index.rst:6
+msgid ""
+"The calendar app takes is the best way to have full control over your "
+"site events."
+msgstr ""
+"La aplicación calendario toma la mejor forma de tener un control completo"
+" sobre los eventos del sitio."
+
+#: ../apps/calendar/index.rst:19
+msgid "The calendar month view"
+msgstr "La vista mensual del calendario"
+
+#: ../apps/calendar/index.rst:21
+msgid ""
+"It shows all the events for this month, but you can navigate through the "
+"months. You can switch also to Week and day views. Clicking on the "
+"calendar will allow you to add new events."
+msgstr ""
+"Muestra todos los eventos de este mes, pero puede navegar a través de los"
+" meses. También puede cambiar a vistas de Semana y día. Al hacer clic en "
+"el calendario, podrá agregar nuevos eventos."
+
+#: ../apps/case_manager/index.rst:2
+msgid "Case Manager"
+msgstr "Administración de Casos"
+
+#: ../apps/case_manager/index.rst:6
+msgid ""
+"The case manager app makes it easy to see the status of case workspaces. "
+"You can search for case workspaces by a number of parameters and you can "
+"also include archived workspaces in the results"
+msgstr ""
+"La aplicación Administración de Casos hace fácil el ver el estatus de los"
+" espacios de trabajo caso. Usted puede buscar por espacios de trabajo de "
+"tipo caso por un número de parámetros y usted puede también incluir "
+"espacios de trabajos archivados en los resultados"
+
+#: ../apps/index.rst:6
+msgid ""
+"Additional functionality for your Quaive site is available in the Apps "
+"tab."
+msgstr ""
+"Funcionalidad adicional para su sitio Quaive esta disponible en la "
+"pestaña Aplicaciones."
+
+#: ../apps/messages/index.rst:2
+msgid "Messages"
+msgstr "Mensajes"
+
+#: ../apps/news-publisher/index.rst:2
+msgid "News publisher"
+msgstr "Publicador de noticias"
+
+#: ../apps/news-publisher/index.rst:6
+msgid "Check http://localhost:8000/en/news.html#news-publisher"
+msgstr "Consulte la dirección http://localhost:8000/en/news.html#news-publisher"
+
+#: ../apps/todo/index.rst:2
+msgid "Todo"
+msgstr "Por hacer"
+
+#: ../apps/todo/index.rst:6
+msgid ""
+"The todo app that allows you to find, create and handle all of your tasks"
+" or todo items from a central location."
+msgstr ""
+"La aplicación de tareas pendientes que le permite buscar, crear y manejar"
+" todas sus tareas o elementos pendientes desde una ubicación central."
+
+#: ../apps/todo/index.rst:12
+msgid "Sections of the application"
+msgstr "Secciones de la aplicación"
+
+#: ../apps/todo/index.rst:14
+msgid ""
+"The application always starts with a list of tasks. Once you click on a "
+"task to view or edit it, the task list will reduce to a sidebar and the "
+"task is shown on the right. The task list can always be restored to its "
+"full view again, by clicking on the arrows in the sidebar."
+msgstr ""
+"La aplicación siempre comienza con una lista de tareas. Una vez que haga "
+"clic en una tarea para verla o editarla, la lista de tareas se reducirá a"
+" una barra lateral y la tarea se mostrará a la derecha. La lista de "
+"tareas siempre se puede restaurar a su vista completa de nuevo, haciendo "
+"clic en las flechas en la barra lateral."
+
+#: ../apps/todo/index.rst:20
+msgid "The todo comprises of three main parts:"
+msgstr "La aplicación \"por hacer\" se compone de tres partes principales:"
+
+#: ../apps/todo/index.rst:22 ../apps/todo/index.rst:32
+msgid "All tasks"
+msgstr "Todas las tareas"
+
+#: ../apps/todo/index.rst:23 ../apps/todo/index.rst:37
+msgid "My tasks"
+msgstr "Mis tareas"
+
+#: ../apps/todo/index.rst:24 ../apps/todo/index.rst:42
+msgid "Personal task list"
+msgstr "Lista de tareas personales"
+
+#: ../apps/todo/index.rst:34
+msgid ""
+"In the all tasks section you may find any task that you created, that is "
+"assigned to you or that you have view and/or editing rights on."
+msgstr ""
+"En la sección de todas las tareas, puede encontrar cualquier tarea que "
+"haya creado, que esté asignada a usted o que tenga derechos de "
+"visualización y/o edición."
+
+#: ../apps/todo/index.rst:39
+msgid ""
+"My tasks aggregates only tasks that are assigned to you. Either by "
+"yourself, or by others."
+msgstr ""
+"La sección \"Mis tareas\" solo agregan las tareas que le asignan. Ya sea "
+"por ti mismo o por otros."
+
+#: ../apps/todo/index.rst:44
+msgid ""
+"The personal task list show tickets that are created through the Todo "
+"app, which do not live in a Workspace."
+msgstr ""
+"La \"lista de tareas personales\" muestra los tickets que se crean a "
+"través de la aplicación \"Por Hacer\", que no viven en un espacio de "
+"trabajo."
+
+#: ../apps/todo/index.rst:49
+msgid "Create tasks"
+msgstr "Crear tareas"
+
+#: ../apps/todo/index.rst:51
+msgid ""
+"You can created tasks by clicking on the button marked with a plus. On "
+"the screen that follows, you can enter details about the task, including "
+"a title for the task, a longer description about the task, the assignee "
+"and the due date."
+msgstr ""
+"Puede crear tareas haciendo clic en el botón marcado con un signo más. En"
+" la pantalla que sigue, puede ingresar detalles sobre la tarea, incluido "
+"un título para la tarea, una descripción más larga sobre la tarea, el "
+"asignatario y la fecha de vencimiento."
+
+#: ../apps/todo/index.rst:62
+msgid ""
+"It's also noteworthy that you can select the destination of the task. By "
+"default, tasks end up on your personal task list. But you can also select"
+" a workspace in which the task will be created."
+msgstr ""
+"También es digno de mención que puede seleccionar el destino de la tarea."
+" Por defecto, las tareas terminan en su lista de tareas personal. Pero "
+"también puede seleccionar un espacio de trabajo en el que se creará la "
+"tarea."
+
+#: ../apps/todo/index.rst:69
+msgid "Groupings and filters"
+msgstr "Agrupando y filtros"
+
+#: ../apps/todo/index.rst:71
+msgid ""
+"You may choose a certain grouping for your tasks that fits your way of "
+"working best. If you're monitoring a programme of different projects, it "
+"might convenient to group by origin (default). Other grouping methods "
+"include: by assignee, initiator, task state (open/closed), priority or no"
+" grouping at all."
+msgstr ""
+"Puede elegir una cierta agrupación para sus tareas que se ajuste a su "
+"forma de trabajar mejor. Si está monitoreando un programa de diferentes "
+"proyectos, puede ser conveniente agrupar por origen (predeterminado). "
+"Otros métodos de agrupación incluyen: por asignador, iniciador, estado de"
+" la tarea (abierto/cerrado), prioridad o no agrupación en absoluto."
+
+#: ../apps/todo/index.rst:81
+msgid ""
+"Besides grouping, it is also possible to change the order in which the "
+"tasks are sorted or reduce the items on the list by using any of the "
+"filters above the search bar."
+msgstr ""
+"Además de la agrupación, también es posible cambiar el orden en que se "
+"ordenan las tareas o reducir los elementos en la lista mediante el uso de"
+" cualquiera de los filtros sobre la barra de búsqueda."
+
+#: ../apps/todo/index.rst:85
+msgid ""
+"Sorting and filters are hidden in the sidebar view and only available in "
+"the full list view."
+msgstr ""
+"La ordenación y los filtros están ocultos en la vista de la barra lateral"
+" y solo están disponibles en la vista de lista completa."
+
+#: ../apps/todo/index.rst:90
+msgid "Find tasks"
+msgstr "Buscar tareas"
+
+#: ../apps/todo/index.rst:92
+msgid ""
+"All tasks on the entire intranet that you have view or edit rights on can"
+" be found through the search feature. Just type in a few letters of the "
+"title or description of the task you are looking for and it will appear "
+"in the list underneath the search box."
+msgstr ""
+"Todas las tareas en la intranet completa que tiene derechos de "
+"visualización o edición se pueden encontrar a través de la función de "
+"búsqueda. Simplemente escriba unas letras del título o la descripción de "
+"la tarea que está buscando y aparecerá en la lista debajo del cuadro de "
+"búsqueda."
+
+#: ../apps/todo/index.rst:101
+msgid "Search, filters and groupings can be combined."
+msgstr "La búsqueda, los filtros y las agrupaciones se pueden combinar."
+
+#: ../apps/todo/index.rst:103
+msgid ""
+"You may reset both the search results and the filters by clicking on the "
+"button that reads \"Reset search and filters\"."
+msgstr ""
+"Puede restablecer los resultados de búsqueda y los filtros haciendo clic en "
+"el botón que dice \"Restablecer búsqueda y filtros\"."

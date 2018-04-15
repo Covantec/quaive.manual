@@ -38,8 +38,8 @@ Portrait images
 
 After creating users with bulk upload, you can even bulk add portrait images as follows:
 
-* In the site root, via the Barceloneta interface on cms.yoursite.com, add a Folder ‘avatars’ to the portal root
-* Upload images into this folder with ids like ‘johndoe.jpg’ matching userid ‘johndoe’
+* In the site root, via the Barceloneta interface on cms.yoursite.com, add a Folder 'avatars' to the portal root
+* Upload images into this folder with ids like 'johndoe.jpg' matching userid 'johndoe'
 * Run::
 
     http://portal_url/avatars/@@import-avatars

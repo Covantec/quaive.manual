@@ -80,7 +80,7 @@ locale_dirs = ['_locales/']
 
 # If true, a document’s text domain is its docname if it is a top-level project
 # file and its very base directory otherwise.
-gettext_compact = False # or True
+gettext_compact = True # or False
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:

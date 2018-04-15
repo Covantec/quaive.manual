@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-14 20:56-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../library/index.rst:2
+msgid "Library"
+msgstr ""
+
+#: ../library/index.rst:5
+msgid "The Library in Quaive is where content for all users of the intranet is stored. Unlike workspaces, which are usually restricted to a certain group of users, the Library is available to all."
+msgstr ""
+
+#: ../library/index.rst:9
+msgid "Viewing content in the Library"
+msgstr ""
+
+#: ../library/index.rst:11
+msgid "To access the Library, simply click the Library link in the main navigation area of your Quaive site. Contents in the library can be organised in hierarchies - that means folders and sub-folders."
+msgstr ""
+
+#: ../library/index.rst:13
+msgid "In order to provide a good overview, the Library shows two levels of contents at the same time. When you open the library, you will see a view like this. For every main section, you see a little box with the section's title, and below the titles of the sub-sections."
+msgstr ""
+
+#: ../library/index.rst:19
+msgid "Grouped by section"
+msgstr ""
+
+#: ../library/index.rst:21
+msgid "By default, the contents inside the library are displayed by section and sub-section (i.e. folders and sub-folders). Clicking on one of the main sections shows you a little box for each sub-section. Inside the boxes, you have direct access to the documents they contain."
+msgstr ""
+
+#: ../library/index.rst:26
+msgid "If a document inside the Library is meant for download (such as a Word file, spreadsheet, etc), a click on a document will cause your browser to download it. If a document can be viewed in the browser, a click on it will open the detail view of it, for example:"
+msgstr ""
+
+#: ../library/index.rst:32
+msgid "Grouped by tag"
+msgstr ""
+
+#: ../library/index.rst:34
+msgid "In Quaive, all contents can be tagged with keywords. This also applies to the Library. To view the Library contents grouped by the tags they were assigned, simply change the grouping in the little selector below the top navigation:"
+msgstr ""
+
+#: ../library/index.rst:39
+msgid "Similar to the display by section, you then see two levels, placed in little boxes. Each box shows the all documents that match your selected tag, under the heading of an additional tag that the document carries."
+msgstr ""
+
+#: ../library/index.rst:46
+msgid "Adding content to the Library"
+msgstr ""
+
+#: ../library/index.rst:48
+msgid "For adding documents to the Library or editing existing ones, a special permission is required. Only authorised users can publish contents in the Library that will then be visible to all users. These users are called \"Library publishers\"."
+msgstr ""
+
+#: ../library/index.rst:52
+msgid "From within a workspace"
+msgstr ""
+
+#: ../library/index.rst:54
+msgid "Any user of a workspace can send a document from their workspace to the Library. This can make sense when the information of this document is considered relevant for all users of the intranet."
+msgstr ""
+
+#: ../library/index.rst:56
+msgid "For security reasons, a document must first be published inside the workspace before it can be sent to the Library. This is to ensure that no contents that are not meant to be visible for all users get published accidentally."
+msgstr ""
+
+#: ../library/index.rst:58
+msgid "On a published document, you have the option \"Publish to Library\" inside the menu of additional options:"
+msgstr ""
+
+#: ../library/index.rst:62
+msgid "A click on it will open a little pop-up window where you can choose the destination:"
+msgstr ""
+
+#: ../library/index.rst:66
+msgid "In the selection menu, pick the desired section of the Library:"
+msgstr ""
+
+#: ../library/index.rst:71
+msgid "After a click on the \"Publish\" button, you see a notification on the document that a copy exists in the Library:"
+msgstr ""
+
+#: ../library/index.rst:78
+msgid "However, information pushed to the Library from a workspace is not automatically visible to all. A Library publisher still needs to make such a document publicly visible via the CMS (see :ref:`publish_in_cms` below)."
+msgstr ""
+
+#: ../library/index.rst:81
+msgid "From the CMS"
+msgstr ""
+
+#: ../library/index.rst:83
+msgid "User who are Library publishers see a little \"Plus\" icon on the Library:"
+msgstr ""
+
+#: ../library/index.rst:87
+msgid "A click on it will open the Content Management System (CMS) view. Here, you can add new Library sections and folders (1st and 2nd level of the structure) as well as new documents:"
+msgstr ""
+
+#: ../library/index.rst:91
+msgid "Once a new document has been created, you can continue to edit it via the \"Edit\" link in the sidebar on the left. You might want to add tags (under the tab \"Categories\") or adjust the title and description."
+msgstr ""
+
+#: ../library/index.rst:97
+msgid "Publishing Library Content"
+msgstr ""
+
+#: ../library/index.rst:99
+msgid "Once you are satisfied and want to make the document available to all users, be sure to publish it:"
+msgstr ""
+
+#: ../library/index.rst:103
+msgid "For further reading about editing in the CMS, please refer to `The Plone documentation <http://docs.plone.org/>`_."
+msgstr ""
+

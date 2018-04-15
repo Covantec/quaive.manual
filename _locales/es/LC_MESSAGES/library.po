@@ -1,0 +1,254 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-12 08:25-0400\n"
+"PO-Revision-Date: 2018-04-15 09:22-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../library/index.rst:2
+msgid "Library"
+msgstr "Biblioteca"
+
+#: ../library/index.rst:5
+msgid ""
+"The Library in Quaive is where content for all users of the intranet is "
+"stored. Unlike workspaces, which are usually restricted to a certain "
+"group of users, the Library is available to all."
+msgstr ""
+"La Biblioteca en Quaive es donde se almacena el contenido para todos los "
+"usuarios de la intranet. A diferencia de los espacios de trabajo, que "
+"generalmente están restringidos a un determinado grupo de usuarios, la "
+"Biblioteca está disponible para todos."
+
+#: ../library/index.rst:9
+msgid "Viewing content in the Library"
+msgstr "Visualización de contenido en la biblioteca"
+
+#: ../library/index.rst:11
+msgid ""
+"To access the Library, simply click the Library link in the main "
+"navigation area of your Quaive site. Contents in the library can be "
+"organised in hierarchies - that means folders and sub-folders."
+msgstr ""
+"Para acceder a la Biblioteca, simplemente haga clic en el enlace "
+"Biblioteca en el área de navegación principal de su sitio de Quaive. Los "
+"contenidos de la biblioteca se pueden organizar en jerarquías, es decir, "
+"carpetas y subcarpetas."
+
+#: ../library/index.rst:13
+msgid ""
+"In order to provide a good overview, the Library shows two levels of "
+"contents at the same time. When you open the library, you will see a view"
+" like this. For every main section, you see a little box with the "
+"section's title, and below the titles of the sub-sections."
+msgstr ""
+"Para proporcionar una buena visión general, la Biblioteca muestra dos "
+"niveles de contenido al mismo tiempo. Cuando abra la biblioteca, verá una"
+" vista como esta. Para cada sección principal, verá una pequeña caja con "
+"el título de la sección, y debajo de los títulos de las subsecciones."
+
+#: ../library/index.rst:19
+msgid "Grouped by section"
+msgstr "Agrupado por sección"
+
+#: ../library/index.rst:21
+msgid ""
+"By default, the contents inside the library are displayed by section and "
+"sub-section (i.e. folders and sub-folders). Clicking on one of the main "
+"sections shows you a little box for each sub-section. Inside the boxes, "
+"you have direct access to the documents they contain."
+msgstr ""
+"De forma predeterminada, los contenidos dentro de la biblioteca se "
+"muestran por sección y subsección (es decir, carpetas y subcarpetas). Al "
+"hacer clic en una de las secciones principales, se muestra una pequeña "
+"casilla para cada subsección. Dentro de las cajas, tienes acceso directo "
+"a los documentos que contienen."
+
+#: ../library/index.rst:26
+msgid ""
+"If a document inside the Library is meant for download (such as a Word "
+"file, spreadsheet, etc), a click on a document will cause your browser to"
+" download it. If a document can be viewed in the browser, a click on it "
+"will open the detail view of it, for example:"
+msgstr ""
+"Si un documento dentro de la Biblioteca está destinado a la descarga "
+"(como un archivo de Word, una hoja de cálculo, etc.), al hacer clic en un"
+" documento, su navegador lo descargará. Si un documento se puede ver en "
+"el navegador, al hacer clic en él, se abrirá la vista de detalle, por "
+"ejemplo:"
+
+#: ../library/index.rst:32
+msgid "Grouped by tag"
+msgstr "Agrupado por etiqueta"
+
+#: ../library/index.rst:34
+msgid ""
+"In Quaive, all contents can be tagged with keywords. This also applies to"
+" the Library. To view the Library contents grouped by the tags they were "
+"assigned, simply change the grouping in the little selector below the top"
+" navigation:"
+msgstr ""
+"En Quaive, todos los contenidos pueden etiquetarse con palabras clave. "
+"Esto también se aplica a la Biblioteca. Para ver los contenidos de la "
+"Biblioteca agrupados por las etiquetas que fueron asignados, simplemente "
+"cambie la agrupación en el pequeño selector debajo de la navegación "
+"superior:"
+
+#: ../library/index.rst:39
+msgid ""
+"Similar to the display by section, you then see two levels, placed in "
+"little boxes. Each box shows the all documents that match your selected "
+"tag, under the heading of an additional tag that the document carries."
+msgstr ""
+"De forma similar a la pantalla por sección, verá dos niveles, colocados "
+"en pequeñas casillas. Cada cuadro muestra todos los documentos que "
+"coinciden con su etiqueta seleccionada, bajo el encabezado de una "
+"etiqueta adicional que lleva el documento."
+
+#: ../library/index.rst:46
+msgid "Adding content to the Library"
+msgstr "Agregar contenido a la Biblioteca"
+
+#: ../library/index.rst:48
+msgid ""
+"For adding documents to the Library or editing existing ones, a special "
+"permission is required. Only authorised users can publish contents in the"
+" Library that will then be visible to all users. These users are called "
+"\"Library publishers\"."
+msgstr ""
+"Para agregar documentos a la Biblioteca o editar los existentes, se "
+"requiere un permiso especial. Solo los usuarios autorizados pueden "
+"publicar contenidos en la Biblioteca que luego serán visibles para todos "
+"los usuarios. Estos usuarios se llaman \"Editores de biblioteca\"."
+
+#: ../library/index.rst:52
+msgid "From within a workspace"
+msgstr "Desde dentro de un espacio de trabajo"
+
+#: ../library/index.rst:54
+msgid ""
+"Any user of a workspace can send a document from their workspace to the "
+"Library. This can make sense when the information of this document is "
+"considered relevant for all users of the intranet."
+msgstr ""
+"Cualquier usuario de un espacio de trabajo puede enviar un documento "
+"desde su espacio de trabajo a la Biblioteca. Esto puede tener sentido cuando"
+" la información de este documento se considera relevante para todos los "
+"usuarios de la intranet."
+
+#: ../library/index.rst:56
+msgid ""
+"For security reasons, a document must first be published inside the "
+"workspace before it can be sent to the Library. This is to ensure that no"
+" contents that are not meant to be visible for all users get published "
+"accidentally."
+msgstr ""
+"Por razones de seguridad, primero se debe publicar un documento dentro "
+"del espacio de trabajo antes de que se pueda enviar a la Biblioteca. Esto"
+" es para garantizar que no se publique accidentalmente ningún contenido "
+"que no esté destinado a ser visible para todos los usuarios."
+
+#: ../library/index.rst:58
+msgid ""
+"On a published document, you have the option \"Publish to Library\" "
+"inside the menu of additional options:"
+msgstr ""
+"En un documento publicado, tiene la opción \"Publicar en la biblioteca\" "
+"dentro del menú de opciones adicionales:"
+
+#: ../library/index.rst:62
+msgid ""
+"A click on it will open a little pop-up window where you can choose the "
+"destination:"
+msgstr ""
+"Un clic en él abrirá una pequeña ventana emergente donde puede elegir el "
+"destino:"
+
+#: ../library/index.rst:66
+msgid "In the selection menu, pick the desired section of the Library:"
+msgstr "En el menú de selección, elija la sección deseada de la Biblioteca:"
+
+#: ../library/index.rst:71
+msgid ""
+"After a click on the \"Publish\" button, you see a notification on the "
+"document that a copy exists in the Library:"
+msgstr ""
+"Después de hacer clic en el botón \"Publicar\", verá una notificación en el "
+"documento de que existe una copia en la Biblioteca:"
+
+#: ../library/index.rst:78
+msgid ""
+"However, information pushed to the Library from a workspace is not "
+"automatically visible to all. A Library publisher still needs to make "
+"such a document publicly visible via the CMS (see :ref:`publish_in_cms` "
+"below)."
+msgstr ""
+"Sin embargo, la información que se envía a la Biblioteca desde un espacio"
+" de trabajo no es automáticamente visible para todos. Un editor de la "
+"Biblioteca aún necesita hacer que dicho documento sea públicamente "
+"visible a través del CMS (ver :ref:`publish_in_cms` a continuación)."
+
+#: ../library/index.rst:81
+msgid "From the CMS"
+msgstr "Desde el CMS"
+
+#: ../library/index.rst:83
+msgid "User who are Library publishers see a little \"Plus\" icon on the Library:"
+msgstr ""
+"Los usuarios que son editores de la Biblioteca ven un pequeño ícono "
+"\"Más\" en la Biblioteca:"
+
+#: ../library/index.rst:87
+msgid ""
+"A click on it will open the Content Management System (CMS) view. Here, "
+"you can add new Library sections and folders (1st and 2nd level of the "
+"structure) as well as new documents:"
+msgstr ""
+"Al hacer clic en él, se abrirá la vista del Sistema de gestión de contenido "
+"(CMS). Aquí, puede agregar nuevas secciones y carpetas de la Biblioteca (1er "
+"y 2do nivel de la estructura), así como nuevos documentos:"
+
+#: ../library/index.rst:91
+msgid ""
+"Once a new document has been created, you can continue to edit it via the"
+" \"Edit\" link in the sidebar on the left. You might want to add tags "
+"(under the tab \"Categories\") or adjust the title and description."
+msgstr ""
+"Una vez que se haya creado un documento nuevo, puede continuar editándolo"
+" a través del enlace \"Editar\" en la barra lateral a la izquierda. Es "
+"posible que desee agregar etiquetas (en la pestaña \"Categorías\") o "
+"ajustar el título y la descripción."
+
+#: ../library/index.rst:97
+msgid "Publishing Library Content"
+msgstr "Publicar contenido de la biblioteca"
+
+#: ../library/index.rst:99
+msgid ""
+"Once you are satisfied and want to make the document available to all "
+"users, be sure to publish it:"
+msgstr ""
+"Una vez que esté satisfecho y desee que el documento esté disponible para"
+" todos los usuarios, asegúrese de publicarlo:"
+
+#: ../library/index.rst:103
+msgid ""
+"For further reading about editing in the CMS, please refer to `The Plone "
+"documentation <http://docs.plone.org/>`_."
+msgstr ""
+"Para leer más sobre la edición en el CMS, consulte `La documentación de "
+"Plone <http://docs.plone.org/>`_."

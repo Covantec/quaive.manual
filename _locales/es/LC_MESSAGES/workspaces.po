@@ -1,0 +1,1713 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-11 22:31-0400\n"
+"PO-Revision-Date: 2018-04-15 09:14-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../workspaces/cases/index.rst:2
+msgid "Case Workspaces"
+msgstr "Espacios de trabajo de caso"
+
+#: ../workspaces/cases/index.rst:4
+msgid ""
+"Case workspaces are a special type of workspace which help teams to "
+"manage a shared work load with discreet milestones. You can configure a "
+"case workspace with a set of tasks and milestones and then re-use that "
+"configuration for new projects. You can also decide who is able to work "
+"on particular tasks during each milestone and notify workspace members "
+"when a particular milestone has been reached."
+msgstr ""
+"Los espacios de trabajo de casos son un tipo especial de espacio de trabajo "
+"que ayuda a los equipos a administrar una carga de trabajo compartida con "
+"hitos discretos. Puede configurar un espacio de trabajo de caso con un "
+"conjunto de tareas e hitos y luego volver a utilizar esa configuración para "
+"nuevos proyectos. También puede decidir quién puede trabajar en tareas "
+"particulares durante cada hito y notificar a los miembros del área de "
+"trabajo cuando se ha alcanzado un hito en particular."
+
+#: ../workspaces/cases/index.rst:8
+msgid "Let's step through the process of creating and using a case workspace."
+msgstr ""
+"Avancemos el proceso de creación y uso de un espacio de trabajo de caso."
+
+#: ../workspaces/cases/index.rst:13
+msgid "Select \"Case Template\" as the workspace type."
+msgstr "Seleccione \"Plantilla de caso\" como el tipo de espacio de trabajo."
+
+#: ../workspaces/cases/index.rst:17
+msgid ""
+"Your Quaive site may have a selection of different pre-configured case "
+"workspaces available under the 'Special workspace' section."
+msgstr ""
+"Su sitio de Quaive puede tener una selección de espacios de trabajo de casos "
+"preconfigurados diferentes disponibles en la sección 'Espacio de trabajo "
+"especial'."
+
+#: ../workspaces/cases/index.rst:19
+msgid "Fill in the details and create the workspace."
+msgstr "Complete los detalles y cree el espacio de trabajo."
+
+#: ../workspaces/cases/index.rst:23
+msgid ""
+"On the case workspace you will see an overview of the tasks and "
+"milestones for this case workspace."
+msgstr ""
+"En el espacio de trabajo del caso, verá una descripción general de las "
+"tareas y los hitos de este espacio de trabajo del caso."
+
+#: ../workspaces/cases/index.rst:27
+msgid ""
+"Please click on the tasks icon in the sidebar to configure additional "
+"tasks."
+msgstr ""
+"Haga clic en el ícono de tareas en la barra lateral para configurar tareas "
+"adicionales."
+
+#: ../workspaces/cases/index.rst:31
+msgid ""
+"Let's create a new task to add members to the case workspace. Please "
+"click the button to add a new task to the \"New\" milestone."
+msgstr ""
+"Vamos a crear una nueva tarea para agregar miembros al espacio de trabajo "
+"del caso. Haga clic en el botón para agregar una nueva tarea al hito \""
+"Nuevo\"."
+
+#: ../workspaces/cases/index.rst:36
+msgid "You can add an assignee and a due date."
+msgstr "Puede agregar un usuario asignado y una fecha de vencimiento."
+
+#: ../workspaces/cases/index.rst:40
+msgid "You will also see the assignee and due date on the case workspace."
+msgstr ""
+"También verá el usuario asignado y la fecha de vencimiento en el espacio de "
+"trabajo del caso."
+
+#: ../workspaces/cases/index.rst:44
+msgid ""
+"You can now add complete the task by adding a team member. This works in "
+"exactly the same way as a normal workspace, using the :ref:`workspace-"
+"settings-members-label` settings."
+msgstr ""
+"Ahora puede agregar completar la tarea agregando un miembro del equipo. Esto "
+"funciona exactamente de la misma manera que un espacio de trabajo normal, "
+"usando las configuraciones :ref:`workspace-settings-members-label`."
+
+#: ../workspaces/cases/index.rst:47
+msgid "There are two ways to mark a task as complete."
+msgstr "Hay dos formas de marcar una tarea como completa."
+
+#: ../workspaces/cases/index.rst:51
+msgid "You can now see that the task is complete."
+msgstr "Ahora puede ver que la tarea está completa."
+
+#: ../workspaces/cases/index.rst:55
+msgid ""
+"Once all the tasks for a milestone are complete, you can close the "
+"milestone and move on to the next one."
+msgstr ""
+"Una vez que se hayan completado todas las tareas para un hito, puede cerrar "
+"el hito y pasar al siguiente."
+
+#: ../workspaces/cases/index.rst:59
+msgid ""
+"You can now see that the milestone is closed, you can also reopen it from"
+" the task sidebar."
+msgstr ""
+"Ahora puede ver que el hito está cerrado, también puede volver a abrirlo "
+"desde la barra lateral de la tarea."
+
+#: ../workspaces/index.rst:2
+msgid "Workspaces"
+msgstr "Espacios de trabajos"
+
+#: ../workspaces/index.rst:4
+msgid ""
+"In a Quaive site workspaces are the key areas for creating, organizing "
+"and sharing content. Workspaces represent projects or working units where"
+" the users that work on these projects are members of the workspace and "
+"collaborate by creating and editing content."
+msgstr ""
+"En un sitio de Quaive, los espacios de trabajo son las áreas clave para "
+"crear, organizar y compartir contenido. Los espacios de trabajo representan "
+"proyectos o unidades de trabajo donde los usuarios que trabajan en estos "
+"proyectos son miembros del espacio de trabajo y colaboran creando y editando "
+"contenido."
+
+#: ../workspaces/index.rst:7
+msgid ""
+"A very important aspect of workspaces is the security model that ensures "
+"that all content is only visible to those users who are supposed to see "
+"it."
+msgstr ""
+"Un aspecto muy importante de los espacios de trabajo es el modelo de "
+"seguridad que asegura que todos los contenidos sean solamente visibles a "
+"esos usuarios quienes estén permitidos ver esos contenidos."
+
+#: ../workspaces/index.rst:9
+msgid ""
+"In the most simple use-case, workspaces can be treated as folders for "
+"storing data that belongs to a specific project. But they provide many "
+"more powerful aspects, such as built-in events that will appear in the "
+"workspace calendar and the possibility to create and assigns tasks. All "
+"actions that happen in the workspace automatically appear in the social "
+"stream, where they can be commented on by the workspace members."
+msgstr ""
+"En el caso de uso más simple, los espacios de trabajo se pueden tratar como "
+"carpetas para almacenar datos que pertenecen a un proyecto específico. Pero "
+"proporcionan muchos más aspectos poderosos, como eventos integrados que "
+"aparecerán en el calendario del espacio de trabajo y la posibilidad de crear "
+"y asignar tareas. Todas las acciones que ocurren en el espacio de trabajo "
+"aparecen automáticamente en la acciones sociales, donde los miembros del "
+"espacio de trabajo pueden comentarlas."
+
+#: ../workspaces/index.rst:11
+msgid ""
+"In this chapter of the manual we will take a closer look at Quaive's "
+"workspaces and how you can use them. All sections of a workspace, content"
+" elements and subsystems will be treated here."
+msgstr ""
+"En este capítulo del manual veremos más de cerca los espacios de trabajo de "
+"Quaive y cómo puede usarlas. Aquí se tratarán todas las secciones de un "
+"espacio de trabajo, elementos de contenido y subsistemas."
+
+#: ../workspaces/index.rst:13
+msgid ""
+"All workspaces in a Quaive site can be accessed in the Workspaces "
+"section. To get there please use the navigation link in the main menu "
+"called \"Workspaces\"."
+msgstr ""
+"Se puede acceder a todos los espacios de trabajo en un sitio de Quaive en la "
+"sección Espacios de trabajo. Para llegar allí, utilice el enlace de "
+"navegación en el menú principal llamado \"Espacios de trabajo\"."
+
+#: ../workspaces/index.rst:15
+msgid ""
+"This opens the workspaces overview page. Here you can get an overview "
+"over all workspaces currently existing in the Quaive site and you have "
+"the necessary permissions to see. The workspaces are displayed as "
+"coloured tiles with their title and - if existing - a short description "
+"of what they are about."
+msgstr ""
+"Esto abre la página de la visión general de los espacios de trabajo. Aquí "
+"puede obtener una descripción general de todos los espacios de trabajo "
+"existentes en el sitio de Quaive y tiene los permisos necesarios para ver. "
+"Los espacios de trabajo se muestran como mosaicos de colores con su título "
+"y, si existe, una breve descripción de lo que tratan."
+
+#: ../workspaces/index.rst:21
+msgid ""
+"Read on to create your first workspace and discover all sections and "
+"content objects that make a workspace that powerful tool it is meant to "
+"be:"
+msgstr ""
+"Siga leyendo para crear su primer espacio de trabajo y descubrir todas las "
+"secciones y objetos de contenido que hacen que un espacio de trabajo sea la "
+"herramienta poderosa que debe ser:"
+
+#: ../workspaces/locking.rst:2
+msgid "Locking"
+msgstr "Bloqueo"
+
+#: ../workspaces/locking.rst:6
+msgid ""
+"Quaive provides locking support to prevent concurrent edits on the "
+"documents."
+msgstr ""
+"Quaive provee soporte a bloqueo para prevenir ediciones concurrente en los "
+"documentos."
+
+#: ../workspaces/locking.rst:8
+msgid ""
+"When the user starts to edit a document, the document goes in to a locked"
+" state."
+msgstr ""
+"Cuando el usuario inicia la edición de un documento, el documento va a tener "
+"un estado bloqueado."
+
+#: ../workspaces/locking.rst:11
+msgid ""
+"This is transparent for the user editing the document, but other users "
+"that will visit the document will find a locked badge instead of the "
+"normal save button."
+msgstr ""
+"Esto es transparente para el usuario que edita el documento, pero otros "
+"usuarios que visitarán el documento encontrarán una insignia bloqueada en "
+"lugar del botón de guardar normal."
+
+#: ../workspaces/locking.rst:20
+msgid ""
+"Clicking on the locked badge will pop up a panel that tells the user what"
+" is going on and offers some actions:"
+msgstr ""
+"Haciendo clic en la insignia bloqueado abrirá un panel en una ventana "
+"emergente que le dice al usuario que va hacer y le ofrece algunas opciones:"
+
+#: ../workspaces/locking.rst:23
+msgid ""
+"the user can start a chat through the messaging app with the user who "
+"started editing the document"
+msgstr ""
+"el usuario inicia un chat a través de la aplicación de mensajería con el "
+"usuario que inicio la edición del documento"
+
+#: ../workspaces/locking.rst:25
+msgid "the user can force the document unlock"
+msgstr "el usuario puede forzar el desbloqueo del documento"
+
+#: ../workspaces/versioning.rst:4
+msgid "Versioning"
+msgstr "Versionado"
+
+#: ../workspaces/versioning.rst:6
+msgid ""
+"Versioning for uploaded files can be enabled optionally. Please contact "
+"your site's administrator for enabling it."
+msgstr ""
+"El versionado para archivos cargados puede ser habilitado opcionalmente. "
+"Por favor, contactar a su administrador del sitio para habilitarlo."
+
+#: ../workspaces/versioning.rst:8
+msgid ""
+"If versioning is enabled and you are uploading a new version of a file "
+"that already exists in Quaive, then the old version of the file is not "
+"simply replaced, but kept in the system. Although users will then see the"
+" new version of the file by default, they can still access previous "
+"versions of it."
+msgstr ""
+"Si el control de versiones está habilitado y está cargando una nueva versión "
+"de un archivo que ya existe en Quaive, entonces la versión anterior del "
+"archivo no se reemplaza simplemente, sino que se guarda en el sistema. "
+"Aunque los usuarios verán la nueva versión del archivo de forma "
+"predeterminada, aún pueden acceder a versiones anteriores de este."
+
+#: ../workspaces/versioning.rst:10
+msgid ""
+"The example below shows an Excel file that is present in a workspace. We "
+"can see the preview for this file:"
+msgstr ""
+"El ejemplo siguiente muestra un archivo Excel que esta presente en un "
+"espacio de trabajo. Nosotros podemos ver la vista previa para este archivo:"
+
+#: ../workspaces/versioning.rst:14
+msgid ""
+"If you click on the symbol with three dots, you can open the version "
+"history:"
+msgstr ""
+"Si usted hace clic en el símbolo de los tres puntos, usted puede abrir el "
+"histórico de versiones:"
+
+#: ../workspaces/versioning.rst:18
+msgid "It shows only one entry, for the initial action:"
+msgstr "Ese mostrara solamente una entrada, para la acción inicial:"
+
+#: ../workspaces/versioning.rst:22
+msgid ""
+"We have detected a typo in the Excel file. Therefore we want to upload a "
+"new version of it. In the edit form, we tick the check-box \"Save a new "
+"version\", select the file to upload, and optionally provide a comment "
+"that explains the changes made. A click on the \"Save\" button uploads "
+"the file and creates a new version:"
+msgstr ""
+"Hemos detectado un error tipográfico en el archivo de Excel. Por lo tanto, "
+"queremos subir una nueva versión de la misma. En el formulario de edición, "
+"marcamos la casilla de verificación \"Guardar una nueva versión\", "
+"seleccionamos el archivo para cargar y, opcionalmente, proporcionamos un "
+"comentario que explica los cambios realizados. Al hacer clic en el botón \""
+"Guardar\", se carga el archivo y se crea una nueva versión:"
+
+#: ../workspaces/versioning.rst:26
+msgid ""
+"After a short while, the preview is re-generated, reflecting the updated "
+"state of the file:"
+msgstr ""
+"Despues una corta espera, la vista preliminar del archivo es generada "
+"nuevamente, reflejando el estado actualizado del archivo:"
+
+#: ../workspaces/versioning.rst:30
+msgid ""
+"If we look at the version history again, we can see a new entry about our"
+" change. We see *who* made the change, *when* the change was made and "
+"*what* the nature of the change was (\"edited\"). Also, we see the "
+"manually entered change note. By clicking on the \"View\" link next to a "
+"version, we can jump to the details page."
+msgstr ""
+"Si nosotros volvemos a ver el histórico de versiones, podemos ver una nueva "
+"entrada acerca de nuestros cambios. Veremos *quien* hizo los cambios, "
+"*cuando* el cambio fue realizado y *que* es la naturaleza del cambio hecho ("
+"\"editado\"). También, vemos la nota de cambio ingresada manualmente, "
+"podemos saltar a la página de detalles."
+
+#: ../workspaces/versioning.rst:34
+msgid ""
+"On the details page for a specific version, we see at the top again the "
+"list of all versions. At the lower part of the page, we see the details "
+"of the version we are currently viewing. Most importantly, we can use the"
+" \"Download\" button for downloading this version of the file."
+msgstr ""
+"En la página de detalles para una versión especifica, nosotros vemos en el "
+"tope otra vez la lista de todas las versiones. En la parte inferior de la "
+"página, nosotros vemos los detalles de la versión que actualmente estamos "
+"viendo. Lo mas importante nosotros podemos usar el botón \"Descargar\" para "
+"descargar esta versión del archivo."
+
+#: ../workspaces/versioning.rst:36
+msgid ""
+"In case a new version is not wanted, a click on \"Revert to this "
+"revision\", next to one of the older versions in the table above, will "
+"restore the selected older version."
+msgstr ""
+"En caso de que no se desee una nueva versión, al hacer clic en \"Revertir a "
+"esta versión\", junto a una de las versiones anteriores en la tabla "
+"anterior, se restaurará la versión anterior seleccionada."
+
+#: ../workspaces/workspace_content/index.rst:4
+msgid "Create Content"
+msgstr "Crear Contenido"
+
+#: ../workspaces/workspace_content/index.rst:6
+msgid ""
+"This part of the manual is about how to use and create content in an "
+"existing workspace."
+msgstr ""
+"Esta parte del manual trata sobre cómo usar y crear contenido en un "
+"espacio de trabajo existente."
+
+#: ../workspaces/workspace_content/index.rst:8
+msgid ""
+"The page icon opens the documents section. Here all content of a "
+"workspace is listed and managed. There are several content types "
+"available to store and manage data in a workspace:"
+msgstr ""
+"El icono de la página abre la sección de documentos. Aquí se enumera y "
+"administra todo el contenido de un espacio de trabajo. Hay varios tipos "
+"de contenido disponibles para almacenar y administrar datos en un área de"
+" trabajo:"
+
+#: ../workspaces/workspace_content/index.rst:13
+msgid "The main content types for workspaces currently existing in Quaive are:"
+msgstr ""
+"Los principales tipos de contenido para los espacios de trabajo "
+"actualmente existente en Quaive son:"
+
+#: ../workspaces/workspace_content/index.rst:19
+msgid ""
+"In this section, the works as a file browser where the existing content "
+"of a workspace is presented in a list as you know it from the file "
+"browser on your computer. There are several possibilities to group, "
+"filter or search for the elements in the sidebar to help you managing "
+"your content."
+msgstr ""
+"En esta sección, funciona como un buscador de archivos donde el contenido"
+" existente de un espacio de trabajo se presenta en una lista como la "
+"conoce desde el buscador de archivos en su computadora. Existen varias "
+"posibilidades para agrupar, filtrar o buscar los elementos en la barra "
+"lateral para ayudarlo a administrar su contenido."
+
+#: ../workspaces/workspace_content/index.rst:22
+msgid ""
+"Learn more about using the sidebar for managing workspace content here: "
+":ref:`workspace-manage-content-label`"
+msgstr ""
+"Obtenga más información sobre cómo usar la barra lateral para administrar"
+" el contenido del espacio de trabajo aquí: :ref:`workspace-content-label`"
+
+#: ../workspaces/workspace_content/index.rst:26
+msgid "Document"
+msgstr "Documento"
+
+#: ../workspaces/workspace_content/index.rst:28
+msgid ""
+"The document is the basic content type in Quaive. Documents are used to "
+"store text and have basic formatting possibilities to display it."
+msgstr ""
+"El documento es el tipo de contenido básico en Quaive. Los documentos se "
+"utilizan para almacenar texto y tienen posibilidades básicas de formato "
+"para mostrarlo."
+
+#: ../workspaces/workspace_content/index.rst:31
+msgid "How to create a document"
+msgstr "Como crear un documento"
+
+#: ../workspaces/workspace_content/index.rst:33
+msgid ""
+"To create a document a workspace, click the dots icon in the sidebar to "
+"open the more menu."
+msgstr ""
+"Para crear un documento en un espacio de trabajo, haga clic en el icono "
+"puntos en la barra lateral al abrir el menú más."
+
+#: ../workspaces/workspace_content/index.rst:37
+msgid "Select \"Create document\" from the list of actions."
+msgstr "Seleccione \"Crear documento\" desde la lista de acciones."
+
+#: ../workspaces/workspace_content/index.rst:41
+msgid ""
+"A form opens where you can choose the object type to be added. As \"Rich "
+"text\" is already selected, you do not have to change it. Type in a title"
+" and if wanted a short description for your new document and click "
+"\"Create\"."
+msgstr ""
+"Se abre un formulario donde puede elegir el tipo de objeto que se "
+"agregará. Como \"Texto enriquecido\" ya está seleccionado, no tiene que "
+"cambiarlo. Escriba un título y, si lo desea, una breve descripción de su "
+"nuevo documento y haga clic en \"Crear\"."
+
+#: ../workspaces/workspace_content/index.rst:46
+msgid "Your document is created and can be edited."
+msgstr "Su documento es creado y puede ser editado."
+
+#: ../workspaces/workspace_content/index.rst:50
+msgid ""
+"Type your text in the given text area of the open document. For "
+"formatting you can use the editor functions above the text-area which "
+"allow basic formatting as list elements, tables and also embedded images "
+"or links."
+msgstr ""
+"Escriba su texto en el área de texto dada del documento abierto. Para el "
+"formateo puede usar las funciones del editor encima del área de texto que"
+" permiten el formateo básico como elementos de lista, tablas y también "
+"imágenes o enlaces incrustados."
+
+#: ../workspaces/workspace_content/index.rst:56
+msgid "Folder"
+msgstr "Carpeta"
+
+#: ../workspaces/workspace_content/index.rst:58
+msgid ""
+"Folders in Quaive work much like they do on your computer. They can be "
+"used to structure and organize the content of your workspace. A folder "
+"has a title and a description and can store all other types of workspace "
+"content."
+msgstr ""
+"Las carpetas en Quaive funcionan de forma similar a como lo hacen en su "
+"computadora. Se pueden usar para estructurar y organizar el contenido de "
+"su espacio de trabajo. Una carpeta tiene un título y una descripción, y "
+"puede almacenar todos los demás tipos de contenido del espacio de trabajo."
+
+#: ../workspaces/workspace_content/index.rst:62
+msgid "How to create a folder"
+msgstr "Como crear una carpeta"
+
+#: ../workspaces/workspace_content/index.rst:64
+msgid ""
+"To add a new folder, click the dots icon in the sidebar to open the more "
+"menu."
+msgstr ""
+"Para agregar una caperta en un espacio de trabajo, haga clic en el icono "
+"puntos en la barra lateral al abrir el menu más."
+
+#: ../workspaces/workspace_content/index.rst:68
+msgid "Select \"Create folder\" from the list of actions."
+msgstr "Seleccione \"Crear carpeta\" desde la lista de acciones."
+
+#: ../workspaces/workspace_content/index.rst:72
+msgid ""
+"A form opens where you can type in title and a short description of your "
+"new folder."
+msgstr ""
+"Se abre un formulario donde puede escribir el título y una breve "
+"descripción de su nueva carpeta."
+
+#: ../workspaces/workspace_content/index.rst:76
+msgid ""
+"After clicking the button \"Create\" the folder is added to your "
+"workspace and immediately opens in the sidebar. Now you can add content "
+"to your new folder."
+msgstr ""
+"Después de hacer clic en el botón \"Crear\" la carpeta se agrega a su "
+"espacio de trabajo y se abre inmediatamente en la barra lateral. Ahora puede "
+"agregar contenido a su nueva carpeta."
+
+#: ../workspaces/workspace_content/index.rst:79
+msgid ""
+"You can change title and description of existing folders by clicking the "
+"pencil icon behind the title of the folder in the sidebar. To get one "
+"level up back to the workspace's root folder click the link on the "
+"workspace title above the sidebar search field."
+msgstr ""
+"Puede cambiar el título y la descripción de las carpetas existentes "
+"haciendo clic en el ícono de lápiz detrás del título de la carpeta en la "
+"barra lateral. Para subir un nivel a la carpeta raíz del espacio de "
+"trabajo, haga clic en el enlace del título del espacio de trabajo sobre el "
+"campo de búsqueda de la barra lateral."
+
+#: ../workspaces/workspace_content/index.rst:87
+msgid "Image"
+msgstr "Imagen"
+
+#: ../workspaces/workspace_content/index.rst:89
+msgid ""
+"An Image object in Quaive is used for uploading image files (JPG, GIF, "
+"PNG) so that you can insert them into Quaive documents or just have them "
+"stored in your workspace."
+msgstr ""
+"Un objeto de imagen en Quaive se utiliza para cargar archivos de imagen "
+"(JPG, GIF, PNG) para que pueda insertarlos en documentos de Quaive o "
+"simplemente guardarlos en su espacio de trabajo."
+
+#: ../workspaces/workspace_content/index.rst:91
+msgid ""
+"When uploading an image a preview is generated automatically to make it "
+"easy for you to find your images within the workspace."
+msgstr ""
+"Al cargar una imagen, se genera automáticamente una vista previa para "
+"facilitar la búsqueda de imágenes dentro del espacio de trabajo."
+
+#: ../workspaces/workspace_content/index.rst:95
+msgid "How to upload an image"
+msgstr "Como cargar una imagen"
+
+#: ../workspaces/workspace_content/index.rst:97
+msgid ""
+"Images can either be created as described in the section \"How to create "
+"a document\" or - as files - simply uploaded. As the method to create an "
+"image object is almost the same as for documents we will take a closer "
+"look at the uploading method here."
+msgstr ""
+"Las imágenes pueden crearse como se describe en la sección \"Cómo crear "
+"un documento\" o, como archivos, simplemente cargarse. Como el método "
+"para crear un objeto de imagen es casi el mismo que para los documentos, "
+"veremos más de cerca el método de carga aquí."
+
+#: ../workspaces/workspace_content/index.rst:100
+msgid ""
+"When looking at the sidebar within a workspace or a folder in document "
+"section, you can find an upload area below the list of content."
+msgstr ""
+"Al mirar la barra lateral dentro de un espacio de trabajo o una carpeta en "
+"la sección del documento, puede encontrar un área de carga debajo de la "
+"lista de contenido."
+
+#: ../workspaces/workspace_content/index.rst:104
+msgid ""
+"This area is used to upload an image (or also a file). To do this you "
+"have two possibilities: You can either click the link within the drop "
+"area and select an image via the opening file browser"
+msgstr ""
+"Esta área se usa para subir una imagen (o también un archivo). Para hacer"
+" esto, tiene dos posibilidades: puede hacer clic en el enlace dentro del "
+"área de colocación y seleccionar una imagen a través del buscador de "
+"archivos abierto"
+
+#: ../workspaces/workspace_content/index.rst:109
+msgid ""
+"Or you can just add image(s) by dragging the image(s) you want to add "
+"from the file browser of your computer over the drop area"
+msgstr ""
+"O simplemente puede agregar la(s) imagen(es) arrastrando la(s) imagen(es) "
+"que desea agregar desde el explorador de archivos de su computadora sobre el "
+"área de colocación"
+
+#: ../workspaces/workspace_content/index.rst:113
+msgid ""
+"Both actions have the same effect, the image (or if more were selected "
+"images) is queued for upload below the upload area and you can watch the "
+"upload process of several objects easily."
+msgstr ""
+"Ambas acciones tienen el mismo efecto, la imagen (o si se seleccionaron "
+"más imágenes) se pone en cola para su carga debajo del área de carga y "
+"puede ver el proceso de carga de varios objetos fácilmente."
+
+#: ../workspaces/workspace_content/index.rst:117
+msgid ""
+"After the upload process has finished, the image occurs in the list of "
+"object in the sidebar. To view the image, simply click on the list entry "
+"and the image is opened in the main content area."
+msgstr ""
+"Una vez que el proceso de carga ha finalizado, la imagen aparece en la "
+"lista de objetos en la barra lateral. Para ver la imagen, simplemente "
+"haga clic en la entrada de la lista y la imagen se abrirá en el área de "
+"contenido principal."
+
+#: ../workspaces/workspace_content/index.rst:124
+msgid "File"
+msgstr "Archivo"
+
+#: ../workspaces/workspace_content/index.rst:126
+msgid ""
+"A File in Quaive is one of the most powerful objects as it can hold any "
+"kind of binary file you wish to upload with the intent to be downloaded "
+"by your site visitors. Common examples are PDFs, Word Documents, Excel "
+"tables and spreadsheets. For the uploaded file a preview is generated "
+"automatically to give the user an idea of what the file is about."
+msgstr ""
+"Un archivo en Quaive es uno de los objetos más potentes, ya que puede "
+"contener cualquier tipo de archivo binario que desee cargar con la "
+"intención de ser descargado por los visitantes de su sitio. Ejemplos "
+"comunes son archivos PDF, documentos de Word, tablas y hojas de cálculo "
+"de Excel. Para el archivo cargado, se genera automáticamente una vista "
+"previa para darle al usuario una idea de qué se trata el archivo."
+
+#: ../workspaces/workspace_content/index.rst:129
+msgid ""
+"There is also the possibility to have version management for files in "
+"Quaive. This is a powerful method to view and even restore older versions"
+" of a file and also get an overview over the versions in a table like "
+"version history view."
+msgstr ""
+"También existe la posibilidad de tener la gestión de versiones para "
+"archivos en Quaive. Este es un poderoso método para ver e incluso "
+"restaurar versiones anteriores de un archivo y también obtener una visión"
+" general de las versiones en una tabla como la vista del historial de "
+"versiones."
+
+#: ../workspaces/workspace_content/index.rst:131
+msgid "Read more about versioning here: :ref:`workspace-versioning`."
+msgstr ""
+"Lea más sobre el control de versiones aquí: :ref:`workspace-versioning`."
+
+#: ../workspaces/workspace_content/index.rst:134
+msgid "How to upload a file"
+msgstr "Como cargar un archivo"
+
+#: ../workspaces/workspace_content/index.rst:136
+msgid ""
+"Uploading files works exactly the same way as uploading images - so for a"
+" how to please read \"How to upload an image_\""
+msgstr ""
+"La carga de archivos funciona exactamente de la misma manera que la carga de "
+"imágenes - por lo que para saber cómo leer, por favor lea \"Cómo cargar una "
+"imagen_\""
+
+#: ../workspaces/workspace_events/index.rst:4
+#: ../workspaces/workspace_overview.rst:86
+msgid "Events"
+msgstr "Eventos"
+
+#: ../workspaces/workspace_events/index.rst:6
+msgid ""
+"This part of the manual is about how to use and create events in an "
+"existing workspace."
+msgstr ""
+"Esta parte del manual trata sobre cómo usar y crear eventos en un espacio de "
+"trabajo existente."
+
+#: ../workspaces/workspace_events/index.rst:8
+msgid ""
+"Quaive has a powerful built-in system for managing and showing calendar "
+"events. Besides that, every workspace in Quaive can hold it's own event "
+"which makes it possible to keep users informed on important dates "
+"concerning their workspaces."
+msgstr ""
+"Quaive tiene un poderoso sistema incorporado para administrar y mostrar "
+"eventos del calendario. Además, cada espacio de trabajo en Quaive puede "
+"albergar su propio evento, lo que permite mantener informados a los usuarios "
+"sobre fechas importantes relacionadas con sus espacios de trabajo."
+
+#: ../workspaces/workspace_events/index.rst:11
+msgid ""
+"There is also a calendar App existing in Quaive which allows you to get "
+"an overview over all events in all workspaces that are relevant for you. "
+".. Learn more about the calendar App here:"
+msgstr ""
+"También hay una aplicación calendario existente en Quaive la cual le "
+"permite obtener una visión general de todos los eventos de todos los "
+"espacios de trabajo que sean relevante a usted. .. Aprenda mas acerca de la "
+"aplicación calendario aquí:"
+
+#: ../workspaces/workspace_events/index.rst:14
+msgid ""
+"To access the calendar of your workspace and see which events are "
+"scheduled please click the little calendar icon in the section navigation"
+" of your workspace."
+msgstr ""
+"Para acceder al calendario de su espacio de trabajo y ver cuales eventos "
+"están planificados, por favor, haga clic en el pequeño icono calendario en "
+"la sección de navegación de su espacio de trabajo."
+
+#: ../workspaces/workspace_events/index.rst:18
+msgid "In this part of the manual you will"
+msgstr "En esta parte del manual usted podrá"
+
+#: ../workspaces/workspace_events/index.rst:26
+msgid "Create an event in a workspace"
+msgstr "Crear un evento en un espacio de trabajo"
+
+#: ../workspaces/workspace_events/index.rst:28
+msgid "To create an event in a workspace, click the plus icon in the sidebar."
+msgstr ""
+"Para crear un evento en un espacio de trabajo, haga clic en icono más en la "
+"barra lateral."
+
+#: ../workspaces/workspace_events/index.rst:32
+msgid "This opens the create event form."
+msgstr "Esta abrirá un formulario para crear evento."
+
+#: ../workspaces/workspace_events/index.rst:36
+msgid ""
+"We will take a closer look to the fields on the create events form. From "
+"the top they are:"
+msgstr ""
+"Nosotros tomaremos de cerca los campos en el formulario de creación de "
+"eventos. Desde arriba ellos son:"
+
+#: ../workspaces/workspace_events/index.rst:38
+msgid ""
+"**Event title** (*required*): The title is displayed in all places where "
+"the event is listed - calendar, portlets, listings, ..."
+msgstr ""
+"**Título del Evento** (*requerido*): El título es mostrado en todos los "
+"lugares donde el evento es listado - calendario, portlets, listados, ..."
+
+#: ../workspaces/workspace_events/index.rst:39
+msgid ""
+"**Notes**: the description is also displayed in some overviews and should"
+" therefor be short"
+msgstr ""
+"**Notas**: la descripción es también mostrada en algunas vistas generales y "
+"deberian ser cortas and should therefor be short"
+
+#: ../workspaces/workspace_events/index.rst:40
+msgid "**Location**: the location the event takes place (free text)"
+msgstr "**Ubicación**: la ubicación del evento en que sucedera (texto libre)"
+
+#: ../workspaces/workspace_events/index.rst:41
+msgid "**Organiser** (user picker field): the user organising the event"
+msgstr "**Organizador** (campo selector de usuario): el organizador del evento"
+
+#: ../workspaces/workspace_events/index.rst:42
+msgid ""
+"**All day event**: when this is selected, the start and end time settings"
+" of the event are ignored"
+msgstr ""
+"**Evento todo el día**: cuando esto es seleccionado, la configuración de la "
+"hora de inicio y el fin del evento es ignorada"
+
+#: ../workspaces/workspace_events/index.rst:43
+msgid "**From** (*required*) (calendar field): the date and time the event starts"
+msgstr ""
+"**Desde** (*requerido*) (campo calendario): la fecha y hora en que inicia el "
+"evento"
+
+#: ../workspaces/workspace_events/index.rst:44
+msgid "**To** (*required*) (calendar field): the date and time the event ends"
+msgstr ""
+"**Hasta** (*requerido*) (campo calendario): la fecha y hora en que culmina "
+"el evento"
+
+#: ../workspaces/workspace_events/index.rst:45
+msgid "**Timezone**: the time-zone for the event's start and end times"
+msgstr ""
+"**Zona horaria**: la zona horaria para la hora de inicio y culminación del "
+"evento"
+
+#: ../workspaces/workspace_events/index.rst:46
+msgid "**Invitees** (user picker field): the users that are invited to the event"
+msgstr ""
+"**Invitados** (campo selector de usuario): los usuarios que esta invitados "
+"al evento"
+
+#: ../workspaces/workspace_events/index.rst:48
+msgid ""
+"Only the title field and the start and end date and time are required. "
+"All other fields are optional and can also be left blank."
+msgstr ""
+"Solamente el campo título y la hora de inicio y culminación son requeridas. "
+"Todos los demás campos son opcionales y pueden también dejar en blanco."
+
+#: ../workspaces/workspace_events/index.rst:50
+#: ../workspaces/workspace_tasks/index.rst:44
+msgid ""
+"For date fields in Quaive a handy popup-calendar helps you selecting the "
+"date easily."
+msgstr ""
+"Para los campos de fecha en Quaive, un práctico calendario emergente le "
+"ayuda a seleccionar la fecha fácilmente."
+
+#: ../workspaces/workspace_events/index.rst:55
+msgid "Quaive user picker field"
+msgstr "Campo selector de usuario Quaive"
+
+#: ../workspaces/workspace_events/index.rst:57
+msgid ""
+"For the user related fields Quaive offers a special user picker that "
+"helps you browsing the user database to find portal users and assign "
+"them:"
+msgstr ""
+"Para los campos relacionados con usuarios Quaive ofrece un espacial selector "
+"de usuario que le ayuda a navegar la base de datos de usuario para buscar "
+"los usuarios del portal y entonces asignarlo:"
+
+#: ../workspaces/workspace_events/index.rst:61
+msgid ""
+"Just enter two or more chars to search for a user within the whole Quaive"
+" portal"
+msgstr ""
+"Justo ingrese dos o más caracteres para buscar por un usuario en todo el "
+"portal Quaive"
+
+#: ../workspaces/workspace_events/index.rst:65
+msgid ""
+"When selecting a user from the list of search results, the field is "
+"filled with the correct name and email address."
+msgstr ""
+"Cuando seleccione un usuario desde la lista de resultados de búsqueda, el "
+"campo es rellenado con el nombre correcto y la dirección de correo "
+"electrónico."
+
+#: ../workspaces/workspace_events/index.rst:69
+msgid ""
+"That's how the form looks for our test event. To create the event just "
+"click the button \"Create\" at the bottom of the form."
+msgstr ""
+"Eso es como lucirá el formulario para nuestro evento de prueba. Para crear "
+"el evento solo haga clic en el botón \"Crear\" al finalizar el formulario."
+
+#: ../workspaces/workspace_events/index.rst:73
+msgid ""
+"Your event is now created and listed in the sidebar under \"Upcoming "
+"events\"."
+msgstr ""
+"Su evento es ahora creado y listado en la barra lateral bajo \"Próximos "
+"eventos\"."
+
+#: ../workspaces/workspace_events/index.rst:75
+#: ../workspaces/workspace_tasks/index.rst:55
+msgid ""
+"There will be a section older events which holds events of this workspace"
+" with end dates in the past. You can see that in the next chapter of this"
+" manual when we take a closer look at the workspace's :ref:`calendar-"
+"view-label`."
+msgstr ""
+"Habrá una sección de eventos más antiguos que contiene eventos de este "
+"espacio de trabajo con fechas de culminación en el pasado. Puede ver eso en "
+"el siguiente capítulo de este manual cuando echamos un vistazo más de cerca "
+"al espacio de trabajo en :ref:`calendar-view-label` del espacio de trabajo."
+
+#: ../workspaces/workspace_events/index.rst:83
+msgid "Use the Calendar view"
+msgstr "Usar la vista Calendario"
+
+#: ../workspaces/workspace_events/index.rst:85
+msgid ""
+"Besides the list of events in the sidebar Quaive offers a calendar with "
+"several view options within the workspace to get a quick overview over "
+"all events scheduled for this workspace."
+msgstr ""
+"Además de la lista de eventos en la barra lateral, Quaive ofrece un "
+"calendario con varias opciones de visualización dentro del espacio de trabajo "
+"para obtener una visión general rápida de todos los eventos programados para "
+"este espacio de trabajo."
+
+#: ../workspaces/workspace_events/index.rst:87
+msgid ""
+"To open the calendar view please click the link \"Workspace calendar\" at"
+" the top of the sidebar."
+msgstr ""
+"Para abrir la vista calendario, por favor, haga clic en el enlace \""
+"Calendario de espacio de trabajo\" en tope de la barra lateral."
+
+#: ../workspaces/workspace_events/index.rst:91
+msgid ""
+"The calendar shows up with a month overview for the current month. All "
+"upcoming events and events of the last few weeks are displayed with their"
+" start time, their title and the location they are supposed to take place"
+" in brackets."
+msgstr ""
+"El calendario aparece con una vista general de un mes para el mes actual. "
+"Todos los próximos eventos y eventos de las últimas semanas se muestran con "
+"su hora de inicio, su título y la ubicación que se supone que tienen lugar "
+"entre corchetes."
+
+#: ../workspaces/workspace_events/index.rst:96
+msgid ""
+"In each workspace you have also the possibility to display all events you"
+" are allowed to see that reside in other workspaces. To show them up in "
+"your current workspace's calendar view just tick the checkbox \"All "
+"calendars\" above the calendar grid."
+msgstr ""
+"En cada espacio de trabajo usted tiene también la posibilidad de mostrar "
+"todos los eventos que puede ver que residen en otros espacios de trabajo. "
+"Para mostrar entonces en su vista de calendario del actual espacio de "
+"trabajo solo marque la casilla \"Todos los calendarios\" arriba de la "
+"rejilla del calendario."
+
+#: ../workspaces/workspace_events/index.rst:101
+msgid ""
+"This displays all events for the visible period of time. Events that do "
+"not belong to the workspace you are currently in are displayed in a "
+"transparent way to make it easy for you to see which events are from "
+"other workspaces."
+msgstr ""
+"Esto muestra todos los eventos durante el período de tiempo visible. Los "
+"eventos que no pertenecen al espacio de trabajo en el que se encuentra "
+"actualmente se muestran de forma transparente para que le resulte más fácil "
+"ver qué eventos provienen de otros espacios de trabajo."
+
+#: ../workspaces/workspace_events/index.rst:106
+msgid ""
+"In the Quaive workspace calendar view - same as in the Quaive calendar "
+"app - you can switch between the calendar month, week or day view. Here "
+"you can see the calendar week view:"
+msgstr ""
+"El la vista calendario del espacio de trabajo Quaive - igual como en la "
+"aplicación calendario Quaive - usted puede cambiar entre vista mensual, "
+"semanal o diaria. Aquí usted puede ver la vista semanal:"
+
+#: ../workspaces/workspace_events/index.rst:111
+msgid "And the calendar day view:"
+msgstr "Y la vista de calendario diario:"
+
+#: ../workspaces/workspace_events/index.rst:115
+msgid ""
+"In all calendar views you can also create new events by simply clicking "
+"the tile for this day or time period. This will open a compact popup form"
+" to create your events in a quick and easy way."
+msgstr ""
+"En todas las vistas calendario usted puede también crear nuevos eventos "
+"simplemente haciendo clic en el titulo de este día o periodo de tiempo. Esto "
+"abrirá una ventana emergente compacta con un formulario para crear sus "
+"eventos de forma rápida y fácilmente."
+
+#: ../workspaces/workspace_events/index.rst:120
+msgid ""
+"There is also an option to view the events of you local workspace's "
+"calendar in the central calendar app. To enable this you have to change "
+"the setting \"Workspace calendar visible in central calendar "
+"application\" in the workspace general settings section as described "
+"here: :ref:`workspace-settings-central-calendar-label`"
+msgstr ""
+"También hay una opción para ver los eventos de su calendario del "
+"espacio de trabajo local en la aplicación calendario central. Para habilitar "
+"esto tiene que cambiar la configuración \"Calendario de espacio trabajo "
+"visible en aplicación de calendario central\" en la sección de configuración "
+"general del calendario como se describe aquí: :ref:`workspace-settings-"
+"central-calendar-label`"
+
+#: ../workspaces/workspace_manage_content/index.rst:4
+msgid "Manage Content"
+msgstr "Administrar Contenido"
+
+#: ../workspaces/workspace_manage_content/index.rst:6
+msgid ""
+"In the documents section of a workspace the sidebar presents the content "
+"of the current workspace in a similar way a file browser on your computer"
+" does. This enables you to get an overview over the content of your "
+"workspace."
+msgstr ""
+"En la sección de documentos de un espacio de trabajo la barra lateral "
+"presenta el contenido del actual espacio de trabajo en igual forma que el "
+"examinador de archivos en su computadora lo hace. Esto le habilita a obtener "
+"una visión general sobre el contenido de su espacio de trabajo."
+
+#: ../workspaces/workspace_manage_content/index.rst:9
+msgid ""
+"To improve organization there are several display options to group, "
+"filter and hide content objects. A powerful search option also helps to "
+"find special objects in even large workspaces within a few seconds."
+msgstr ""
+"Para mejorar la organización, hay varias opciones de visualización para "
+"agrupar, filtrar y ocultar objetos de contenido. Una poderosa opción de "
+"búsqueda también ayuda a encontrar objetos especiales incluso en espacios de "
+"trabajo grandes en pocos segundos."
+
+#: ../workspaces/workspace_manage_content/index.rst:11
+msgid ""
+"Besides display functionality the sidebar also offers a lot of batch "
+"actions and other functionality:"
+msgstr ""
+"Además de la funcionalidad de visualización, la barra lateral también ofrece "
+"muchas acciones por lotes y otras funcionalidades:"
+
+#: ../workspaces/workspace_manage_content/index.rst:19
+msgid "Group by option"
+msgstr "Agrupar por opción"
+
+#: ../workspaces/workspace_manage_content/index.rst:23
+msgid "Sidebar search"
+msgstr "Barra lateral de búsqueda"
+
+#: ../workspaces/workspace_manage_content/index.rst:27
+msgid "Display options"
+msgstr "Opciones de mostrar"
+
+#: ../workspaces/workspace_manage_content/index.rst:29
+msgid "show archived files"
+msgstr "mostrar archivos archivados"
+
+#: ../workspaces/workspace_manage_content/index.rst:30
+msgid "show archived tags"
+msgstr "mostrar etiquetas archivadas"
+
+#: ../workspaces/workspace_manage_content/index.rst:31
+msgid "show my documents only"
+msgstr "mostrar solo mis documentos"
+
+#: ../workspaces/workspace_manage_content/index.rst:35
+msgid "Batch actions"
+msgstr "Acciones por lote"
+
+#: ../workspaces/workspace_manage_content/index.rst:37
+msgid "select mode"
+msgstr "seleccionar modo"
+
+#: ../workspaces/workspace_manage_content/index.rst:38
+msgid "cut/copy/paste"
+msgstr "cortar/copiar/pegar"
+
+#: ../workspaces/workspace_manage_content/index.rst:39
+msgid "send"
+msgstr "enviar"
+
+#: ../workspaces/workspace_manage_content/index.rst:40
+msgid "archive"
+msgstr "archivar"
+
+#: ../workspaces/workspace_manage_content/index.rst:41
+msgid "download"
+msgstr "descargar"
+
+#: ../workspaces/workspace_manage_content/index.rst:42
+msgid "delete"
+msgstr "eliminar"
+
+#: ../workspaces/workspace_manage_content/index.rst:43
+msgid "re-tag"
+msgstr "etiqueta de nuevo"
+
+#: ../workspaces/workspace_manage_content/index.rst:44
+msgid "rename"
+msgstr "renombrar"
+
+#: ../workspaces/workspace_overview.rst:2
+msgid "Overview"
+msgstr "Visión general"
+
+#: ../workspaces/workspace_overview.rst:4
+msgid ""
+"In this section of the manual you will create your first demo workspace. "
+"Then we will take a closer look at the different sections of this "
+"workspace."
+msgstr ""
+"En esta sección del manual, creará su primer espacio de trabajo de "
+"demostración. Luego veremos más de cerca las diferentes secciones de este "
+"espacio de trabajo."
+
+#: ../workspaces/workspace_overview.rst:9
+msgid "Create a workspace"
+msgstr "Crear un espacio de trabajo"
+
+#: ../workspaces/workspace_overview.rst:11
+msgid ""
+"On the workspaces overview page that was shown on the Workspaces page of "
+"this manual, you can find a plus icon above the list of existing "
+"workspaces."
+msgstr ""
+"En la página de visión general de espacios de trabajo que se mostró en la "
+"página Espacios de trabajo de este manual, puede encontrar un icono más "
+"sobre la lista de espacios de trabajo existentes."
+
+#: ../workspaces/workspace_overview.rst:16
+msgid ""
+"**Note:** If you cannot see the plus icon the user you are using does not"
+" have the necessary permissions to create workspaces within the Quaive "
+"portal. Please ask your site administrator to grant you the necessary "
+"permissions."
+msgstr ""
+"**Nota:** Si no puede ver el ícono más, el usuario que está utilizando no "
+"tiene los permisos necesarios para crear espacios de trabajo dentro del "
+"portal de Quaive. Pídale al administrador de su sitio que le otorgue los "
+"permisos necesarios."
+
+#: ../workspaces/workspace_overview.rst:18
+msgid "After clicking the plus icon, a form opens for creating the new workspace"
+msgstr ""
+"Después de hacer clic en el icono más, se abre un formulario para crear el "
+"nuevo espacio de trabajo"
+
+#: ../workspaces/workspace_overview.rst:22
+msgid ""
+"Fill in a title and - if wanted - a short description what this workspace"
+" is about. The pulldown below the description text area is about the "
+"security settings of the workspace. For this first workspace we will use "
+"the default value for the security settings and so will create a self-"
+"managed, private workspace."
+msgstr ""
+"Complete un título y, si lo desea, una breve descripción de qué se trata "
+"este espacio de trabajo. El menú desplegable debajo del área de texto de "
+"descripción trata sobre la configuración de seguridad del espacio de "
+"trabajo. Para este primer espacio de trabajo usaremos el valor "
+"predeterminado para la configuración de seguridad y así crearemos un espacio "
+"de trabajo privado, autogestionado."
+
+#: ../workspaces/workspace_overview.rst:26
+msgid ""
+"**Note:** You can see the different options when looking at the pulldown "
+"values and can get information about the different security policies and "
+"their effects on the workspace accessibility when selecting them. For "
+"more information on security policies please take a look here: :ref"
+":`workspace-settings-security-label`"
+msgstr ""
+"**Nota:** Puede ver las diferentes opciones cuando mira los valores "
+"desplegables y puede obtener información sobre las diferentes políticas de "
+"seguridad y sus efectos sobre la accesibilidad del espacio de trabajo al "
+"seleccionarlas. Para obtener más información sobre las políticas de "
+"seguridad, consulte aquí: :ref:`workspace-settings-security-label`"
+
+#: ../workspaces/workspace_overview.rst:28
+msgid "Then click \"Create workspace\" to finally create your first workspace."
+msgstr ""
+"Luego haga clic en \"Crear espacio de trabajo\" para finalmente crear su "
+"primer espacio de trabajo."
+
+#: ../workspaces/workspace_overview.rst:32
+msgid ""
+"When entering a workspace you can see a set of icons in the coloured "
+"vertical bar on the left of the page. This is the section navigation of "
+"the workspace and the icons represent the different sections of the "
+"workspace. Clicking them opens the sidebar, a vertical panel for the "
+"selected section."
+msgstr ""
+"Al ingresar a un espacio de trabajo, puede ver un conjunto de iconos en la "
+"barra vertical coloreada a la izquierda de la página. Esta es la sección de "
+"navegación del espacio de trabajo y los iconos representan las diferentes "
+"secciones del espacio de trabajo. Al hacer clic en ellos se abre la barra "
+"lateral, un panel vertical para la sección seleccionada."
+
+#: ../workspaces/workspace_overview.rst:36
+msgid ""
+"The different sections of a workspace are listed here. Click one of the "
+"links to get more information about a specific workspace sections:"
+msgstr ""
+"Las diferentes secciones de un espacio de trabajo se enumeran aquí. Haga "
+"clic en uno de los enlaces para obtener más información sobre secciones "
+"específicas del espacio de trabajo:"
+
+#: ../workspaces/workspace_overview.rst:38
+msgid ":ref:`workspace-overview-home-label`"
+msgstr ":ref:`workspace-overview-home-label`"
+
+#: ../workspaces/workspace_overview.rst:39
+msgid ":ref:`workspace-overview-settings-label`"
+msgstr ":ref:`workspace-overview-settings-label`"
+
+#: ../workspaces/workspace_overview.rst:40
+msgid ":ref:`workspace-overview-documents-label`"
+msgstr ":ref:`workspace-overview-documents-label`"
+
+#: ../workspaces/workspace_overview.rst:41
+msgid ":ref:`workspace-overview-events-label`"
+msgstr ":ref:`workspace-overview-events-label`"
+
+#: ../workspaces/workspace_overview.rst:42
+msgid ":ref:`workspace-overview-tasks-label`"
+msgstr ":ref:`workspace-overview-tasks-label`"
+
+#: ../workspaces/workspace_overview.rst:48
+msgid "Home"
+msgstr "Inicio"
+
+#: ../workspaces/workspace_overview.rst:50
+msgid ""
+"The first icon - the house icon - represents the home view of a "
+"workspace. When clicking on it the sidebar is closed and the main view of"
+" the workspace with the social stream is displayed."
+msgstr ""
+"El primer ícono, el ícono de la casa, representa la vista de inicio de un "
+"espacio de trabajo. Al hacer clic en él, la barra lateral se cierra y se "
+"muestra la vista principal del espacio de trabajo con la secuencia social."
+
+#: ../workspaces/workspace_overview.rst:53
+msgid "Learn more about using the social stream here: :ref:`social-stream-label`."
+msgstr ""
+"Obtenga más información sobre cómo usar la actividades sociales aquí: :ref"
+":`social-stream-label`."
+
+#: ../workspaces/workspace_overview.rst:61
+#: ../workspaces/workspace_settings/index.rst:4
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../workspaces/workspace_overview.rst:63
+msgid ""
+"The gearwheel icon opens the settings section. Here all metadata of a "
+"workspace is stored and managed. Also the members of a workspace and the "
+"workspace security settings can be edited in this area."
+msgstr ""
+"El ícono de rueda dentada abre la sección de configuración. Aquí se "
+"almacenan y administran todos los metadatos de un espacio de trabajo. "
+"Además, los miembros de un espacio de trabajo y la configuración de "
+"seguridad del espacio de trabajo se pueden editar en esta área."
+
+#: ../workspaces/workspace_overview.rst:66
+msgid ""
+"Learn more about managing the workspace settings here: :ref:`workspace-"
+"settings-label`"
+msgstr ""
+"Obtenga más información sobre la administración de la configuración del "
+"espacio de trabajo aquí: :ref:`workspace-settings-label`"
+
+#: ../workspaces/workspace_overview.rst:74
+msgid "Documents"
+msgstr "Documentos"
+
+#: ../workspaces/workspace_overview.rst:76
+msgid "In the documents section all content stored in a workspace is managed."
+msgstr ""
+"En la sección de documentos, se administra todo el contenido almacenado en "
+"un espacio de trabajo."
+
+#: ../workspaces/workspace_overview.rst:78
+msgid ""
+"Learn more about handling workspace content here: :ref:`workspace-"
+"content-label`"
+msgstr ""
+"Obtenga más información sobre cómo manejar el contenido del espacio de "
+"trabajo aquí: :ref:`workspace-content-label`"
+
+#: ../workspaces/workspace_overview.rst:88
+msgid ""
+"In Quaive every workspace has its own calendar where the events of this "
+"workspace are displayed and can be managed. There is also an option to "
+"have workspace events displayed in the site wide calendar app to be "
+"served to users outside the workspace."
+msgstr ""
+"En Quaive, cada espacio de trabajo tiene su propio calendario donde los "
+"eventos de este espacio de trabajo se muestran y se pueden administrar. "
+"También hay una opción para que los eventos del espacio de trabajo se "
+"muestren en la aplicación de calendario de todo el sitio para que se sirvan "
+"a los usuarios fuera del espacio de trabajo."
+
+#: ../workspaces/workspace_overview.rst:91
+msgid ""
+"Learn more about the workspace calendar and handling events here: :ref"
+":`workspace-events-label`"
+msgstr ""
+"Obtenga más información sobre el calendario del espacio de trabajo y el "
+"manejo de eventos aquí: :ref:`workspace-events-label`"
+
+#: ../workspaces/workspace_overview.rst:99
+#: ../workspaces/workspace_tasks/index.rst:4
+msgid "Tasks"
+msgstr "Tareas"
+
+#: ../workspaces/workspace_overview.rst:101
+msgid ""
+"In this section the tasks of this workspace are managed. New tasks can be"
+" created and you also can get an overview over tasks created and assigned"
+" to you by other workspace users. You can also see if a task is still "
+"open or already closed."
+msgstr ""
+"En esta sección, se administran las tareas de este espacio de trabajo. Se "
+"pueden crear nuevas tareas y también obtener una visión general de las "
+"tareas creadas y asignadas por otros usuarios del espacio de trabajo. "
+"También puede ver si una tarea aún está abierta o cerrada."
+
+#: ../workspaces/workspace_overview.rst:103
+msgid ""
+"Learn more about tasks and their usage within a workspace here: :ref"
+":`workspace-tasks-label`"
+msgstr ""
+"Aprenda más sobre las tareas y su uso dentro de un espacio de trabajo aquí: "
+":ref:`workspace-tasks-label`"
+
+#: ../workspaces/workspace_settings/index.rst:6
+msgid ""
+"This part of the manual is about how to change the different workspace "
+"settings."
+msgstr ""
+"Esta parte del manual trata sobre cómo cambiar las diferentes "
+"configuraciones del espacio de trabajo."
+
+#: ../workspaces/workspace_settings/index.rst:8
+msgid ""
+"The gearwheel icon opens the settings section. Here all metadata of a "
+"workspace is stored and managed. Also the members of a workspace and the "
+"workspaces security settings can be edited in this area."
+msgstr ""
+"El ícono de rueda dentada abre la sección de configuración. Aquí se "
+"almacenan y administran todos los metadatos de un espacio de trabajo. "
+"Además, los miembros de un espacio de trabajo y la configuración de "
+"seguridad de espacios de trabajo se pueden editar en esta área."
+
+#: ../workspaces/workspace_settings/index.rst:13
+msgid ""
+"When in settings section, you can see several tabs at the top of the "
+"sidebar. These tabs open the available subsections of the workspace "
+"settings:"
+msgstr ""
+"Cuando está en la sección de configuración, puede ver varias pestañas en la "
+"parte superior de la barra lateral. Estas pestañas abren las subsecciones "
+"disponibles de la configuración del espacio de trabajo:"
+
+#: ../workspaces/workspace_settings/index.rst:22
+msgid "General"
+msgstr "General"
+
+#: ../workspaces/workspace_settings/index.rst:23
+msgid ""
+"Here general metadata like title, description and the workspace's hero "
+"image can be changed."
+msgstr ""
+"Aquí los metadatos generales como el título, la descripción y la imagen del "
+"héroe del espacio de trabajo se pueden cambiar."
+
+#: ../workspaces/workspace_settings/index.rst:28
+msgid "How to change title and description of a workspace"
+msgstr "Cómo cambiar el título y la descripción de un espacio de trabajo"
+
+#: ../workspaces/workspace_settings/index.rst:30
+msgid ""
+"To change a workspace's title and description just type a new title or "
+"description in the text field or area in the sidebar."
+msgstr ""
+"Para cambiar el título y la descripción de un espacio de trabajo, simplemente "
+"escriba un nuevo título o descripción en el campo o área de texto en la "
+"barra lateral."
+
+#: ../workspaces/workspace_settings/index.rst:34
+msgid ""
+"The metadata is immediately autosaved and a info popup tells you that "
+"some attributes have been changed."
+msgstr ""
+"Los metadatos se guardan automáticamente de forma automática y una ventana "
+"emergente de información le informa que algunos atributos se han modificado."
+
+#: ../workspaces/workspace_settings/index.rst:38
+msgid ""
+"After the page is reloaded you can see the new workspace title in the "
+"breadcrumbs and the workspace header."
+msgstr ""
+"Después de volver a cargar la página, puede ver el nuevo título del espacio "
+"de trabajo en las rutas de exploración y el encabezado del espacio de "
+"trabajo."
+
+#: ../workspaces/workspace_settings/index.rst:44
+msgid "How to change the hero image of a workspace"
+msgstr "Cómo cambiar la imagen del héroe de un espacio de trabajo"
+
+#: ../workspaces/workspace_settings/index.rst:46
+msgid ""
+"Each workspace can have a hero image to be displayed as a visual element "
+"in the workspace's header section background. Changing this image can "
+"also be done in the general settings section."
+msgstr ""
+"Cada espacio de trabajo puede tener una imagen de héroe que se mostrará como "
+"un elemento visual en el fondo de la sección del encabezado del espacio de "
+"trabajo. Cambiar esta imagen también se puede hacer en la sección de "
+"configuración general."
+
+#: ../workspaces/workspace_settings/index.rst:49
+msgid ""
+"To change the image click the \"upload\" button in the sidebar and select"
+" an image in the opening file browser of your computer."
+msgstr ""
+"Para cambiar la imagen, haga clic en el botón \"cargar\" en la barra lateral "
+"y seleccione una imagen en el navegador de archivos abierto de su "
+"computadora."
+
+#: ../workspaces/workspace_settings/index.rst:53
+msgid "The image will be changed immediately as the metadata again is autosaved."
+msgstr ""
+"La imagen se cambiará inmediatamente ya que los metadatos se guardan "
+"automáticamente."
+
+#: ../workspaces/workspace_settings/index.rst:57
+msgid ""
+"Reloading the page will display the image in the header section of your "
+"workspace."
+msgstr ""
+"Recargar la página mostrará la imagen en la sección del encabezado de su "
+"espacio de trabajo."
+
+#: ../workspaces/workspace_settings/index.rst:64
+msgid "How to display the workspace events in the global calendar"
+msgstr "Cómo mostrar los eventos del espacio de trabajo en el calendario global"
+
+#: ../workspaces/workspace_settings/index.rst:66
+msgid ""
+"There is a possibility to display the events of your workspace in the "
+"global calendar app. To enable this you have to check the checkbox "
+"\"Workspace calendar visible in central calendar application\""
+msgstr ""
+"Existe la posibilidad de mostrar los eventos de su espacio de trabajo en la "
+"aplicación de calendario global. Para habilitar esto, debe marcar la casilla "
+"de verificación \"Calendario del espacio de trabajo visible en la aplicación de "
+"calendario central\""
+
+#: ../workspaces/workspace_settings/index.rst:69
+msgid ""
+"Learn more about events and the workspace calendar here: :ref:`workspace-"
+"events-label`"
+msgstr ""
+"Obtenga más información sobre eventos y el calendario del espacio de trabajo "
+"aquí: :ref:`workspace-events-label`"
+
+#: ../workspaces/workspace_settings/index.rst:78
+msgid "Members"
+msgstr "Miembros"
+
+#: ../workspaces/workspace_settings/index.rst:79
+msgid ""
+"In the Members section you can see which users and groups are members of "
+"this workspace and which roles they have on it. Here you can add new "
+"members or groups, delete existing ones or change the specific role of a "
+"member or a group."
+msgstr ""
+"En la sección Miembros, puede ver qué usuarios y grupos son miembros de este "
+"espacio de trabajo y qué roles tienen en él. Aquí puede agregar nuevos "
+"miembros o grupos, eliminar los existentes o cambiar el rol específico de un "
+"miembro o un grupo."
+
+#: ../workspaces/workspace_settings/index.rst:92
+msgid "Security"
+msgstr "Seguridad"
+
+#: ../workspaces/workspace_settings/index.rst:93
+msgid ""
+"On the security panel you can see the current security settings of the "
+"workspace. This is called the workspace policy. You can get information "
+"about the external visibility, the join policy and the participant policy"
+" of a workspace. All these settings of a workspace can be changed for "
+"existing workspaces whenever needed. Short explanations offer information"
+" about the current and possible options for these settings to make sure "
+"what effects on the workspace and it's content a change has."
+msgstr ""
+"En el panel de seguridad, puede ver la configuración de seguridad actual del "
+"espacio de trabajo. Esto se llama política de espacio de trabajo. Puede obtener "
+"información sobre la visibilidad externa, la política de unirse al espacio y "
+"la política de participante de un espacio de trabajo. Todas estas "
+"configuraciones de un espacio de trabajo se pueden cambiar para espacios de "
+"trabajo existentes siempre que sea necesario. Las explicaciones breves "
+"ofrecen información sobre las opciones actuales y posibles para estas "
+"configuraciones para asegurarse de qué efectos tiene el cambio en el espacio "
+"de trabajo y su contenido."
+
+#: ../workspaces/workspace_settings/index.rst:104
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: ../workspaces/workspace_settings/index.rst:105
+msgid ""
+"In the advanced settings section extended functionality on a workspace "
+"can be found such as setting up related workspaces, division support but "
+"also actions like archiving, freezing or deleting the workspace"
+msgstr ""
+"En la sección de configuración avanzada, se puede encontrar una "
+"funcionalidad extendida en un espacio de trabajo, como la configuración de "
+"espacios de trabajo relacionados, soporte de división pero también acciones "
+"como archivar, congelar o eliminar el espacio de trabajo"
+
+#: ../workspaces/workspace_tasks/index.rst:6
+msgid ""
+"This part of the manual is about how to use and create tasks in an "
+"existing workspace."
+msgstr ""
+"Esta parte del manual trata sobre cómo usar y crear tareas en un espacio de "
+"trabajo existente."
+
+#: ../workspaces/workspace_tasks/index.rst:8
+msgid ""
+"In a workspace in Quaive you can use tasks to define small pieces of work"
+" and - if you want - assign this to another user. Tasks can be closed "
+"when the job is finished and reopened again if this seems necessary. A "
+"notification email is sent out to the different users when a task was "
+"edited or it's status was changed."
+msgstr ""
+"En un espacio de trabajo en Quaive puede usar tareas para definir pequeños "
+"trabajos y, si lo desea, asignarlo a otro usuario. Las tareas se pueden "
+"cerrar cuando el trabajo finaliza y se vuelven a abrir si esto parece "
+"necesario. Se envía un correo electrónico de notificación a los diferentes "
+"usuarios cuando se editó una tarea o se cambió su estado."
+
+#: ../workspaces/workspace_tasks/index.rst:12
+msgid ""
+"To access the task section of your workspace and see existing tasks and "
+"their status click the little checkbox icon in the section navigation of "
+"your workspace."
+msgstr ""
+"Para acceder a la sección de tareas de su espacio de trabajo y ver las tareas "
+"existentes y su estado, haga clic en el pequeño icono de casilla de "
+"verificación en la sección de navegación de su espacio de trabajo."
+
+#: ../workspaces/workspace_tasks/index.rst:16
+msgid "Now you will learn how to"
+msgstr "Ahora usted aprenderá a como"
+
+#: ../workspaces/workspace_tasks/index.rst:24
+msgid "Create a task in a workspace"
+msgstr "Crear una tarea en un espacio de trabajo"
+
+#: ../workspaces/workspace_tasks/index.rst:26
+msgid "To create a task in a workspace, click the plus icon in the sidebar."
+msgstr ""
+"Para crear una tarea en un espacio de trabajo, haga clic en icono más en la "
+"barra lateral."
+
+#: ../workspaces/workspace_tasks/index.rst:30
+msgid "This opens the create task form."
+msgstr "Esta abrirá un formulario para crear tarea."
+
+#: ../workspaces/workspace_tasks/index.rst:34
+msgid ""
+"We will take a closer look to the fields on the create task form. From "
+"the top they are:"
+msgstr ""
+"Nosotros tomaremos de cerca los campos en el formulario de creación de "
+"tareas. Desde arriba ellos son:"
+
+#: ../workspaces/workspace_tasks/index.rst:36
+msgid ""
+"**Task title** (*required*): The title is displayed in all places where "
+"the task is listed - sidebar, portlets, listings, ..."
+msgstr ""
+"**Título del tarea** (*requerido*): El título es mostrado en todos los "
+"lugares donde la tarea es listado - calendario, portlets, listados, ..."
+
+#: ../workspaces/workspace_tasks/index.rst:37
+msgid ""
+"**Description**: the description can be used to describe the task if "
+"necessary"
+msgstr ""
+"**Descripción**: la descripción se puede usar para describir la tarea si es "
+"necesario"
+
+#: ../workspaces/workspace_tasks/index.rst:38
+msgid ""
+"**Initiator** (user picker field): the user initiating the task (this "
+"field is prefilled by the user who created the task)"
+msgstr ""
+"**Iniciador** (campo selector de usuario): el usuario que inicia la tarea ("
+"este campo lo rellena previamente el usuario que creó la tarea)"
+
+#: ../workspaces/workspace_tasks/index.rst:39
+msgid "**Assignee** (user picker field): the user the task is assigned to"
+msgstr ""
+"**Asignador** (campo selector de usuario): el usuario al que se asigna la "
+"tarea"
+
+#: ../workspaces/workspace_tasks/index.rst:40
+msgid "**Due date** (calendar field): the due date this task should be done"
+msgstr ""
+"**Fecha de vencimiento** (campo del calendario): la fecha de vencimiento de "
+"esta tarea se debe hacer"
+
+#: ../workspaces/workspace_tasks/index.rst:42
+msgid ""
+"Only the title field is required. All other fields are optional and can "
+"also be left blank."
+msgstr ""
+"Solamente el campo título es requerido. Todos los demás campos son "
+"opcionales y pueden también dejar en blanco."
+
+#: ../workspaces/workspace_tasks/index.rst:46
+msgid ""
+"For the user related fields Quaive offers a special user picker that "
+"helps you browsing the user database to find portal users and assign "
+"them. More about the user picker field type you can read in the events "
+"section here :ref:`quaive-user-picker-field-label`"
+msgstr ""
+"Para los campos relacionados con el usuario, Quaive ofrece un selector de "
+"usuario especial que le ayuda a explorar la base de datos de usuarios para "
+"encontrar usuarios del portal y asignarlos. Más sobre el tipo de campo "
+"selector de usuario que puede leer en la sección de eventos aquí :ref"
+":`quaive-user-picker-field-label`"
+
+#: ../workspaces/workspace_tasks/index.rst:49
+msgid ""
+"That's how the form looks for our test task. To create the task just "
+"click the button \"Create\" at the bottom of the form."
+msgstr ""
+"Eso es como lucira el formulario para nuestra tarea de prueba. Para crear la "
+"tarea solo haga clic en el botón \"Crear\" al finalizar el formulario."
+
+#: ../workspaces/workspace_tasks/index.rst:53
+msgid ""
+"Your task is now created and listed in the sidebar under \"General "
+"tasks\"."
+msgstr ""
+"Su tarea es ahora creada y listada en la barra laterar bajo \"Tareas "
+"generales\"."
+
+#: ../workspaces/workspace_tasks/index.rst:61
+msgid "Change the status of a task"
+msgstr "Cambiar el estatus de una tarea"
+
+#: ../workspaces/workspace_tasks/index.rst:63
+msgid ""
+"When you create a task in a workspace, the status of this task is open. "
+"This means, the work still has to be done, the job awaits doing."
+msgstr ""
+"Cuando crea una tarea en un espacio de trabajo, el estado de esta tarea está "
+"abierto. Esto significa que el trabajo aún tiene que hacerse, el trabajo "
+"espera hacerlo."
+
+#: ../workspaces/workspace_tasks/index.rst:65
+msgid ""
+"Usually you assign a task to a specific user and then this user has the "
+"task in his task list on the dashboard to see action needs to be done. "
+"After this user - or also someone else - did the job, he may want to "
+"inform you about it and this can be done by closing the task. So a closed"
+" task tells you the work has been done."
+msgstr ""
+"Por lo general, usted asigna una tarea a un usuario específico y luego este "
+"usuario tiene la tarea en su lista de tareas en el tablero para ver qué "
+"acción debe hacerse. Después de que este usuario, o también otra persona, "
+"haya hecho el trabajo, es posible que desee informarle al respecto y esto se "
+"puede hacer cerrando la tarea. Entonces, una tarea cerrada le dice que el "
+"trabajo ya está hecho."
+
+#: ../workspaces/workspace_tasks/index.rst:69
+msgid ""
+"Of course tasks can be reopened again if needed so the actions described "
+"now can also be performed to re-open a closed task. You can see the "
+"current status of all tasks in the sidebar by looking at the task's "
+"checkbox. Checked means the task is done, unchecked means it's still "
+"open."
+msgstr ""
+"Por supuesto, las tareas se pueden reabrir nuevamente si es necesario, de "
+"modo que las acciones descritas ahora también se pueden realizar para volver "
+"a abrir una tarea cerrada. Puede ver el estado actual de todas las tareas en "
+"la barra lateral mirando la casilla de verificación de la tarea. Controlado "
+"significa que la tarea está hecha, sin marcar significa que todavía está "
+"abierta."
+
+#: ../workspaces/workspace_tasks/index.rst:74
+msgid ""
+"To close our newly created task we click on the task title in the sidebar"
+" to open the task's edit view. In the edit actions bar you can see the "
+"current status of the task. For our task, the status is \"Open\" - you "
+"can also see this in the sidebar."
+msgstr ""
+"Para cerrar nuestra tarea recién creada, hacemos clic en el título de la "
+"tarea en la barra lateral para abrir la vista de edición de la tarea. En la "
+"barra de acciones de edición, puede ver el estado actual de la tarea. Para "
+"nuestra tarea, el estado es \"Abrir\" - también puede ver esto en la barra "
+"lateral."
+
+#: ../workspaces/workspace_tasks/index.rst:79
+msgid ""
+"To change the status of the task open the status pulldown and select "
+"\"Done\"."
+msgstr ""
+"Para cambiar el estatus de una tarea, abra la lista desplegable del estatus "
+"y seleccione \"Hecho\"."
+
+#: ../workspaces/workspace_tasks/index.rst:83
+msgid ""
+"A spinner shows that the status of the task is changed immediately and "
+"also the sidebar is updated automatically - the checkbox in front of the "
+"task is checked now. You can also use the sidebar checkboxes to close or "
+"re-open a task by simply checking or unchecking it's checkbox."
+msgstr ""
+"Un girador muestra que el estado de la tarea se cambia inmediatamente y que "
+"la barra lateral se actualiza automáticamente: la casilla de verificación "
+"que se encuentra frente a la tarea se verifica ahora. También puede utilizar "
+"las casillas de verificación de la barra lateral para cerrar o volver a "
+"abrir una tarea simplemente marcando o desmarcando su casilla de "
+"verificación."

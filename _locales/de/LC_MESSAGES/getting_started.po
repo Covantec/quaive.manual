@@ -1,0 +1,571 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017 - 2018, Quaive.com
+# This file is distributed under the same license as the Quaive package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quaive 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-14 20:56-0400\n"
+"PO-Revision-Date: 2018-04-14 23:08-0400\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: es\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: ../getting_started/create_initial_content.rst:3
+msgid "Create Initial Content"
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:7
+msgid ""
+"An intranet that is empty is not very enticing. You may want to set up "
+"some initial structure and content to welcome your users."
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:11
+msgid "Library"
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:13
+msgid ""
+"The Library is intended to provide all the information that is relevant "
+"for everybody in the organisation. Put here all the data that you "
+"normally share through a file share, a mapped drive, a server directory "
+"etc."
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:15
+msgid ""
+"Quaive Library does not use node pages for every section, so you don't "
+"have to create a \"Welcome to Section X\" page in every section. Instead "
+"the library shows directly sections and subsections on the first glance. "
+"This makes it quick to navigate."
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:19
+msgid ""
+"So create some initial sections for the documents most used in your "
+"organisation. The first one could be a section for the new social "
+"intranet, where you put documents about Quaive, about the on boarding "
+"process and background facts for users to look up. Another section could "
+"be the one for all the different forms needed to do travel expenses."
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:21
+msgid ""
+"Remember: The structure used on your file share is not necessarily the "
+"same structure that users use to search for content. This might be a good"
+" chance to rethink and to redo the structure, to make it more flat and to"
+" ask your users where they would expect to find items."
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:23
+msgid ""
+"Another approach that helps retrieving information is the search. Use the"
+" library search to look for content only within the library. As you can "
+"see previews of the result documents right away, finding the right "
+"document will be quicker than before."
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:25
+msgid ""
+"And there are tags. You can tag all your documents in the library cms. If"
+" you have to stick to one structure but you want to also make information"
+" available by another criterion, use tags."
+msgstr ""
+
+#: ../getting_started/create_initial_content.rst:27
+msgid ""
+"Example: Your structure is strictly built by department, and every "
+"department has order forms, then tagging them with the tag 'order form' "
+"makes it easy to locate all order forms - company wide."
+msgstr ""
+
+#: ../getting_started/history.rst:3
+msgid "The History"
+msgstr ""
+
+#: ../getting_started/history.rst:6 ../getting_started/setup.rst:6
+msgid "Description"
+msgstr ""
+
+#: ../getting_started/history.rst:8
+msgid ""
+"This document gives a short overview of the historical genesis of this "
+"project. For the current status, see the Quaive_ website."
+msgstr ""
+
+#: ../getting_started/history.rst:10
+msgid ""
+"The Plone Intranet project started life as a discussion between Netsight "
+"and Cosent back in 2013. Like a number of Plone companies, Netsight had "
+"already been working on intranet projects for some years, starting with a"
+" bespoke intranet for Belron in 2007. In more recent years Netsight saw "
+"the need to componentise their offering to improve manageability of the "
+"code base, to make supporting their solutions easier, and to help remain "
+"competitive in the marketplace (re-selling existing code was becoming a "
+"necessity)."
+msgstr ""
+
+#: ../getting_started/history.rst:12
+msgid ""
+"The idea behind this project is to build upon a number of existing "
+"packages out there in the Plone world that provide intranet-like "
+"functionality. Over the years many products have been developed, often "
+"inside individual organisations, with much repetition."
+msgstr ""
+
+#: ../getting_started/history.rst:14
+msgid ""
+"At the 2013 Plone Conference an open space session indicated that there "
+"were a number of other Plone companies with a similar history to "
+"Netsight’s in the intranet marketplace. With the growth of the "
+"intranet/digital workplace industry, it became clear that a number of "
+"Plone companies saw an opportunity to commercialise on a common Plone-"
+"based intranet solution. These discussions continued with other Plone "
+"community members which lead to the organisation of the first Plone "
+"Intranet summit in November 2013, and the formation of the Plone Intranet"
+" Consortium, which was later renamed into Quaive_."
+msgstr ""
+
+#: ../getting_started/history.rst:16
+msgid ""
+"An in-person meeting was arranged to follow up and brainstorm on these "
+"ideas two weeks after the conference. For expediency, those invited were "
+"those we knew who had an interest and experience with Plone intranets and"
+" who were located within an hour of London."
+msgstr ""
+
+#: ../getting_started/history.rst:20
+msgid "This initial meeting was held in London and attended by:"
+msgstr ""
+
+#: ../getting_started/history.rst:22
+msgid "Matt Hamilton, Matthew Sital-Singh, Ben Ackland - Netsight (UK)"
+msgstr ""
+
+#: ../getting_started/history.rst:23
+msgid "Guido Stevens - Cosent (NL)"
+msgstr ""
+
+#: ../getting_started/history.rst:24
+msgid "Alexander Pilz - Syslab.com (DE)"
+msgstr ""
+
+#: ../getting_started/history.rst:25
+msgid "Rob Gietema - Four Digits (NL)"
+msgstr ""
+
+#: ../getting_started/history.rst:26
+msgid "Philip Bauer - Starzel (DE) (remote)"
+msgstr ""
+
+#: ../getting_started/history.rst:27
+msgid "Bernhard Bühlmann - 4Teamwork (CH) (remote)"
+msgstr ""
+
+#: ../getting_started/history.rst:29
+msgid ""
+"A number of key areas were identified which are common requirements for "
+"intranets and which have been repeatedly over and over by a number of "
+"similar Plone add-ons."
+msgstr ""
+
+#: ../getting_started/history.rst:32
+msgid ""
+"Following a number of weekly Hangout sessions with the participants, a "
+"number of user stories were collected and organised into a `spreadsheet "
+"<https://docs.google.com/spreadsheet/ccc?key=0AmooreRUAv9PdGg4eG5VWkxZVS1EaWdCQllWWnh1Snc&usp=sharing>`_."
+msgstr ""
+
+#: ../getting_started/history.rst:34
+msgid ""
+"In early 2014, Netsight received funding to research social software "
+"within the enterprise. This grant has been used to research new process "
+"methodologies to improve the success rate of the introduction of social "
+"technologies into the organisation environment. In particular, Netsight "
+"have focussed on profiling individuals, departments and an entire "
+"organisation in order to deliver relevant social content and user "
+"interface within an intranet system."
+msgstr ""
+
+#: ../getting_started/history.rst:36
+msgid ""
+"In October 2014, the Plone Intranet Consortium met in Munich and decided "
+"on a concrete commitment to developing Plone Intranet by investing money "
+"and manpower. Development was organised using Scrum and a roadmap for a "
+"first version was set."
+msgstr ""
+
+#: ../getting_started/history.rst:38
+msgid ""
+"In October 2015, the Plone Intranet Consortium was renamed into Quaive "
+"and the first production version of the software suite was released."
+msgstr ""
+
+#: ../getting_started/history.rst:40
+msgid "The founding partners of Quaive are:"
+msgstr ""
+
+#: ../getting_started/history.rst:42
+msgid "Netsight (UK)"
+msgstr ""
+
+#: ../getting_started/history.rst:43
+msgid "Cosent (Netherlands)"
+msgstr ""
+
+#: ../getting_started/history.rst:44
+msgid "Syslab (Germany)"
+msgstr ""
+
+#: ../getting_started/history.rst:45
+msgid "FourDigits (Netherlands)"
+msgstr ""
+
+#: ../getting_started/history.rst:46
+msgid "Abstract (Italy)"
+msgstr ""
+
+#: ../getting_started/history.rst:47
+msgid "Red Turtle (Italy)"
+msgstr ""
+
+#: ../getting_started/history.rst:48
+msgid "Starzel (Germany)"
+msgstr ""
+
+#: ../getting_started/history.rst:49
+msgid "Zest (Netherlands)"
+msgstr ""
+
+#: ../getting_started/history.rst:52
+msgid "Important Aspects of Plone Intranet"
+msgstr ""
+
+#: ../getting_started/history.rst:54
+msgid "Design First"
+msgstr ""
+
+#: ../getting_started/history.rst:55
+msgid "Roadmap-driven Scrum development"
+msgstr ""
+
+#: ../getting_started/history.rst:56
+msgid "Quaive board funds roadmap"
+msgstr ""
+
+#: ../getting_started/history.rst:57
+msgid "100% Open Source - all code is donated to the Plone Foundation"
+msgstr ""
+
+#: ../getting_started/history.rst:58
+msgid "NOT a core fork"
+msgstr ""
+
+#: ../getting_started/history.rst:59
+msgid "Compatible with mockup"
+msgstr ""
+
+#: ../getting_started/history.rst:60
+msgid "NOT a €€€ conspiracy"
+msgstr ""
+
+#: ../getting_started/history.rst:61
+msgid "Plone 5 based"
+msgstr ""
+
+#: ../getting_started/history.rst:65
+msgid "Further reading"
+msgstr ""
+
+#: ../getting_started/history.rst:67
+msgid ""
+"The study `Systems of Intent <http://cosent.nl/roadmap>`_ created by "
+"Guido Stevens"
+msgstr ""
+
+#: ../getting_started/history.rst:68
+msgid "The Talk given at the Plone Conference 2014 in Bristol"
+msgstr ""
+
+#: ../getting_started/history.rst:70
+msgid ""
+"Slides at `Slideshare <http://www.slideshare.net/GuidoStevens/plone-"
+"intranet-consortium-united-we-stand-divided-we-fall>`_"
+msgstr ""
+
+#: ../getting_started/history.rst:71
+msgid "Video at `Vimeo <http://vimeo.com/110489988>`_"
+msgstr ""
+
+#: ../getting_started/history.rst:73
+msgid ""
+"Many talks given at the Plone Conference 2015 in Bucharest, see the "
+"`ploneintranet tweet stream`_"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:2
+msgid "Importing Users"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:6
+msgid ""
+"To start working with Quaive, you need users. Users are stored as user "
+"profiles in Quaive and store everything that Quaive knows about the user "
+"- from profile image and name to organisation and telephone number. You "
+"can find them in the /profiles folder."
+msgstr ""
+
+#: ../getting_started/importing_users.rst:8
+msgid ""
+"User profiles can be customised as well. Often, organisations have a "
+"central user database which supplies the basic information like name and "
+"contact details and is mainly used for authentication. If you want to "
+"store more data, Quaive user profiles can store this extra information "
+"for you."
+msgstr ""
+
+#: ../getting_started/importing_users.rst:10
+msgid "There are two ways to get users into Quaive."
+msgstr ""
+
+#: ../getting_started/importing_users.rst:12
+msgid ""
+"Connect Quaive to LDAP or Active Directory Please contact your system "
+"administrator to do that, as it requires knowledge about the "
+"organisations user database configuration."
+msgstr ""
+
+#: ../getting_started/importing_users.rst:14
+msgid "Import Users from a spreadsheet See how it's done below."
+msgstr ""
+
+#: ../getting_started/importing_users.rst:19
+msgid "Import Users from a spreadsheet"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:21
+msgid ""
+"There is a bulk upload from CSV option. Column names are mapped to field "
+"names, and the data is validated before users are created. The first line"
+" needs to contain the field names."
+msgstr ""
+
+#: ../getting_started/importing_users.rst:23
+msgid ""
+"To use the bulk upload, visit the @@import-users browser view on the "
+"profiles folder in your site::"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:27
+msgid ""
+"On this page, you will see a complete list of available field names. Here"
+" is an example of a CSV file that will create 2 users::"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:37
+msgid "Portrait images"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:39
+msgid ""
+"After creating users with bulk upload, you can even bulk add portrait "
+"images as follows:"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:41
+msgid ""
+"In the site root, via the Barceloneta interface on cms.yoursite.com, add "
+"a Folder ‘avatars’ to the portal root"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:42
+msgid ""
+"Upload images into this folder with ids like ‘johndoe.jpg’ matching "
+"userid ‘johndoe’"
+msgstr ""
+
+#: ../getting_started/importing_users.rst:43
+msgid "Run::"
+msgstr ""
+
+#: ../getting_started/index.rst:2
+msgid "Getting Started with Quaive"
+msgstr "Erste Schritte mit Quaive"
+
+#: ../getting_started/index.rst:6
+msgid ""
+"Welcome to Quaive! You have probably tried Quaive on a test server or "
+"installed it yourself, and now you want to configure it for real for your"
+" organisation? Let us explain better how Quaive is organised and how you "
+"should set things up so that you can get most out of your Quaive Social "
+"Intranet."
+msgstr ""
+"Willkommen bei Quaive! Sie haben Quaive möglicherweise schon auf einem "
+"Testserver ausprobiert oder selbst installiert. Jetzt wollen sie es für den "
+"eigentlichen Einsatz in Ihrer Organisation konfigurieren? Hier erklären wir "
+"Ihnen, wie Quaive aufgebaut ist und wie Sie es so einrichten, dass Sie den "
+"größten Nutzen aus Ihrem neuen solzialen Intranet mit Quaive haben."
+
+#: ../getting_started/index.rst:8
+msgid ""
+"In Quaive, everything is about People and Content. Here is how it breaks "
+"down:"
+msgstr ""
+
+#: ../getting_started/index.rst:10
+msgid "People create Workspaces"
+msgstr ""
+
+#: ../getting_started/index.rst:11
+msgid "People create content in Workspaces"
+msgstr "Personen erzeugen Inhalte in Arbeitsräumen"
+
+#: ../getting_started/index.rst:12
+msgid ""
+"The social stream transports what's going on to everybody in the "
+"organisation"
+msgstr ""
+
+#: ../getting_started/index.rst:13
+msgid "People post updates to the stream"
+msgstr "Personen posten neue Einträge in den Stream"
+
+#: ../getting_started/index.rst:14
+msgid "Content changes and comments go into the stream"
+msgstr "Apps machen es einfach, gewünschte Inhalte schnell zu finden"
+
+#: ../getting_started/index.rst:15
+msgid "Apps make it easy to find needed content right away"
+msgstr ""
+
+#: ../getting_started/index.rst:16
+msgid "The dashboard aggregates and personalises current information"
+msgstr ""
+"Das Dashboard zeigt eine Zusammenfassung aktueller Information, "
+"personalisiert pro Nutzer"
+
+#: ../getting_started/index.rst:18
+msgid ""
+"To do all of this, you need to prepare a few things. This guide shouldn’t"
+" take you any longer than ten minutes to get through, front-to-back."
+msgstr ""
+"Um dies zu erreichen, müssen Sie ein paar Einstellungen vornehmen, die im"
+" Folgenden erläutert werden. Dieses Kapitel sollte Sie insgesamt nicht "
+"mehr als zehn Minuten kosten."
+
+#: ../getting_started/overview.rst:2
+msgid "Overview"
+msgstr ""
+
+#: ../getting_started/overview.rst:7
+msgid "Quaive is a social intranet collaboration solution."
+msgstr ""
+
+#: ../getting_started/overview.rst:9
+msgid ""
+"We’ve specifically developed the Quaive software to deliver the balance "
+"of social tools, structure, and process that customers demand to "
+"successfully introduce a modern digital workplace into their "
+"organisation."
+msgstr ""
+
+#: ../getting_started/overview.rst:12
+msgid "Be productive"
+msgstr ""
+
+#: ../getting_started/overview.rst:12
+msgid "Provide staff with the tools and information they need to get things done"
+msgstr ""
+
+#: ../getting_started/overview.rst:15
+msgid "Work together"
+msgstr ""
+
+#: ../getting_started/overview.rst:15
+msgid ""
+"Strengthen internal communication, engage employees, build a sense of "
+"community"
+msgstr ""
+
+#: ../getting_started/overview.rst:18
+msgid "Stay organised"
+msgstr ""
+
+#: ../getting_started/overview.rst:18
+msgid "Manage key tasks and common business processes; keep up-to-date"
+msgstr ""
+
+#: ../getting_started/overview.rst:22
+msgid "On any device"
+msgstr ""
+
+#: ../getting_started/overview.rst:21
+msgid "Mobile, tablet, laptop, desktop"
+msgstr ""
+
+#: ../getting_started/overview.rst:24
+msgid ""
+"Quaive is a web based social intranet. However you should see Quaive more"
+" as an Application than a Website, even though there are a few website "
+"like aspects in it, like the news or the library. It performs much more "
+"application like tasks for you like aggregating information on the "
+"dashboard, support to share documents with your team and providing apps, "
+"which are small applications in itself."
+msgstr ""
+
+#: ../getting_started/overview.rst:26
+msgid "The main sections in Quaive are:"
+msgstr ""
+
+#: ../getting_started/overview.rst:28
+msgid ""
+"Dashboard - An aggregation of everything that is going on - personalised "
+"for you."
+msgstr ""
+
+#: ../getting_started/overview.rst:29
+msgid "News - A trail of what's going on within your organisation."
+msgstr ""
+
+#: ../getting_started/overview.rst:30
+msgid "Library - All information that concerns everybody in the organisation."
+msgstr ""
+
+#: ../getting_started/overview.rst:31
+msgid "Workspaces - All information that concerns your teams."
+msgstr ""
+
+#: ../getting_started/overview.rst:32
+msgid "Apps - All information that concerns you."
+msgstr ""
+
+#: ../getting_started/overview.rst:34
+msgid ""
+"The Open Source version of Quaive goes also under the name Plone Intranet"
+" and has been created by a team of Plone Solution Providers in an effort "
+"to unify available solutions for intranet under a designed and "
+"streamlined solution. The effort is organised in a consortium with "
+"currently 12 members, totalling 49 contributors in 6 countries."
+msgstr ""
+
+#: ../getting_started/setup.rst:3
+msgid "Set up your Intranet"
+msgstr ""
+
+#: ../getting_started/setup.rst:8
+msgid "A step-by-step guide to configure initial parameters of your intranet"
+msgstr ""
+
+#: ../getting_started/setup.rst:11
+msgid ""
+"For a first time installation, you will want to configure some settings. "
+"You can do that via the portal registry. These settings are listed below:"
+msgstr ""

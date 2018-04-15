@@ -101,4 +101,4 @@ you are looking for and it will appear in the list underneath the search box.
 Search, filters and groupings can be combined.
 
 You may reset both the search results and the filters
-by clicking on the button that reads “Reset search and filters”.
+by clicking on the button that reads "Reset search and filters".
